@@ -5,7 +5,7 @@
 - Windows 10/11
 - Python 3.14（64 位；随包提供的离线依赖按此版本构建）
 
-本包已包含前端构建产物、后端离线依赖包及运行所需的结构化数据；不需要 Node.js，也不需要运行 `npm install`。
+本包已包含前端构建产物、后端离线依赖包、全文切片和预构建向量索引；不需要 Node.js，也不需要运行 `npm install`。
 
 ## 启动方式
 
@@ -18,6 +18,17 @@
 ```
 
 脚本会自动创建 `backend\.venv`，从 `backend\wheels` 安装 Python 依赖，启动后端和前端静态站点，并打开网页。
+
+## 完整下载
+
+向量索引中的大文件由 Git LFS 保存。为获得与本地一致的完整功能，请使用安装了 Git LFS 的 Git 克隆仓库：
+
+```powershell
+git lfs install
+git clone https://github.com/3596940437-cpu/xiyun-vis-run-package.git
+```
+
+克隆完成后，确认 `backend\vector_indexes\rag_chunks_bge_m3\embeddings.npy` 的文件大小约为 156 MB；若它只有几百字节，请在项目目录执行 `git lfs pull`。
 
 ## 重装依赖
 
@@ -33,16 +44,7 @@
 
 如果需要 AI 问答，复制 `backend\.env.example` 为 `backend\.env`，填写 API Key 和模型名，然后重新运行启动脚本。
 
-为控制仓库体积，公开仓库不包含 `backend/vector_indexes` 和 `data/derived/v3_final/text_chunks.json`。下载后可直接启动并使用图谱、剧目详情、版本比较、结构化搜索和缓存问答。逐句全文命中与完整向量检索需要额外的原始文本切片数据。
-
-如已从项目数据源取得 `text_chunks.json`，请在安装兼容版本的 `faiss-cpu` 后，将它放入 `data/derived/v3_final/`，并在配置 `backend\.env` 后执行以下命令，即可在本地重建完整向量索引：
-
-```powershell
-Set-Location backend
-.\.venv\Scripts\python.exe scripts\build_rag_index.py --input ..\data\derived\v3_final\text_chunks.json --out vector_indexes\rag_chunks_bge_m3
-```
-
-该命令会调用配置的 embedding 模型，并在本地生成向量索引；生成的索引保存在本地，不需要提交到 GitHub。
+普通图谱、搜索、剧目详情、版本比较和完整文本检索不需要 API Key。AI 问答仍需在 `backend\.env` 中填写自己的 API Key；公开仓库不会包含个人密钥。
 
 ## 停止服务
 

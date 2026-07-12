@@ -4,14 +4,11 @@ import json
 import os
 from dataclasses import dataclass
 from pathlib import Path
-from typing import TYPE_CHECKING, Any
+from typing import Any
 
 import numpy as np
 from dotenv import load_dotenv
 from openai import OpenAI
-
-if TYPE_CHECKING:
-    import faiss
 
 
 @dataclass
@@ -20,11 +17,11 @@ class VectorStore:
     向量索引运行时对象。
 
     index:
-        FAISS 索引对象，只负责相似向量检索。
+        归一化后的文本向量矩阵，只负责相似向量检索。
 
     metadata:
         每个向量对应的文本片段信息。
-        FAISS 只返回向量编号，metadata 负责把编号还原成剧名、chunk_id、正文等信息。
+        向量行号对应 metadata 中同一位置的剧名、chunk_id 和正文。
 
     config:
         config.json 里的索引配置。
@@ -34,7 +31,7 @@ class VectorStore:
         当前向量索引所在目录。
     """
 
-    index: faiss.Index
+    index: np.ndarray
     metadata: list[dict[str, Any]]
     config: dict[str, Any]
     index_dir: Path
@@ -42,19 +39,6 @@ class VectorStore:
 
 _VECTOR_STORE: VectorStore | None = None
 _CLIENT: OpenAI | None = None
-
-
-def get_faiss_module():
-    """仅在本地向量索引可用时加载可选的 FAISS 依赖。"""
-
-    try:
-        import faiss
-    except ImportError as exc:
-        raise RuntimeError(
-            "完整向量检索需要额外安装兼容版本的 faiss-cpu。"
-        ) from exc
-
-    return faiss
 
 
 def get_project_root() -> Path:
@@ -96,7 +80,6 @@ def get_index_dir() -> Path:
         backend/vector_indexes/rag_chunks_bge_m3
 
     这个目录里应该包含：
-        chunks.index
         metadata.jsonl
         config.json
         embeddings.npy
@@ -160,12 +143,12 @@ def load_vector_store(force_reload: bool = False) -> VectorStore:
 
     index_dir = get_index_dir()
 
-    index_path = index_dir / "chunks.index"
+    embeddings_path = index_dir / "embeddings.npy"
     metadata_path = index_dir / "metadata.jsonl"
     config_path = index_dir / "config.json"
 
-    if not index_path.exists():
-        raise FileNotFoundError(f"FAISS 索引文件不存在: {index_path}")
+    if not embeddings_path.exists():
+        raise FileNotFoundError(f"向量文件不存在: {embeddings_path}")
 
     if not metadata_path.exists():
         raise FileNotFoundError(f"metadata.jsonl 不存在: {metadata_path}")
@@ -173,15 +156,17 @@ def load_vector_store(force_reload: bool = False) -> VectorStore:
     if not config_path.exists():
         raise FileNotFoundError(f"config.json 不存在: {config_path}")
 
-    faiss = get_faiss_module()
-    index = faiss.read_index(str(index_path))
+    index = np.load(embeddings_path)
     metadata = read_jsonl(metadata_path)
     config = read_json(config_path)
 
-    if index.ntotal != len(metadata):
+    if index.ndim != 2:
+        raise RuntimeError(f"向量文件维度错误: expected 2D, got {index.ndim}D")
+
+    if index.shape[0] != len(metadata):
         raise RuntimeError(
-            "FAISS 向量数量和 metadata 数量不一致："
-            f"index.ntotal={index.ntotal}, metadata={len(metadata)}"
+            "向量数量和 metadata 数量不一致："
+            f"vectors={index.shape[0]}, metadata={len(metadata)}"
         )
 
     _VECTOR_STORE = VectorStore(
@@ -253,7 +238,7 @@ def embed_query(query_text: str) -> np.ndarray:
     """
     把用户问题转换成查询向量。
     注意：
-        建索引时对文本向量做了 faiss.normalize_L2。
+        建索引时已做 L2 归一化，查询向量也必须做同样处理。
         查询向量也必须做同样的 normalize_L2。
     """
 
@@ -271,7 +256,11 @@ def embed_query(query_text: str) -> np.ndarray:
         dtype="float32",
     )
 
-    get_faiss_module().normalize_L2(query_vector)
+    norm = np.linalg.norm(query_vector, axis=1, keepdims=True)
+    if np.any(norm == 0):
+        raise RuntimeError("embedding 接口返回了零向量，无法进行相似度检索。")
+
+    query_vector = query_vector / norm
 
     return query_vector
 
@@ -395,15 +384,18 @@ def retrieve_vector_evidence(
     else:
         search_k = max(fetch_k, top_k)
 
-    search_k = min(search_k, store.index.ntotal)
+    search_k = min(search_k, store.index.shape[0])
+
+    if search_k <= 0:
+        return []
 
     query_vector = embed_query(query_text)
-
-    scores, ids = store.index.search(query_vector, search_k)
+    scores = store.index @ query_vector[0]
+    ids = np.argsort(-scores)[:search_k]
 
     results: list[dict[str, Any]] = []
 
-    for rank, (score, idx) in enumerate(zip(scores[0], ids[0]), start=1):
+    for rank, idx in enumerate(ids, start=1):
         if idx < 0:
             continue
 
@@ -411,7 +403,7 @@ def retrieve_vector_evidence(
 
         evidence = metadata_to_evidence(
             meta=meta,
-            score=float(score),
+            score=float(scores[int(idx)]),
             rank=rank,
         )
 
