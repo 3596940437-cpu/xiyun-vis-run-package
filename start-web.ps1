@@ -109,10 +109,7 @@ function Find-AppRoot {
 function Get-SystemPythonCommand {
     $candidates = @(
         @{ Exe = "py"; Args = @("-3.14") },
-        @{ Exe = "py"; Args = @("-3.12") },
-        @{ Exe = "py"; Args = @("-3.11") },
-        @{ Exe = "python"; Args = @() },
-        @{ Exe = "python3"; Args = @() }
+        @{ Exe = "python"; Args = @() }
     )
 
     foreach ($candidate in $candidates) {
@@ -123,7 +120,7 @@ function Get-SystemPythonCommand {
 
         try {
             $versionText = & $candidate.Exe @($candidate.Args) --version 2>$null
-            if ($LASTEXITCODE -eq 0 -and $versionText -match "Python 3\.(1[1-9]|[2-9][0-9])") {
+            if ($LASTEXITCODE -eq 0 -and $versionText -match "Python 3\.14") {
                 return $candidate
             }
         }
@@ -131,7 +128,7 @@ function Get-SystemPythonCommand {
         }
     }
 
-    throw "Python 3.11+ was not found. Please install Python 3.14 for the bundled offline wheels."
+    throw "Python 3.14 was not found. Please install 64-bit Python 3.14 for the bundled offline wheels."
 }
 
 function Invoke-Python {
