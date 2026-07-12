@@ -1,0 +1,892 @@
+[
+  {
+    "coarse_cluster_id": "coarse_gongan",
+    "coarse_cluster_name": "公案清官与明清冤案",
+    "node_count": 425,
+    "fine_cluster_count": 4,
+    "fine_cluster_ids": [
+      "cluster_graph_00",
+      "cluster_graph_10",
+      "cluster_graph_15",
+      "cluster_graph_16"
+    ],
+    "fine_cluster_names": [
+      "明清公案婚姻冤案",
+      "包公清官公案",
+      "明代清官权奸",
+      "黄天霸施公案"
+    ],
+    "representative_play_ids": [
+      "play_09000000_09001002",
+      "play_02000000_02006045",
+      "play_14000000_14002006",
+      "play_05000000_05013004",
+      "play_05000000_05018005",
+      "play_14000000_14001001",
+      "play_11000000_11001001",
+      "play_02000000_02012035"
+    ],
+    "representative_titles": [
+      "宇宙锋",
+      "五凤楼",
+      "打龙袍",
+      "珍珠塔",
+      "五彩舆",
+      "一捧雪",
+      "连环套",
+      "东昌府"
+    ],
+    "top_distinctive_terms": [
+      {
+        "name": "明",
+        "count": 1
+      },
+      {
+        "name": "明清公案",
+        "count": 1
+      },
+      {
+        "name": "逼婚",
+        "count": 1
+      },
+      {
+        "name": "婚姻",
+        "count": 1
+      },
+      {
+        "name": "除奸",
+        "count": 1
+      },
+      {
+        "name": "公案",
+        "count": 1
+      },
+      {
+        "name": "包公",
+        "count": 1
+      },
+      {
+        "name": "包拯",
+        "count": 1
+      }
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 4
+      },
+      {
+        "name": "家庭伦理",
+        "count": 4
+      },
+      {
+        "name": "历史",
+        "count": 3
+      },
+      {
+        "name": "谋略",
+        "count": 3
+      },
+      {
+        "name": "忠义",
+        "count": 3
+      },
+      {
+        "name": "公案",
+        "count": 3
+      },
+      {
+        "name": "爱情",
+        "count": 2
+      },
+      {
+        "name": "包公",
+        "count": 1
+      }
+    ],
+    "matched_rule_terms": [
+      {
+        "name": "明清公案",
+        "count": 1
+      },
+      {
+        "name": "包公",
+        "count": 1
+      },
+      {
+        "name": "清官",
+        "count": 1
+      },
+      {
+        "name": "黄天霸",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "coarse_cluster_id": "coarse_sanguo",
+    "coarse_cluster_name": "三国群雄与智谋征战",
+    "node_count": 311,
+    "fine_cluster_count": 3,
+    "fine_cluster_ids": [
+      "cluster_graph_01",
+      "cluster_graph_05",
+      "cluster_graph_12"
+    ],
+    "fine_cluster_names": [
+      "三国群雄智谋征战",
+      "三国群雄智谋征战",
+      "九莲灯闵觉剧目群"
+    ],
+    "representative_play_ids": [
+      "play_01000000_01019003",
+      "play_02000000_02004020",
+      "play_14000000_14003003",
+      "play_70601000_70601104",
+      "play_70203000_70203202",
+      "play_09000000_09006001"
+    ],
+    "representative_titles": [
+      "三顾茅庐",
+      "瓦口关",
+      "空城计",
+      "赤壁鏖兵",
+      "玉堂春",
+      "打严嵩"
+    ],
+    "top_distinctive_terms": [
+      {
+        "name": "三国",
+        "count": 2
+      },
+      {
+        "name": "关羽",
+        "count": 1
+      },
+      {
+        "name": "曹操",
+        "count": 1
+      },
+      {
+        "name": "张飞",
+        "count": 1
+      },
+      {
+        "name": "刘备",
+        "count": 1
+      },
+      {
+        "name": "周仓",
+        "count": 1
+      },
+      {
+        "name": "诸葛亮",
+        "count": 1
+      },
+      {
+        "name": "司马懿",
+        "count": 1
+      }
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 3
+      },
+      {
+        "name": "谋略",
+        "count": 3
+      },
+      {
+        "name": "忠义",
+        "count": 3
+      },
+      {
+        "name": "家庭伦理",
+        "count": 3
+      },
+      {
+        "name": "三国",
+        "count": 2
+      },
+      {
+        "name": "历史",
+        "count": 2
+      },
+      {
+        "name": "公案",
+        "count": 1
+      },
+      {
+        "name": "宫廷",
+        "count": 1
+      }
+    ],
+    "matched_rule_terms": [
+      {
+        "name": "三国",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "coarse_cluster_id": "coarse_suitang",
+    "coarse_cluster_name": "隋唐英雄与宫闱传奇",
+    "node_count": 200,
+    "fine_cluster_count": 3,
+    "fine_cluster_ids": [
+      "cluster_graph_02",
+      "cluster_graph_08",
+      "cluster_graph_19"
+    ],
+    "fine_cluster_names": [
+      "隋唐宫闱传奇",
+      "隋唐英雄开国",
+      "沙陀李克用忠义"
+    ],
+    "representative_play_ids": [
+      "play_02000000_02012045",
+      "play_70203000_70203101",
+      "play_02000000_02006004",
+      "play_01000000_01031010",
+      "play_10000000_10001032",
+      "play_01000000_01022006"
+    ],
+    "representative_titles": [
+      "弓砚缘",
+      "花田错",
+      "锁五龙",
+      "选元戎",
+      "珠帘寨",
+      "太平桥"
+    ],
+    "top_distinctive_terms": [
+      {
+        "name": "隋唐",
+        "count": 2
+      },
+      {
+        "name": "复仇",
+        "count": 1
+      },
+      {
+        "name": "唐明皇",
+        "count": 1
+      },
+      {
+        "name": "高力士",
+        "count": 1
+      },
+      {
+        "name": "认亲",
+        "count": 1
+      },
+      {
+        "name": "团圆",
+        "count": 1
+      },
+      {
+        "name": "李世民",
+        "count": 1
+      },
+      {
+        "name": "尉迟恭",
+        "count": 1
+      }
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 3
+      },
+      {
+        "name": "家庭伦理",
+        "count": 3
+      },
+      {
+        "name": "历史",
+        "count": 3
+      },
+      {
+        "name": "谋略",
+        "count": 3
+      },
+      {
+        "name": "爱情",
+        "count": 2
+      },
+      {
+        "name": "忠义",
+        "count": 2
+      },
+      {
+        "name": "宫廷",
+        "count": 2
+      }
+    ],
+    "matched_rule_terms": [
+      {
+        "name": "隋唐",
+        "count": 2
+      },
+      {
+        "name": "李克用",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "coarse_cluster_id": "coarse_jiangmen",
+    "coarse_cluster_name": "将门忠义与边关征战",
+    "node_count": 154,
+    "fine_cluster_count": 2,
+    "fine_cluster_ids": [
+      "cluster_graph_03",
+      "cluster_graph_09"
+    ],
+    "fine_cluster_names": [
+      "杨家将忠义边关",
+      "岳家将忠义抗金"
+    ],
+    "representative_play_ids": [
+      "play_01000000_01005007",
+      "play_03000000_03030007",
+      "play_01000000_01013012",
+      "play_14000000_14001003"
+    ],
+    "representative_titles": [
+      "二进宫",
+      "雁门关",
+      "战太平",
+      "八大锤"
+    ],
+    "top_distinctive_terms": [
+      {
+        "name": "杨家将",
+        "count": 1
+      },
+      {
+        "name": "杨延昭",
+        "count": 1
+      },
+      {
+        "name": "佘太君",
+        "count": 1
+      },
+      {
+        "name": "杨继业",
+        "count": 1
+      },
+      {
+        "name": "赵德芳",
+        "count": 1
+      },
+      {
+        "name": "孟良",
+        "count": 1
+      },
+      {
+        "name": "岳家将",
+        "count": 1
+      },
+      {
+        "name": "岳飞",
+        "count": 1
+      }
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 2
+      },
+      {
+        "name": "家庭伦理",
+        "count": 2
+      },
+      {
+        "name": "历史",
+        "count": 2
+      },
+      {
+        "name": "谋略",
+        "count": 2
+      },
+      {
+        "name": "杨家将",
+        "count": 1
+      },
+      {
+        "name": "宫廷",
+        "count": 1
+      },
+      {
+        "name": "爱情",
+        "count": 1
+      },
+      {
+        "name": "忠义",
+        "count": 1
+      }
+    ],
+    "matched_rule_terms": [
+      {
+        "name": "杨家将",
+        "count": 1
+      },
+      {
+        "name": "岳家将",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "coarse_cluster_id": "coarse_lieguo",
+    "coarse_cluster_name": "列国楚汉与春秋风云",
+    "node_count": 147,
+    "fine_cluster_count": 4,
+    "fine_cluster_ids": [
+      "cluster_graph_04",
+      "cluster_graph_14",
+      "cluster_graph_18",
+      "cluster_graph_20"
+    ],
+    "fine_cluster_names": [
+      "列国楚汉风云",
+      "伍子胥复仇列国",
+      "孙膑庞涓斗智",
+      "楚庄王列国征战"
+    ],
+    "representative_play_ids": [
+      "play_02000000_02001022",
+      "play_03000000_03106003",
+      "play_80000000_80000029",
+      "play_01000000_01001011",
+      "play_03000000_03051003",
+      "play_02000000_02001047",
+      "play_02000000_02001027",
+      "play_01000000_01014012"
+    ],
+    "representative_titles": [
+      "孝感天",
+      "窃兵符",
+      "战樊城",
+      "文昭关",
+      "马陵道",
+      "五雷阵",
+      "米注山",
+      "摘缨会"
+    ],
+    "top_distinctive_terms": [
+      {
+        "name": "列国",
+        "count": 1
+      },
+      {
+        "name": "韩信",
+        "count": 1
+      },
+      {
+        "name": "项羽",
+        "count": 1
+      },
+      {
+        "name": "刘邦",
+        "count": 1
+      },
+      {
+        "name": "屠岸贾",
+        "count": 1
+      },
+      {
+        "name": "张良",
+        "count": 1
+      },
+      {
+        "name": "伍员",
+        "count": 1
+      },
+      {
+        "name": "楚平王",
+        "count": 1
+      }
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 4
+      },
+      {
+        "name": "谋略",
+        "count": 4
+      },
+      {
+        "name": "家庭伦理",
+        "count": 4
+      },
+      {
+        "name": "宫廷",
+        "count": 4
+      },
+      {
+        "name": "历史",
+        "count": 3
+      },
+      {
+        "name": "忠义",
+        "count": 2
+      },
+      {
+        "name": "复仇",
+        "count": 1
+      },
+      {
+        "name": "神怪",
+        "count": 1
+      }
+    ],
+    "matched_rule_terms": [
+      {
+        "name": "列国",
+        "count": 3
+      },
+      {
+        "name": "孙膑",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "coarse_cluster_id": "coarse_shuihu",
+    "coarse_cluster_name": "水浒侠义与江湖忠义",
+    "node_count": 82,
+    "fine_cluster_count": 1,
+    "fine_cluster_ids": [
+      "cluster_graph_06"
+    ],
+    "fine_cluster_names": [
+      "水浒侠义江湖"
+    ],
+    "representative_play_ids": [
+      "play_01000000_01002016",
+      "play_02000000_02008012"
+    ],
+    "representative_titles": [
+      "打渔杀家",
+      "双尽忠"
+    ],
+    "top_distinctive_terms": [
+      {
+        "name": "水浒",
+        "count": 1
+      },
+      {
+        "name": "宋江",
+        "count": 1
+      },
+      {
+        "name": "李广",
+        "count": 1
+      },
+      {
+        "name": "宋",
+        "count": 1
+      },
+      {
+        "name": "林冲",
+        "count": 1
+      },
+      {
+        "name": "梁山",
+        "count": 1
+      }
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 1
+      },
+      {
+        "name": "水浒",
+        "count": 1
+      },
+      {
+        "name": "家庭伦理",
+        "count": 1
+      },
+      {
+        "name": "忠义",
+        "count": 1
+      },
+      {
+        "name": "谋略",
+        "count": 1
+      },
+      {
+        "name": "历史",
+        "count": 1
+      }
+    ],
+    "matched_rule_terms": [
+      {
+        "name": "水浒",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "coarse_cluster_id": "coarse_shenguai",
+    "coarse_cluster_name": "神怪西游与仙佛传说",
+    "node_count": 67,
+    "fine_cluster_count": 1,
+    "fine_cluster_ids": [
+      "cluster_graph_07"
+    ],
+    "fine_cluster_names": [
+      "西游神怪仙佛"
+    ],
+    "representative_play_ids": [
+      "play_02000000_02007029",
+      "play_01000000_01018003"
+    ],
+    "representative_titles": [
+      "目莲记",
+      "骂阎罗"
+    ],
+    "top_distinctive_terms": [
+      {
+        "name": "西游",
+        "count": 1
+      },
+      {
+        "name": "神怪",
+        "count": 1
+      },
+      {
+        "name": "孙悟空",
+        "count": 1
+      },
+      {
+        "name": "唐僧",
+        "count": 1
+      },
+      {
+        "name": "刘青提",
+        "count": 1
+      },
+      {
+        "name": "猪八戒",
+        "count": 1
+      }
+    ],
+    "top_themes": [
+      {
+        "name": "家庭伦理",
+        "count": 1
+      },
+      {
+        "name": "战争",
+        "count": 1
+      },
+      {
+        "name": "神怪",
+        "count": 1
+      },
+      {
+        "name": "历史",
+        "count": 1
+      },
+      {
+        "name": "爱情",
+        "count": 1
+      },
+      {
+        "name": "宫廷",
+        "count": 1
+      }
+    ],
+    "matched_rule_terms": [
+      {
+        "name": "西游",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "coarse_cluster_id": "coarse_love_family",
+    "coarse_cluster_name": "爱情婚姻与家庭伦理",
+    "node_count": 47,
+    "fine_cluster_count": 2,
+    "fine_cluster_ids": [
+      "cluster_graph_13",
+      "cluster_graph_17"
+    ],
+    "fine_cluster_names": [
+      "薛平贵王宝钏婚恋",
+      "红楼儿女情"
+    ],
+    "representative_play_ids": [
+      "play_01000000_01005001",
+      "play_01000000_01003012",
+      "play_01000000_01013019",
+      "play_03000000_03057008"
+    ],
+    "representative_titles": [
+      "武家坡",
+      "彩楼配",
+      "黛玉葬花",
+      "黛玉焚稿"
+    ],
+    "top_distinctive_terms": [
+      {
+        "name": "王宝钏",
+        "count": 1
+      },
+      {
+        "name": "薛平贵",
+        "count": 1
+      },
+      {
+        "name": "王允",
+        "count": 1
+      },
+      {
+        "name": "薛平",
+        "count": 1
+      },
+      {
+        "name": "寒窑",
+        "count": 1
+      },
+      {
+        "name": "认亲",
+        "count": 1
+      },
+      {
+        "name": "贾宝玉",
+        "count": 1
+      },
+      {
+        "name": "林黛玉",
+        "count": 1
+      }
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 2
+      },
+      {
+        "name": "爱情",
+        "count": 2
+      },
+      {
+        "name": "家庭伦理",
+        "count": 2
+      },
+      {
+        "name": "婚姻",
+        "count": 2
+      },
+      {
+        "name": "历史",
+        "count": 2
+      },
+      {
+        "name": "宫廷",
+        "count": 1
+      },
+      {
+        "name": "谋略",
+        "count": 1
+      }
+    ],
+    "matched_rule_terms": [
+      {
+        "name": "王宝钏",
+        "count": 1
+      },
+      {
+        "name": "红楼",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "coarse_cluster_id": "coarse_song_palace",
+    "coarse_cluster_name": "宋初开国与宫廷风云",
+    "node_count": 40,
+    "fine_cluster_count": 1,
+    "fine_cluster_ids": [
+      "cluster_graph_11"
+    ],
+    "fine_cluster_names": [
+      "宋初开国宫廷"
+    ],
+    "representative_play_ids": [
+      "play_03000000_03060005",
+      "play_01000000_01021007"
+    ],
+    "representative_titles": [
+      "困曹府",
+      "雪夜访普"
+    ],
+    "top_distinctive_terms": [
+      {
+        "name": "赵匡胤",
+        "count": 1
+      },
+      {
+        "name": "柴荣",
+        "count": 1
+      },
+      {
+        "name": "高怀德",
+        "count": 1
+      },
+      {
+        "name": "呼延",
+        "count": 1
+      },
+      {
+        "name": "曹彬",
+        "count": 1
+      },
+      {
+        "name": "郑恩",
+        "count": 1
+      }
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 1
+      },
+      {
+        "name": "历史",
+        "count": 1
+      },
+      {
+        "name": "家庭伦理",
+        "count": 1
+      },
+      {
+        "name": "宫廷",
+        "count": 1
+      },
+      {
+        "name": "谋略",
+        "count": 1
+      },
+      {
+        "name": "忠义",
+        "count": 1
+      }
+    ],
+    "matched_rule_terms": [
+      {
+        "name": "宋初",
+        "count": 1
+      }
+    ]
+  }
+]

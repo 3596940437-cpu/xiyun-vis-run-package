@@ -1,0 +1,6204 @@
+[
+  {
+    "cluster_id": "cluster_graph_00",
+    "cluster_name": "明清公案婚姻冤案",
+    "node_count": 340,
+    "representative_play_ids": [
+      "play_09000000_09001002",
+      "play_02000000_02006045",
+      "play_01000000_01024002",
+      "play_01000000_01010007",
+      "play_02000000_02002035"
+    ],
+    "representative_titles": [
+      "宇宙锋",
+      "五凤楼",
+      "宏碧缘",
+      "打面缸",
+      "汉忠烈"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 234
+      },
+      {
+        "name": "家庭伦理",
+        "count": 197
+      },
+      {
+        "name": "历史",
+        "count": 134
+      },
+      {
+        "name": "谋略",
+        "count": 124
+      },
+      {
+        "name": "忠义",
+        "count": 108
+      },
+      {
+        "name": "爱情",
+        "count": 99
+      },
+      {
+        "name": "宫廷",
+        "count": 68
+      },
+      {
+        "name": "公案",
+        "count": 62
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "历史演义",
+        "count": 270
+      },
+      {
+        "name": "明清公案",
+        "count": 53
+      },
+      {
+        "name": "其他",
+        "count": 48
+      },
+      {
+        "name": "包公",
+        "count": 16
+      },
+      {
+        "name": "杨家将",
+        "count": 14
+      },
+      {
+        "name": "隋唐",
+        "count": 12
+      },
+      {
+        "name": "岳家将",
+        "count": 11
+      },
+      {
+        "name": "封神",
+        "count": 10
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 163
+      },
+      {
+        "name": "计谋",
+        "count": 146
+      },
+      {
+        "name": "审案",
+        "count": 97
+      },
+      {
+        "name": "殉节",
+        "count": 72
+      },
+      {
+        "name": "逼婚",
+        "count": 34
+      },
+      {
+        "name": "归隐",
+        "count": 26
+      },
+      {
+        "name": "忠谏",
+        "count": 24
+      },
+      {
+        "name": "除奸",
+        "count": 23
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "明",
+        "count": 107
+      },
+      {
+        "name": "宋",
+        "count": 27
+      },
+      {
+        "name": "清",
+        "count": 25
+      },
+      {
+        "name": "封神",
+        "count": 8
+      },
+      {
+        "name": "三国",
+        "count": 6
+      },
+      {
+        "name": "隋唐",
+        "count": 5
+      },
+      {
+        "name": "杨家将",
+        "count": 4
+      },
+      {
+        "name": "唐",
+        "count": 3
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "刘秀",
+        "count": 26
+      },
+      {
+        "name": "姚期",
+        "count": 19
+      },
+      {
+        "name": "马武",
+        "count": 19
+      },
+      {
+        "name": "王氏",
+        "count": 17
+      },
+      {
+        "name": "王承恩",
+        "count": 16
+      },
+      {
+        "name": "徐达",
+        "count": 16
+      },
+      {
+        "name": "韩世忠",
+        "count": 15
+      },
+      {
+        "name": "崇祯",
+        "count": 14
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "丑",
+        "count": 382
+      },
+      {
+        "name": "净",
+        "count": 331
+      },
+      {
+        "name": "老生",
+        "count": 295
+      },
+      {
+        "name": "旦",
+        "count": 244
+      },
+      {
+        "name": "小生",
+        "count": 213
+      },
+      {
+        "name": "老旦",
+        "count": 99
+      },
+      {
+        "name": "末",
+        "count": 68
+      },
+      {
+        "name": "生",
+        "count": 59
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "戏考",
+        "count": 126
+      },
+      {
+        "name": "京剧汇编",
+        "count": 74
+      },
+      {
+        "name": "国剧大成",
+        "count": 36
+      },
+      {
+        "name": "俞振飞剧本选",
+        "count": 22
+      },
+      {
+        "name": "京剧丛刊",
+        "count": 14
+      },
+      {
+        "name": "传统剧目汇编",
+        "count": 6
+      },
+      {
+        "name": "荀慧生剧本选",
+        "count": 6
+      },
+      {
+        "name": "程砚秋剧本选",
+        "count": 5
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "明",
+        "source": "periods",
+        "count": 107,
+        "share": 0.3147,
+        "lift": 2.4923,
+        "score": 11.6691
+      },
+      {
+        "name": "明清公案",
+        "source": "genealogy",
+        "count": 53,
+        "share": 0.1559,
+        "lift": 2.1459,
+        "score": 9.8441
+      },
+      {
+        "name": "逼婚",
+        "source": "motifs",
+        "count": 34,
+        "share": 0.1,
+        "lift": 2.7278,
+        "score": 9.6982
+      },
+      {
+        "name": "婚姻",
+        "source": "themes",
+        "count": 55,
+        "share": 0.1618,
+        "lift": 1.8911,
+        "score": 9.1348
+      },
+      {
+        "name": "除奸",
+        "source": "motifs",
+        "count": 23,
+        "share": 0.0676,
+        "lift": 1.9162,
+        "score": 6.0899
+      },
+      {
+        "name": "公案",
+        "source": "themes",
+        "count": 62,
+        "share": 0.1824,
+        "lift": 1.1781,
+        "score": 5.8572
+      },
+      {
+        "name": "清",
+        "source": "periods",
+        "count": 25,
+        "share": 0.0735,
+        "lift": 1.641,
+        "score": 5.3467
+      },
+      {
+        "name": "殉节",
+        "source": "motifs",
+        "count": 72,
+        "share": 0.2118,
+        "lift": 1.2185,
+        "score": 5.2278
+      }
+    ],
+    "explanation": "明清公案婚姻冤案主要由富集标签“明、明清公案、逼婚、婚姻”、主题“战争、家庭伦理、历史”、行当“丑、净、老生”和来源“戏考、京剧汇编”共同形成。",
+    "coarse_cluster_id": "coarse_gongan",
+    "coarse_cluster_name": "公案清官与明清冤案"
+  },
+  {
+    "cluster_id": "cluster_graph_01",
+    "cluster_name": "三国群雄智谋征战",
+    "node_count": 183,
+    "representative_play_ids": [
+      "play_01000000_01019003",
+      "play_02000000_02004020",
+      "play_01000000_01001006",
+      "play_01000000_01013004",
+      "play_02000000_02003030"
+    ],
+    "representative_titles": [
+      "三顾茅庐",
+      "瓦口关",
+      "捉放曹",
+      "借赵云",
+      "徐母骂曹"
+    ],
+    "top_themes": [
+      {
+        "name": "三国",
+        "count": 174
+      },
+      {
+        "name": "战争",
+        "count": 150
+      },
+      {
+        "name": "谋略",
+        "count": 73
+      },
+      {
+        "name": "忠义",
+        "count": 68
+      },
+      {
+        "name": "家庭伦理",
+        "count": 53
+      },
+      {
+        "name": "历史",
+        "count": 37
+      },
+      {
+        "name": "宫廷",
+        "count": 25
+      },
+      {
+        "name": "爱情",
+        "count": 19
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "三国",
+        "count": 176
+      },
+      {
+        "name": "历史演义",
+        "count": 107
+      },
+      {
+        "name": "隋唐",
+        "count": 6
+      },
+      {
+        "name": "列国",
+        "count": 4
+      },
+      {
+        "name": "神怪",
+        "count": 3
+      },
+      {
+        "name": "民间传说",
+        "count": 1
+      },
+      {
+        "name": "西游",
+        "count": 1
+      },
+      {
+        "name": "其他",
+        "count": 1
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 143
+      },
+      {
+        "name": "计谋",
+        "count": 104
+      },
+      {
+        "name": "审案",
+        "count": 32
+      },
+      {
+        "name": "殉节",
+        "count": 31
+      },
+      {
+        "name": "忠谏",
+        "count": 19
+      },
+      {
+        "name": "复仇",
+        "count": 11
+      },
+      {
+        "name": "结义",
+        "count": 10
+      },
+      {
+        "name": "伸冤",
+        "count": 5
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "三国",
+        "count": 181
+      },
+      {
+        "name": "宋",
+        "count": 1
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "刘备",
+        "count": 146
+      },
+      {
+        "name": "曹操",
+        "count": 142
+      },
+      {
+        "name": "关羽",
+        "count": 138
+      },
+      {
+        "name": "张飞",
+        "count": 101
+      },
+      {
+        "name": "赵云",
+        "count": 46
+      },
+      {
+        "name": "诸葛亮",
+        "count": 41
+      },
+      {
+        "name": "周仓",
+        "count": 32
+      },
+      {
+        "name": "吕布",
+        "count": 26
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "净",
+        "count": 281
+      },
+      {
+        "name": "老生",
+        "count": 228
+      },
+      {
+        "name": "丑",
+        "count": 73
+      },
+      {
+        "name": "红生",
+        "count": 70
+      },
+      {
+        "name": "武生",
+        "count": 61
+      },
+      {
+        "name": "小生",
+        "count": 59
+      },
+      {
+        "name": "生",
+        "count": 56
+      },
+      {
+        "name": "旦",
+        "count": 44
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "京剧汇编",
+        "count": 50
+      },
+      {
+        "name": "戏考",
+        "count": 41
+      },
+      {
+        "name": "李洪春剧本选",
+        "count": 25
+      },
+      {
+        "name": "传统剧目汇编",
+        "count": 14
+      },
+      {
+        "name": "国剧大成",
+        "count": 13
+      },
+      {
+        "name": "京剧丛刊",
+        "count": 13
+      },
+      {
+        "name": "录音、唱片本",
+        "count": 7
+      },
+      {
+        "name": "戏典",
+        "count": 3
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "三国",
+        "source": "themes",
+        "count": 174,
+        "share": 0.9508,
+        "lift": 5.3661,
+        "score": 33.2578
+      },
+      {
+        "name": "关羽",
+        "source": "keywords",
+        "count": 70,
+        "share": 0.3825,
+        "lift": 7.4137,
+        "score": 12.0089
+      },
+      {
+        "name": "曹操",
+        "source": "keywords",
+        "count": 76,
+        "share": 0.4153,
+        "lift": 7.0315,
+        "score": 11.6065
+      },
+      {
+        "name": "张飞",
+        "source": "keywords",
+        "count": 51,
+        "share": 0.2787,
+        "lift": 7.3305,
+        "score": 11.0066
+      },
+      {
+        "name": "刘备",
+        "source": "keywords",
+        "count": 82,
+        "share": 0.4481,
+        "lift": 6.4709,
+        "score": 10.8657
+      },
+      {
+        "name": "周仓",
+        "source": "keywords",
+        "count": 16,
+        "share": 0.0874,
+        "lift": 7.5757,
+        "score": 8.1562
+      },
+      {
+        "name": "吕布",
+        "source": "keywords",
+        "count": 14,
+        "share": 0.0765,
+        "lift": 7.5126,
+        "score": 7.7309
+      },
+      {
+        "name": "关平",
+        "source": "keywords",
+        "count": 11,
+        "share": 0.0601,
+        "lift": 8.0492,
+        "score": 7.6006
+      }
+    ],
+    "explanation": "三国群雄智谋征战主要由富集标签“三国、关羽、曹操、张飞”、主题“三国、战争、谋略”、行当“净、老生、丑”和来源“京剧汇编、戏考”共同形成。",
+    "coarse_cluster_id": "coarse_sanguo",
+    "coarse_cluster_name": "三国群雄与智谋征战"
+  },
+  {
+    "cluster_id": "cluster_graph_02",
+    "cluster_name": "隋唐宫闱传奇",
+    "node_count": 126,
+    "representative_play_ids": [
+      "play_02000000_02012045",
+      "play_70203000_70203101",
+      "play_01000000_01020003",
+      "play_02000000_02012002",
+      "play_02000000_02012020"
+    ],
+    "representative_titles": [
+      "弓砚缘",
+      "花田错",
+      "汾河湾",
+      "忠义图",
+      "莲花湖"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 93
+      },
+      {
+        "name": "家庭伦理",
+        "count": 73
+      },
+      {
+        "name": "历史",
+        "count": 61
+      },
+      {
+        "name": "爱情",
+        "count": 43
+      },
+      {
+        "name": "忠义",
+        "count": 42
+      },
+      {
+        "name": "谋略",
+        "count": 37
+      },
+      {
+        "name": "宫廷",
+        "count": 34
+      },
+      {
+        "name": "复仇",
+        "count": 25
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "历史演义",
+        "count": 118
+      },
+      {
+        "name": "隋唐",
+        "count": 98
+      },
+      {
+        "name": "岳家将",
+        "count": 15
+      },
+      {
+        "name": "神怪",
+        "count": 5
+      },
+      {
+        "name": "其他",
+        "count": 3
+      },
+      {
+        "name": "民间传说",
+        "count": 3
+      },
+      {
+        "name": "三国",
+        "count": 2
+      },
+      {
+        "name": "西游",
+        "count": 1
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 76
+      },
+      {
+        "name": "计谋",
+        "count": 44
+      },
+      {
+        "name": "复仇",
+        "count": 37
+      },
+      {
+        "name": "审案",
+        "count": 23
+      },
+      {
+        "name": "认亲",
+        "count": 20
+      },
+      {
+        "name": "团圆",
+        "count": 17
+      },
+      {
+        "name": "殉节",
+        "count": 14
+      },
+      {
+        "name": "归隐",
+        "count": 11
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "隋唐",
+        "count": 94
+      },
+      {
+        "name": "明",
+        "count": 8
+      },
+      {
+        "name": "宋",
+        "count": 7
+      },
+      {
+        "name": "岳家将",
+        "count": 4
+      },
+      {
+        "name": "三国",
+        "count": 2
+      },
+      {
+        "name": "清",
+        "count": 2
+      },
+      {
+        "name": "唐",
+        "count": 1
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "唐明皇",
+        "count": 18
+      },
+      {
+        "name": "高力士",
+        "count": 18
+      },
+      {
+        "name": "薛丁山",
+        "count": 14
+      },
+      {
+        "name": "何玉凤",
+        "count": 14
+      },
+      {
+        "name": "徐策",
+        "count": 12
+      },
+      {
+        "name": "樊梨花",
+        "count": 12
+      },
+      {
+        "name": "薛仁贵",
+        "count": 11
+      },
+      {
+        "name": "薛蛟",
+        "count": 10
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "净",
+        "count": 107
+      },
+      {
+        "name": "旦",
+        "count": 90
+      },
+      {
+        "name": "丑",
+        "count": 87
+      },
+      {
+        "name": "老生",
+        "count": 79
+      },
+      {
+        "name": "小生",
+        "count": 75
+      },
+      {
+        "name": "老旦",
+        "count": 21
+      },
+      {
+        "name": "武生",
+        "count": 20
+      },
+      {
+        "name": "末",
+        "count": 19
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "戏考",
+        "count": 44
+      },
+      {
+        "name": "国剧大成",
+        "count": 23
+      },
+      {
+        "name": "京剧汇编",
+        "count": 17
+      },
+      {
+        "name": "俞振飞剧本选",
+        "count": 11
+      },
+      {
+        "name": "荀慧生剧本选",
+        "count": 6
+      },
+      {
+        "name": "京剧丛刊",
+        "count": 5
+      },
+      {
+        "name": "名家藏本、演出本",
+        "count": 4
+      },
+      {
+        "name": "田汉剧本选",
+        "count": 3
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "隋唐",
+        "source": "genealogy",
+        "count": 98,
+        "share": 0.7778,
+        "lift": 4.4064,
+        "score": 23.2852
+      },
+      {
+        "name": "复仇",
+        "source": "themes",
+        "count": 25,
+        "share": 0.1984,
+        "lift": 4.4282,
+        "score": 17.313
+      },
+      {
+        "name": "唐明皇",
+        "source": "keywords",
+        "count": 10,
+        "share": 0.0794,
+        "lift": 11.6905,
+        "score": 10.6524
+      },
+      {
+        "name": "高力士",
+        "source": "keywords",
+        "count": 9,
+        "share": 0.0714,
+        "lift": 11.6905,
+        "score": 10.229
+      },
+      {
+        "name": "认亲",
+        "source": "motifs",
+        "count": 20,
+        "share": 0.1587,
+        "lift": 2.2923,
+        "score": 6.9788
+      },
+      {
+        "name": "团圆",
+        "source": "motifs",
+        "count": 17,
+        "share": 0.1349,
+        "lift": 2.3381,
+        "score": 6.758
+      },
+      {
+        "name": "岳家将",
+        "source": "genealogy",
+        "count": 15,
+        "share": 0.119,
+        "lift": 1.6389,
+        "score": 5.2254
+      },
+      {
+        "name": "婚姻",
+        "source": "themes",
+        "count": 13,
+        "share": 0.1032,
+        "lift": 1.2062,
+        "score": 3.8198
+      }
+    ],
+    "explanation": "隋唐宫闱传奇主要由富集标签“隋唐、复仇、唐明皇、高力士”、主题“战争、家庭伦理、历史”、行当“净、旦、丑”和来源“戏考、国剧大成”共同形成。",
+    "coarse_cluster_id": "coarse_suitang",
+    "coarse_cluster_name": "隋唐英雄与宫闱传奇"
+  },
+  {
+    "cluster_id": "cluster_graph_03",
+    "cluster_name": "杨家将忠义边关",
+    "node_count": 98,
+    "representative_play_ids": [
+      "play_01000000_01005007",
+      "play_03000000_03030007",
+      "play_03000000_03109004",
+      "play_70004000_70004111",
+      "play_01000000_01036002"
+    ],
+    "representative_titles": [
+      "二进宫",
+      "雁门关",
+      "贺后骂殿",
+      "刀劈三关",
+      "双龙会"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 86
+      },
+      {
+        "name": "杨家将",
+        "count": 51
+      },
+      {
+        "name": "宫廷",
+        "count": 43
+      },
+      {
+        "name": "家庭伦理",
+        "count": 40
+      },
+      {
+        "name": "历史",
+        "count": 35
+      },
+      {
+        "name": "谋略",
+        "count": 29
+      },
+      {
+        "name": "忠义",
+        "count": 28
+      },
+      {
+        "name": "爱情",
+        "count": 19
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "历史演义",
+        "count": 78
+      },
+      {
+        "name": "杨家将",
+        "count": 70
+      },
+      {
+        "name": "隋唐",
+        "count": 10
+      },
+      {
+        "name": "民间传说",
+        "count": 4
+      },
+      {
+        "name": "包公",
+        "count": 4
+      },
+      {
+        "name": "明清公案",
+        "count": 3
+      },
+      {
+        "name": "神怪",
+        "count": 2
+      },
+      {
+        "name": "水浒",
+        "count": 2
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 81
+      },
+      {
+        "name": "计谋",
+        "count": 44
+      },
+      {
+        "name": "审案",
+        "count": 24
+      },
+      {
+        "name": "殉节",
+        "count": 18
+      },
+      {
+        "name": "认亲",
+        "count": 11
+      },
+      {
+        "name": "结义",
+        "count": 10
+      },
+      {
+        "name": "忠谏",
+        "count": 9
+      },
+      {
+        "name": "投军",
+        "count": 8
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "杨家将",
+        "count": 58
+      },
+      {
+        "name": "宋",
+        "count": 16
+      },
+      {
+        "name": "隋唐",
+        "count": 7
+      },
+      {
+        "name": "明",
+        "count": 6
+      },
+      {
+        "name": "唐",
+        "count": 5
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "杨延昭",
+        "count": 65
+      },
+      {
+        "name": "佘太君",
+        "count": 33
+      },
+      {
+        "name": "杨继业",
+        "count": 32
+      },
+      {
+        "name": "赵德芳",
+        "count": 28
+      },
+      {
+        "name": "孟良",
+        "count": 27
+      },
+      {
+        "name": "焦赞",
+        "count": 25
+      },
+      {
+        "name": "潘洪",
+        "count": 23
+      },
+      {
+        "name": "杨宗保",
+        "count": 21
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "老生",
+        "count": 115
+      },
+      {
+        "name": "净",
+        "count": 114
+      },
+      {
+        "name": "旦",
+        "count": 112
+      },
+      {
+        "name": "小生",
+        "count": 74
+      },
+      {
+        "name": "丑",
+        "count": 50
+      },
+      {
+        "name": "老旦",
+        "count": 28
+      },
+      {
+        "name": "外",
+        "count": 10
+      },
+      {
+        "name": "正旦",
+        "count": 10
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "京剧汇编",
+        "count": 31
+      },
+      {
+        "name": "戏考",
+        "count": 22
+      },
+      {
+        "name": "国剧大成",
+        "count": 15
+      },
+      {
+        "name": "京剧丛刊",
+        "count": 7
+      },
+      {
+        "name": "录音、唱片本",
+        "count": 7
+      },
+      {
+        "name": "戏典",
+        "count": 2
+      },
+      {
+        "name": "孟小冬剧本选",
+        "count": 2
+      },
+      {
+        "name": "侯玉山剧本选",
+        "count": 2
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "杨家将",
+        "source": "themes",
+        "count": 51,
+        "share": 0.5204,
+        "lift": 14.7416,
+        "score": 69.897
+      },
+      {
+        "name": "杨延昭",
+        "source": "keywords",
+        "count": 37,
+        "share": 0.3776,
+        "lift": 15.0306,
+        "score": 20.7766
+      },
+      {
+        "name": "佘太君",
+        "source": "keywords",
+        "count": 21,
+        "share": 0.2143,
+        "lift": 15.0306,
+        "score": 17.6549
+      },
+      {
+        "name": "杨继业",
+        "source": "keywords",
+        "count": 19,
+        "share": 0.1939,
+        "lift": 14.2791,
+        "score": 16.255
+      },
+      {
+        "name": "赵德芳",
+        "source": "keywords",
+        "count": 17,
+        "share": 0.1735,
+        "lift": 14.1956,
+        "score": 15.5916
+      },
+      {
+        "name": "孟良",
+        "source": "keywords",
+        "count": 14,
+        "share": 0.1429,
+        "lift": 15.0306,
+        "score": 15.4674
+      },
+      {
+        "name": "焦赞",
+        "source": "keywords",
+        "count": 14,
+        "share": 0.1429,
+        "lift": 15.0306,
+        "score": 15.4674
+      },
+      {
+        "name": "杨宗保",
+        "source": "keywords",
+        "count": 13,
+        "share": 0.1327,
+        "lift": 15.0306,
+        "score": 15.0733
+      }
+    ],
+    "explanation": "杨家将忠义边关主要由富集标签“杨家将、杨延昭、佘太君、杨继业”、主题“战争、杨家将、宫廷”、行当“老生、净、旦”和来源“京剧汇编、戏考”共同形成。",
+    "coarse_cluster_id": "coarse_jiangmen",
+    "coarse_cluster_name": "将门忠义与边关征战"
+  },
+  {
+    "cluster_id": "cluster_graph_04",
+    "cluster_name": "列国楚汉风云",
+    "node_count": 90,
+    "representative_play_ids": [
+      "play_02000000_02001022",
+      "play_03000000_03106003",
+      "play_04000000_04044001",
+      "play_02000000_02001033",
+      "play_01000000_01021002"
+    ],
+    "representative_titles": [
+      "孝感天",
+      "窃兵符",
+      "春闺梦",
+      "搜孤救孤",
+      "霸王别姬"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 71
+      },
+      {
+        "name": "谋略",
+        "count": 49
+      },
+      {
+        "name": "家庭伦理",
+        "count": 42
+      },
+      {
+        "name": "历史",
+        "count": 31
+      },
+      {
+        "name": "宫廷",
+        "count": 23
+      },
+      {
+        "name": "忠义",
+        "count": 23
+      },
+      {
+        "name": "爱情",
+        "count": 17
+      },
+      {
+        "name": "公案",
+        "count": 9
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "列国",
+        "count": 78
+      },
+      {
+        "name": "历史演义",
+        "count": 64
+      },
+      {
+        "name": "隋唐",
+        "count": 12
+      },
+      {
+        "name": "三国",
+        "count": 9
+      },
+      {
+        "name": "神怪",
+        "count": 7
+      },
+      {
+        "name": "封神",
+        "count": 5
+      },
+      {
+        "name": "岳家将",
+        "count": 5
+      },
+      {
+        "name": "水浒",
+        "count": 2
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 62
+      },
+      {
+        "name": "计谋",
+        "count": 55
+      },
+      {
+        "name": "殉节",
+        "count": 21
+      },
+      {
+        "name": "忠谏",
+        "count": 21
+      },
+      {
+        "name": "审案",
+        "count": 11
+      },
+      {
+        "name": "复仇",
+        "count": 9
+      },
+      {
+        "name": "报恩",
+        "count": 5
+      },
+      {
+        "name": "结义",
+        "count": 3
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "列国",
+        "count": 69
+      },
+      {
+        "name": "隋唐",
+        "count": 10
+      },
+      {
+        "name": "明",
+        "count": 3
+      },
+      {
+        "name": "三国",
+        "count": 2
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "刘邦",
+        "count": 24
+      },
+      {
+        "name": "韩信",
+        "count": 24
+      },
+      {
+        "name": "项羽",
+        "count": 19
+      },
+      {
+        "name": "张良",
+        "count": 15
+      },
+      {
+        "name": "程婴",
+        "count": 12
+      },
+      {
+        "name": "虞姬",
+        "count": 12
+      },
+      {
+        "name": "屠岸贾",
+        "count": 11
+      },
+      {
+        "name": "廉颇",
+        "count": 11
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "老生",
+        "count": 102
+      },
+      {
+        "name": "净",
+        "count": 68
+      },
+      {
+        "name": "丑",
+        "count": 58
+      },
+      {
+        "name": "旦",
+        "count": 46
+      },
+      {
+        "name": "小生",
+        "count": 35
+      },
+      {
+        "name": "老旦",
+        "count": 23
+      },
+      {
+        "name": "武生",
+        "count": 23
+      },
+      {
+        "name": "生",
+        "count": 16
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "京剧汇编",
+        "count": 25
+      },
+      {
+        "name": "戏考",
+        "count": 24
+      },
+      {
+        "name": "国剧大成",
+        "count": 8
+      },
+      {
+        "name": "传统剧目汇编",
+        "count": 6
+      },
+      {
+        "name": "唐韵笙剧本选",
+        "count": 5
+      },
+      {
+        "name": "京剧丛刊",
+        "count": 3
+      },
+      {
+        "name": "汪笑侬剧本选",
+        "count": 3
+      },
+      {
+        "name": "马连良剧本选",
+        "count": 2
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "列国",
+        "source": "genealogy",
+        "count": 78,
+        "share": 0.8667,
+        "lift": 9.5985,
+        "score": 48.2311
+      },
+      {
+        "name": "韩信",
+        "source": "keywords",
+        "count": 13,
+        "share": 0.1444,
+        "lift": 16.3667,
+        "score": 16.4132
+      },
+      {
+        "name": "项羽",
+        "source": "keywords",
+        "count": 10,
+        "share": 0.1111,
+        "lift": 16.3667,
+        "score": 14.9133
+      },
+      {
+        "name": "刘邦",
+        "source": "keywords",
+        "count": 12,
+        "share": 0.1333,
+        "lift": 15.1077,
+        "score": 14.7252
+      },
+      {
+        "name": "屠岸贾",
+        "source": "keywords",
+        "count": 7,
+        "share": 0.0778,
+        "lift": 16.3667,
+        "score": 12.9327
+      },
+      {
+        "name": "张良",
+        "source": "keywords",
+        "count": 8,
+        "share": 0.0889,
+        "lift": 14.5481,
+        "score": 12.1469
+      },
+      {
+        "name": "公孙杵臼",
+        "source": "keywords",
+        "count": 6,
+        "share": 0.0667,
+        "lift": 16.3667,
+        "score": 12.1023
+      },
+      {
+        "name": "廉颇",
+        "source": "keywords",
+        "count": 6,
+        "share": 0.0667,
+        "lift": 16.3667,
+        "score": 12.1023
+      }
+    ],
+    "explanation": "列国楚汉风云主要由富集标签“列国、韩信、项羽、刘邦”、主题“战争、谋略、家庭伦理”、行当“老生、净、丑”和来源“京剧汇编、戏考”共同形成。",
+    "coarse_cluster_id": "coarse_lieguo",
+    "coarse_cluster_name": "列国楚汉与春秋风云"
+  },
+  {
+    "cluster_id": "cluster_graph_05",
+    "cluster_name": "三国群雄智谋征战",
+    "node_count": 90,
+    "representative_play_ids": [
+      "play_14000000_14003003",
+      "play_70601000_70601104",
+      "play_01000000_01016006",
+      "play_01000000_01006007",
+      "play_01000000_01039002"
+    ],
+    "representative_titles": [
+      "空城计",
+      "赤壁鏖兵",
+      "取南郡",
+      "定军山",
+      "玉门关"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 82
+      },
+      {
+        "name": "三国",
+        "count": 74
+      },
+      {
+        "name": "谋略",
+        "count": 63
+      },
+      {
+        "name": "忠义",
+        "count": 31
+      },
+      {
+        "name": "历史",
+        "count": 17
+      },
+      {
+        "name": "家庭伦理",
+        "count": 17
+      },
+      {
+        "name": "宫廷",
+        "count": 11
+      },
+      {
+        "name": "爱情",
+        "count": 7
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "三国",
+        "count": 82
+      },
+      {
+        "name": "历史演义",
+        "count": 60
+      },
+      {
+        "name": "封神",
+        "count": 3
+      },
+      {
+        "name": "隋唐",
+        "count": 2
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 83
+      },
+      {
+        "name": "计谋",
+        "count": 71
+      },
+      {
+        "name": "审案",
+        "count": 29
+      },
+      {
+        "name": "殉节",
+        "count": 15
+      },
+      {
+        "name": "忠谏",
+        "count": 12
+      },
+      {
+        "name": "团圆",
+        "count": 8
+      },
+      {
+        "name": "认亲",
+        "count": 3
+      },
+      {
+        "name": "归隐",
+        "count": 3
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "三国",
+        "count": 80
+      },
+      {
+        "name": "封神",
+        "count": 3
+      },
+      {
+        "name": "明",
+        "count": 1
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "诸葛亮",
+        "count": 124
+      },
+      {
+        "name": "周瑜",
+        "count": 49
+      },
+      {
+        "name": "鲁肃",
+        "count": 47
+      },
+      {
+        "name": "司马懿",
+        "count": 33
+      },
+      {
+        "name": "刘备",
+        "count": 32
+      },
+      {
+        "name": "刘禅",
+        "count": 19
+      },
+      {
+        "name": "孙权",
+        "count": 19
+      },
+      {
+        "name": "赵云",
+        "count": 18
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "老生",
+        "count": 172
+      },
+      {
+        "name": "净",
+        "count": 137
+      },
+      {
+        "name": "小生",
+        "count": 61
+      },
+      {
+        "name": "丑",
+        "count": 37
+      },
+      {
+        "name": "生",
+        "count": 19
+      },
+      {
+        "name": "末",
+        "count": 18
+      },
+      {
+        "name": "武生",
+        "count": 18
+      },
+      {
+        "name": "旦",
+        "count": 11
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "戏考",
+        "count": 30
+      },
+      {
+        "name": "京剧汇编",
+        "count": 25
+      },
+      {
+        "name": "萧长华剧本选",
+        "count": 8
+      },
+      {
+        "name": "国剧大成",
+        "count": 6
+      },
+      {
+        "name": "传统剧目汇编",
+        "count": 5
+      },
+      {
+        "name": "京剧丛刊",
+        "count": 3
+      },
+      {
+        "name": "汪笑侬剧本选",
+        "count": 3
+      },
+      {
+        "name": "孟小冬剧本选",
+        "count": 2
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "三国",
+        "source": "themes",
+        "count": 74,
+        "share": 0.8222,
+        "lift": 4.6404,
+        "score": 24.0416
+      },
+      {
+        "name": "诸葛亮",
+        "source": "keywords",
+        "count": 63,
+        "share": 0.7,
+        "lift": 11.5854,
+        "score": 18.3093
+      },
+      {
+        "name": "司马懿",
+        "source": "keywords",
+        "count": 17,
+        "share": 0.1889,
+        "lift": 16.3667,
+        "score": 17.9762
+      },
+      {
+        "name": "周瑜",
+        "source": "keywords",
+        "count": 25,
+        "share": 0.2778,
+        "lift": 13.6389,
+        "score": 16.886
+      },
+      {
+        "name": "鲁肃",
+        "source": "keywords",
+        "count": 25,
+        "share": 0.2778,
+        "lift": 12.0343,
+        "score": 14.8994
+      },
+      {
+        "name": "马谡",
+        "source": "keywords",
+        "count": 7,
+        "share": 0.0778,
+        "lift": 16.3667,
+        "score": 12.9327
+      },
+      {
+        "name": "刘禅",
+        "source": "keywords",
+        "count": 10,
+        "share": 0.1111,
+        "lift": 13.6389,
+        "score": 12.4278
+      },
+      {
+        "name": "姜维",
+        "source": "keywords",
+        "count": 8,
+        "share": 0.0889,
+        "lift": 14.5481,
+        "score": 12.1469
+      }
+    ],
+    "explanation": "三国群雄智谋征战主要由富集标签“三国、诸葛亮、司马懿、周瑜”、主题“战争、三国、谋略”、行当“老生、净、小生”和来源“戏考、京剧汇编”共同形成。",
+    "coarse_cluster_id": "coarse_sanguo",
+    "coarse_cluster_name": "三国群雄与智谋征战"
+  },
+  {
+    "cluster_id": "cluster_graph_06",
+    "cluster_name": "水浒侠义江湖",
+    "node_count": 82,
+    "representative_play_ids": [
+      "play_01000000_01002016",
+      "play_02000000_02008012",
+      "play_01000000_01027005",
+      "play_01000000_01029004",
+      "play_14000000_14001005"
+    ],
+    "representative_titles": [
+      "打渔杀家",
+      "双尽忠",
+      "三门街",
+      "九阳钟",
+      "丁甲山"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 61
+      },
+      {
+        "name": "水浒",
+        "count": 53
+      },
+      {
+        "name": "家庭伦理",
+        "count": 39
+      },
+      {
+        "name": "忠义",
+        "count": 32
+      },
+      {
+        "name": "谋略",
+        "count": 27
+      },
+      {
+        "name": "历史",
+        "count": 21
+      },
+      {
+        "name": "爱情",
+        "count": 16
+      },
+      {
+        "name": "公案",
+        "count": 13
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "水浒",
+        "count": 65
+      },
+      {
+        "name": "历史演义",
+        "count": 61
+      },
+      {
+        "name": "神怪",
+        "count": 7
+      },
+      {
+        "name": "其他",
+        "count": 4
+      },
+      {
+        "name": "隋唐",
+        "count": 3
+      },
+      {
+        "name": "民间传说",
+        "count": 2
+      },
+      {
+        "name": "包公",
+        "count": 1
+      },
+      {
+        "name": "明清公案",
+        "count": 1
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 41
+      },
+      {
+        "name": "计谋",
+        "count": 30
+      },
+      {
+        "name": "审案",
+        "count": 25
+      },
+      {
+        "name": "复仇",
+        "count": 14
+      },
+      {
+        "name": "殉节",
+        "count": 13
+      },
+      {
+        "name": "团圆",
+        "count": 10
+      },
+      {
+        "name": "伸冤",
+        "count": 7
+      },
+      {
+        "name": "结义",
+        "count": 7
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "宋",
+        "count": 31
+      },
+      {
+        "name": "清",
+        "count": 9
+      },
+      {
+        "name": "明",
+        "count": 8
+      },
+      {
+        "name": "隋唐",
+        "count": 3
+      },
+      {
+        "name": "唐",
+        "count": 1
+      },
+      {
+        "name": "列国",
+        "count": 1
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "宋江",
+        "count": 37
+      },
+      {
+        "name": "李广",
+        "count": 27
+      },
+      {
+        "name": "武松",
+        "count": 16
+      },
+      {
+        "name": "林冲",
+        "count": 15
+      },
+      {
+        "name": "李逵",
+        "count": 14
+      },
+      {
+        "name": "李刚",
+        "count": 14
+      },
+      {
+        "name": "萧桂英",
+        "count": 12
+      },
+      {
+        "name": "燕青",
+        "count": 11
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "净",
+        "count": 98
+      },
+      {
+        "name": "丑",
+        "count": 89
+      },
+      {
+        "name": "老生",
+        "count": 50
+      },
+      {
+        "name": "武生",
+        "count": 49
+      },
+      {
+        "name": "旦",
+        "count": 38
+      },
+      {
+        "name": "末",
+        "count": 33
+      },
+      {
+        "name": "小生",
+        "count": 29
+      },
+      {
+        "name": "外",
+        "count": 15
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "戏考",
+        "count": 26
+      },
+      {
+        "name": "国剧大成",
+        "count": 17
+      },
+      {
+        "name": "京剧汇编",
+        "count": 16
+      },
+      {
+        "name": "京剧丛刊",
+        "count": 7
+      },
+      {
+        "name": "戏典",
+        "count": 4
+      },
+      {
+        "name": "周信芳剧本选",
+        "count": 2
+      },
+      {
+        "name": "侯玉山剧本选",
+        "count": 2
+      },
+      {
+        "name": "录音、唱片本",
+        "count": 2
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "水浒",
+        "source": "themes",
+        "count": 53,
+        "share": 0.6463,
+        "lift": 16.4148,
+        "score": 78.5743
+      },
+      {
+        "name": "宋江",
+        "source": "keywords",
+        "count": 21,
+        "share": 0.2561,
+        "lift": 17.9634,
+        "score": 21.0998
+      },
+      {
+        "name": "李广",
+        "source": "keywords",
+        "count": 14,
+        "share": 0.1707,
+        "lift": 17.9634,
+        "score": 18.4854
+      },
+      {
+        "name": "宋",
+        "source": "periods",
+        "count": 31,
+        "share": 0.378,
+        "lift": 4.5645,
+        "score": 15.8193
+      },
+      {
+        "name": "林冲",
+        "source": "keywords",
+        "count": 8,
+        "share": 0.0976,
+        "lift": 17.9634,
+        "score": 14.9985
+      },
+      {
+        "name": "梁山",
+        "source": "keywords",
+        "count": 8,
+        "share": 0.0976,
+        "lift": 17.9634,
+        "score": 14.9985
+      },
+      {
+        "name": "武松",
+        "source": "keywords",
+        "count": 8,
+        "share": 0.0976,
+        "lift": 17.9634,
+        "score": 14.9985
+      },
+      {
+        "name": "李逵",
+        "source": "keywords",
+        "count": 7,
+        "share": 0.0854,
+        "lift": 17.9634,
+        "score": 14.1945
+      }
+    ],
+    "explanation": "水浒侠义江湖主要由富集标签“水浒、宋江、李广、宋”、主题“战争、水浒、家庭伦理”、行当“净、丑、老生”和来源“戏考、国剧大成”共同形成。",
+    "coarse_cluster_id": "coarse_shuihu",
+    "coarse_cluster_name": "水浒侠义与江湖忠义"
+  },
+  {
+    "cluster_id": "cluster_graph_07",
+    "cluster_name": "西游神怪仙佛",
+    "node_count": 67,
+    "representative_play_ids": [
+      "play_02000000_02007029",
+      "play_01000000_01018003",
+      "play_01000000_01036005",
+      "play_02000000_02006031",
+      "play_02000000_02006038"
+    ],
+    "representative_titles": [
+      "目莲记",
+      "骂阎罗",
+      "天女散花",
+      "五庄观",
+      "莲花洞"
+    ],
+    "top_themes": [
+      {
+        "name": "家庭伦理",
+        "count": 42
+      },
+      {
+        "name": "战争",
+        "count": 41
+      },
+      {
+        "name": "神怪",
+        "count": 35
+      },
+      {
+        "name": "历史",
+        "count": 23
+      },
+      {
+        "name": "爱情",
+        "count": 15
+      },
+      {
+        "name": "宫廷",
+        "count": 15
+      },
+      {
+        "name": "公案",
+        "count": 12
+      },
+      {
+        "name": "谋略",
+        "count": 10
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "神怪",
+        "count": 54
+      },
+      {
+        "name": "西游",
+        "count": 35
+      },
+      {
+        "name": "历史演义",
+        "count": 24
+      },
+      {
+        "name": "隋唐",
+        "count": 20
+      },
+      {
+        "name": "其他",
+        "count": 8
+      },
+      {
+        "name": "岳家将",
+        "count": 2
+      },
+      {
+        "name": "明清公案",
+        "count": 1
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 28
+      },
+      {
+        "name": "审案",
+        "count": 21
+      },
+      {
+        "name": "认亲",
+        "count": 11
+      },
+      {
+        "name": "伸冤",
+        "count": 7
+      },
+      {
+        "name": "计谋",
+        "count": 7
+      },
+      {
+        "name": "报恩",
+        "count": 7
+      },
+      {
+        "name": "归隐",
+        "count": 5
+      },
+      {
+        "name": "结义",
+        "count": 4
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "隋唐",
+        "count": 20
+      },
+      {
+        "name": "明",
+        "count": 9
+      },
+      {
+        "name": "西游",
+        "count": 9
+      },
+      {
+        "name": "宋",
+        "count": 4
+      },
+      {
+        "name": "清",
+        "count": 3
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "孙悟空",
+        "count": 52
+      },
+      {
+        "name": "唐僧",
+        "count": 14
+      },
+      {
+        "name": "刘青提",
+        "count": 11
+      },
+      {
+        "name": "猪八戒",
+        "count": 11
+      },
+      {
+        "name": "大鬼",
+        "count": 8
+      },
+      {
+        "name": "白素贞",
+        "count": 8
+      },
+      {
+        "name": "吕洞宾",
+        "count": 8
+      },
+      {
+        "name": "目莲",
+        "count": 6
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "净",
+        "count": 62
+      },
+      {
+        "name": "武生",
+        "count": 41
+      },
+      {
+        "name": "旦",
+        "count": 32
+      },
+      {
+        "name": "丑",
+        "count": 30
+      },
+      {
+        "name": "老生",
+        "count": 24
+      },
+      {
+        "name": "小生",
+        "count": 20
+      },
+      {
+        "name": "老旦",
+        "count": 15
+      },
+      {
+        "name": "武旦",
+        "count": 9
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "戏考",
+        "count": 24
+      },
+      {
+        "name": "国剧大成",
+        "count": 21
+      },
+      {
+        "name": "京剧汇编",
+        "count": 6
+      },
+      {
+        "name": "传统剧目汇编",
+        "count": 4
+      },
+      {
+        "name": "剧学月刊",
+        "count": 3
+      },
+      {
+        "name": "侯玉山剧本选",
+        "count": 2
+      },
+      {
+        "name": "京剧丛刊",
+        "count": 1
+      },
+      {
+        "name": "京剧集成",
+        "count": 1
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "西游",
+        "source": "genealogy",
+        "count": 35,
+        "share": 0.5224,
+        "lift": 16.7278,
+        "score": 68.9359
+      },
+      {
+        "name": "神怪",
+        "source": "themes",
+        "count": 35,
+        "share": 0.5224,
+        "lift": 13.7407,
+        "score": 59.0879
+      },
+      {
+        "name": "孙悟空",
+        "source": "keywords",
+        "count": 26,
+        "share": 0.3881,
+        "lift": 21.9851,
+        "score": 27.5345
+      },
+      {
+        "name": "唐僧",
+        "source": "keywords",
+        "count": 10,
+        "share": 0.1493,
+        "lift": 19.9864,
+        "score": 18.2116
+      },
+      {
+        "name": "刘青提",
+        "source": "keywords",
+        "count": 6,
+        "share": 0.0896,
+        "lift": 21.9851,
+        "score": 16.2568
+      },
+      {
+        "name": "猪八戒",
+        "source": "keywords",
+        "count": 6,
+        "share": 0.0896,
+        "lift": 21.9851,
+        "score": 16.2568
+      },
+      {
+        "name": "报恩",
+        "source": "motifs",
+        "count": 7,
+        "share": 0.1045,
+        "lift": 5.9191,
+        "score": 12.3083
+      },
+      {
+        "name": "唐三藏",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.0746,
+        "lift": 13.7407,
+        "score": 9.3556
+      }
+    ],
+    "explanation": "西游神怪仙佛主要由富集标签“西游、神怪、孙悟空、唐僧”、主题“家庭伦理、战争、神怪”、行当“净、武生、旦”和来源“戏考、国剧大成”共同形成。",
+    "coarse_cluster_id": "coarse_shenguai",
+    "coarse_cluster_name": "神怪西游与仙佛传说"
+  },
+  {
+    "cluster_id": "cluster_graph_08",
+    "cluster_name": "隋唐英雄开国",
+    "node_count": 62,
+    "representative_play_ids": [
+      "play_02000000_02006004",
+      "play_01000000_01031010",
+      "play_02000000_02005032",
+      "play_01000000_01020007",
+      "play_03000000_03006006"
+    ],
+    "representative_titles": [
+      "锁五龙",
+      "选元戎",
+      "晋阳宫",
+      "凤凰山",
+      "打登州"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 54
+      },
+      {
+        "name": "家庭伦理",
+        "count": 32
+      },
+      {
+        "name": "历史",
+        "count": 29
+      },
+      {
+        "name": "宫廷",
+        "count": 21
+      },
+      {
+        "name": "谋略",
+        "count": 21
+      },
+      {
+        "name": "爱情",
+        "count": 15
+      },
+      {
+        "name": "忠义",
+        "count": 14
+      },
+      {
+        "name": "公案",
+        "count": 9
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "隋唐",
+        "count": 61
+      },
+      {
+        "name": "历史演义",
+        "count": 48
+      },
+      {
+        "name": "神怪",
+        "count": 4
+      },
+      {
+        "name": "列国",
+        "count": 1
+      },
+      {
+        "name": "封神",
+        "count": 1
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 50
+      },
+      {
+        "name": "计谋",
+        "count": 27
+      },
+      {
+        "name": "结义",
+        "count": 10
+      },
+      {
+        "name": "审案",
+        "count": 8
+      },
+      {
+        "name": "殉节",
+        "count": 6
+      },
+      {
+        "name": "忠谏",
+        "count": 6
+      },
+      {
+        "name": "投军",
+        "count": 4
+      },
+      {
+        "name": "认亲",
+        "count": 2
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "隋唐",
+        "count": 61
+      },
+      {
+        "name": "封神",
+        "count": 1
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "秦琼",
+        "count": 48
+      },
+      {
+        "name": "李世民",
+        "count": 47
+      },
+      {
+        "name": "尉迟恭",
+        "count": 34
+      },
+      {
+        "name": "程咬金",
+        "count": 30
+      },
+      {
+        "name": "李渊",
+        "count": 28
+      },
+      {
+        "name": "罗成",
+        "count": 28
+      },
+      {
+        "name": "徐勣",
+        "count": 22
+      },
+      {
+        "name": "单雄信",
+        "count": 17
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "净",
+        "count": 85
+      },
+      {
+        "name": "老生",
+        "count": 72
+      },
+      {
+        "name": "丑",
+        "count": 54
+      },
+      {
+        "name": "小生",
+        "count": 54
+      },
+      {
+        "name": "旦",
+        "count": 28
+      },
+      {
+        "name": "生",
+        "count": 15
+      },
+      {
+        "name": "外",
+        "count": 10
+      },
+      {
+        "name": "武生",
+        "count": 10
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "京剧汇编",
+        "count": 21
+      },
+      {
+        "name": "戏考",
+        "count": 18
+      },
+      {
+        "name": "国剧大成",
+        "count": 11
+      },
+      {
+        "name": "侯玉山剧本选",
+        "count": 3
+      },
+      {
+        "name": "传统剧目汇编",
+        "count": 2
+      },
+      {
+        "name": "方荣翔剧本选",
+        "count": 2
+      },
+      {
+        "name": "京剧丛刊",
+        "count": 1
+      },
+      {
+        "name": "戏典",
+        "count": 1
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "李世民",
+        "source": "keywords",
+        "count": 28,
+        "share": 0.4516,
+        "lift": 23.7581,
+        "score": 30.4002
+      },
+      {
+        "name": "隋唐",
+        "source": "periods",
+        "count": 61,
+        "share": 0.9839,
+        "lift": 6.4698,
+        "score": 26.7019
+      },
+      {
+        "name": "尉迟恭",
+        "source": "keywords",
+        "count": 18,
+        "share": 0.2903,
+        "lift": 23.7581,
+        "score": 26.5826
+      },
+      {
+        "name": "秦琼",
+        "source": "keywords",
+        "count": 25,
+        "share": 0.4032,
+        "lift": 21.2126,
+        "score": 26.2628
+      },
+      {
+        "name": "程咬金",
+        "source": "keywords",
+        "count": 17,
+        "share": 0.2742,
+        "lift": 23.7581,
+        "score": 26.0945
+      },
+      {
+        "name": "李渊",
+        "source": "keywords",
+        "count": 15,
+        "share": 0.2419,
+        "lift": 23.7581,
+        "score": 25.0311
+      },
+      {
+        "name": "罗成",
+        "source": "keywords",
+        "count": 15,
+        "share": 0.2419,
+        "lift": 23.7581,
+        "score": 25.0311
+      },
+      {
+        "name": "单雄信",
+        "source": "keywords",
+        "count": 9,
+        "share": 0.1452,
+        "lift": 23.7581,
+        "score": 20.7879
+      }
+    ],
+    "explanation": "隋唐英雄开国主要由富集标签“李世民、隋唐、尉迟恭、秦琼”、主题“战争、家庭伦理、历史”、行当“净、老生、丑”和来源“京剧汇编、戏考”共同形成。",
+    "coarse_cluster_id": "coarse_suitang",
+    "coarse_cluster_name": "隋唐英雄与宫闱传奇"
+  },
+  {
+    "cluster_id": "cluster_graph_09",
+    "cluster_name": "岳家将忠义抗金",
+    "node_count": 56,
+    "representative_play_ids": [
+      "play_01000000_01013012",
+      "play_14000000_14001003",
+      "play_70002000_70002203",
+      "play_03000000_03028003",
+      "play_01000000_01011002"
+    ],
+    "representative_titles": [
+      "战太平",
+      "八大锤",
+      "二堂舍子",
+      "牛皋招亲",
+      "请宋灵"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 38
+      },
+      {
+        "name": "家庭伦理",
+        "count": 28
+      },
+      {
+        "name": "爱情",
+        "count": 19
+      },
+      {
+        "name": "忠义",
+        "count": 19
+      },
+      {
+        "name": "谋略",
+        "count": 17
+      },
+      {
+        "name": "历史",
+        "count": 10
+      },
+      {
+        "name": "公案",
+        "count": 5
+      },
+      {
+        "name": "婚姻",
+        "count": 5
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "岳家将",
+        "count": 54
+      },
+      {
+        "name": "历史演义",
+        "count": 26
+      },
+      {
+        "name": "民间传说",
+        "count": 6
+      },
+      {
+        "name": "列国",
+        "count": 2
+      },
+      {
+        "name": "神怪",
+        "count": 2
+      },
+      {
+        "name": "明清公案",
+        "count": 1
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 30
+      },
+      {
+        "name": "计谋",
+        "count": 23
+      },
+      {
+        "name": "审案",
+        "count": 18
+      },
+      {
+        "name": "殉节",
+        "count": 14
+      },
+      {
+        "name": "认亲",
+        "count": 8
+      },
+      {
+        "name": "复仇",
+        "count": 3
+      },
+      {
+        "name": "团圆",
+        "count": 3
+      },
+      {
+        "name": "结义",
+        "count": 2
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "岳家将",
+        "count": 44
+      },
+      {
+        "name": "宋",
+        "count": 2
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "岳飞",
+        "count": 40
+      },
+      {
+        "name": "牛皋",
+        "count": 18
+      },
+      {
+        "name": "岳云",
+        "count": 11
+      },
+      {
+        "name": "王佐",
+        "count": 10
+      },
+      {
+        "name": "兀术",
+        "count": 10
+      },
+      {
+        "name": "陆文龙",
+        "count": 8
+      },
+      {
+        "name": "乳娘",
+        "count": 8
+      },
+      {
+        "name": "金兀术",
+        "count": 8
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "老生",
+        "count": 50
+      },
+      {
+        "name": "净",
+        "count": 43
+      },
+      {
+        "name": "小生",
+        "count": 35
+      },
+      {
+        "name": "丑",
+        "count": 31
+      },
+      {
+        "name": "旦",
+        "count": 29
+      },
+      {
+        "name": "武生",
+        "count": 20
+      },
+      {
+        "name": "生",
+        "count": 16
+      },
+      {
+        "name": "老旦",
+        "count": 8
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "戏考",
+        "count": 15
+      },
+      {
+        "name": "京剧汇编",
+        "count": 12
+      },
+      {
+        "name": "京剧丛刊",
+        "count": 11
+      },
+      {
+        "name": "俞振飞剧本选",
+        "count": 5
+      },
+      {
+        "name": "国剧大成",
+        "count": 3
+      },
+      {
+        "name": "传统剧目汇编",
+        "count": 2
+      },
+      {
+        "name": "京剧流派剧目荟萃",
+        "count": 1
+      },
+      {
+        "name": "戏典",
+        "count": 1
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "岳家将",
+        "source": "periods",
+        "count": 44,
+        "share": 0.7857,
+        "lift": 17.5357,
+        "score": 66.7525
+      },
+      {
+        "name": "岳飞",
+        "source": "keywords",
+        "count": 21,
+        "share": 0.375,
+        "lift": 26.3036,
+        "score": 30.8961
+      },
+      {
+        "name": "牛皋",
+        "source": "keywords",
+        "count": 9,
+        "share": 0.1607,
+        "lift": 26.3036,
+        "score": 23.0152
+      },
+      {
+        "name": "岳云",
+        "source": "keywords",
+        "count": 6,
+        "share": 0.1071,
+        "lift": 26.3036,
+        "score": 19.4501
+      },
+      {
+        "name": "王佐",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.0893,
+        "lift": 26.3036,
+        "score": 17.9093
+      },
+      {
+        "name": "刘彦昌",
+        "source": "keywords",
+        "count": 4,
+        "share": 0.0714,
+        "lift": 26.3036,
+        "score": 16.0869
+      },
+      {
+        "name": "文龙",
+        "source": "keywords",
+        "count": 4,
+        "share": 0.0714,
+        "lift": 26.3036,
+        "score": 16.0869
+      },
+      {
+        "name": "朱文",
+        "source": "keywords",
+        "count": 4,
+        "share": 0.0714,
+        "lift": 26.3036,
+        "score": 16.0869
+      }
+    ],
+    "explanation": "岳家将忠义抗金主要由富集标签“岳家将、岳飞、牛皋、岳云”、主题“战争、家庭伦理、爱情”、行当“老生、净、小生”和来源“戏考、京剧汇编”共同形成。",
+    "coarse_cluster_id": "coarse_jiangmen",
+    "coarse_cluster_name": "将门忠义与边关征战"
+  },
+  {
+    "cluster_id": "cluster_graph_10",
+    "cluster_name": "包公清官公案",
+    "node_count": 42,
+    "representative_play_ids": [
+      "play_14000000_14002006",
+      "play_05000000_05013004",
+      "play_70402000_70402102",
+      "play_01000000_01033001",
+      "play_03000000_03091006"
+    ],
+    "representative_titles": [
+      "打龙袍",
+      "珍珠塔",
+      "铡美案",
+      "狸猫换太子",
+      "乌盆记"
+    ],
+    "top_themes": [
+      {
+        "name": "包公",
+        "count": 33
+      },
+      {
+        "name": "公案",
+        "count": 25
+      },
+      {
+        "name": "战争",
+        "count": 20
+      },
+      {
+        "name": "宫廷",
+        "count": 15
+      },
+      {
+        "name": "家庭伦理",
+        "count": 14
+      },
+      {
+        "name": "爱情",
+        "count": 10
+      },
+      {
+        "name": "谋略",
+        "count": 9
+      },
+      {
+        "name": "历史",
+        "count": 5
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "包公",
+        "count": 42
+      },
+      {
+        "name": "历史演义",
+        "count": 22
+      },
+      {
+        "name": "明清公案",
+        "count": 14
+      },
+      {
+        "name": "神怪",
+        "count": 10
+      },
+      {
+        "name": "民间传说",
+        "count": 7
+      },
+      {
+        "name": "西游",
+        "count": 6
+      },
+      {
+        "name": "其他",
+        "count": 4
+      },
+      {
+        "name": "隋唐",
+        "count": 3
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "审案",
+        "count": 28
+      },
+      {
+        "name": "殉节",
+        "count": 17
+      },
+      {
+        "name": "计谋",
+        "count": 16
+      },
+      {
+        "name": "除奸",
+        "count": 7
+      },
+      {
+        "name": "团圆",
+        "count": 6
+      },
+      {
+        "name": "投军",
+        "count": 4
+      },
+      {
+        "name": "征战",
+        "count": 4
+      },
+      {
+        "name": "伸冤",
+        "count": 4
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "宋",
+        "count": 18
+      },
+      {
+        "name": "清",
+        "count": 8
+      },
+      {
+        "name": "明",
+        "count": 2
+      },
+      {
+        "name": "西游",
+        "count": 2
+      },
+      {
+        "name": "隋唐",
+        "count": 1
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "包拯",
+        "count": 49
+      },
+      {
+        "name": "李后",
+        "count": 12
+      },
+      {
+        "name": "宋仁宗",
+        "count": 12
+      },
+      {
+        "name": "刘世昌",
+        "count": 10
+      },
+      {
+        "name": "赵大",
+        "count": 10
+      },
+      {
+        "name": "王延龄",
+        "count": 9
+      },
+      {
+        "name": "张别古",
+        "count": 8
+      },
+      {
+        "name": "秦香莲",
+        "count": 8
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "丑",
+        "count": 54
+      },
+      {
+        "name": "净",
+        "count": 43
+      },
+      {
+        "name": "老生",
+        "count": 29
+      },
+      {
+        "name": "小生",
+        "count": 25
+      },
+      {
+        "name": "旦",
+        "count": 21
+      },
+      {
+        "name": "老旦",
+        "count": 15
+      },
+      {
+        "name": "其他",
+        "count": 7
+      },
+      {
+        "name": "武生",
+        "count": 4
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "戏考",
+        "count": 18
+      },
+      {
+        "name": "京剧汇编",
+        "count": 9
+      },
+      {
+        "name": "传统剧目汇编",
+        "count": 6
+      },
+      {
+        "name": "戏典",
+        "count": 2
+      },
+      {
+        "name": "方荣翔剧本选",
+        "count": 2
+      },
+      {
+        "name": "录音、唱片本",
+        "count": 2
+      },
+      {
+        "name": "京剧丛刊",
+        "count": 1
+      },
+      {
+        "name": "孟小冬剧本选",
+        "count": 1
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "包公",
+        "source": "themes",
+        "count": 33,
+        "share": 0.7857,
+        "lift": 29.6758,
+        "score": 125.5772
+      },
+      {
+        "name": "包拯",
+        "source": "keywords",
+        "count": 25,
+        "share": 0.5952,
+        "lift": 32.4735,
+        "score": 40.2047
+      },
+      {
+        "name": "刘世昌",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.119,
+        "lift": 35.0714,
+        "score": 23.879
+      },
+      {
+        "name": "王延龄",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.119,
+        "lift": 35.0714,
+        "score": 23.879
+      },
+      {
+        "name": "赵大",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.119,
+        "lift": 35.0714,
+        "score": 23.879
+      },
+      {
+        "name": "张别",
+        "source": "keywords",
+        "count": 4,
+        "share": 0.0952,
+        "lift": 35.0714,
+        "score": 21.4492
+      },
+      {
+        "name": "张别古",
+        "source": "keywords",
+        "count": 4,
+        "share": 0.0952,
+        "lift": 35.0714,
+        "score": 21.4492
+      },
+      {
+        "name": "方卿",
+        "source": "keywords",
+        "count": 4,
+        "share": 0.0952,
+        "lift": 35.0714,
+        "score": 21.4492
+      }
+    ],
+    "explanation": "包公清官公案主要由富集标签“包公、包拯、刘世昌、王延龄”、主题“包公、公案、战争”、行当“丑、净、老生”和来源“戏考、京剧汇编”共同形成。",
+    "coarse_cluster_id": "coarse_gongan",
+    "coarse_cluster_name": "公案清官与明清冤案"
+  },
+  {
+    "cluster_id": "cluster_graph_11",
+    "cluster_name": "宋初开国宫廷",
+    "node_count": 40,
+    "representative_play_ids": [
+      "play_03000000_03060005",
+      "play_01000000_01021007",
+      "play_05000000_05007006",
+      "play_01000000_01017013",
+      "play_01000000_01012003"
+    ],
+    "representative_titles": [
+      "困曹府",
+      "雪夜访普",
+      "斩黄袍",
+      "下河东",
+      "高平关"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 29
+      },
+      {
+        "name": "历史",
+        "count": 27
+      },
+      {
+        "name": "家庭伦理",
+        "count": 23
+      },
+      {
+        "name": "宫廷",
+        "count": 10
+      },
+      {
+        "name": "谋略",
+        "count": 10
+      },
+      {
+        "name": "忠义",
+        "count": 6
+      },
+      {
+        "name": "爱情",
+        "count": 4
+      },
+      {
+        "name": "复仇",
+        "count": 3
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "历史演义",
+        "count": 35
+      },
+      {
+        "name": "三国",
+        "count": 7
+      },
+      {
+        "name": "隋唐",
+        "count": 7
+      },
+      {
+        "name": "神怪",
+        "count": 4
+      },
+      {
+        "name": "其他",
+        "count": 3
+      },
+      {
+        "name": "包公",
+        "count": 2
+      },
+      {
+        "name": "水浒",
+        "count": 2
+      },
+      {
+        "name": "岳家将",
+        "count": 2
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 25
+      },
+      {
+        "name": "计谋",
+        "count": 17
+      },
+      {
+        "name": "结义",
+        "count": 8
+      },
+      {
+        "name": "归隐",
+        "count": 5
+      },
+      {
+        "name": "殉节",
+        "count": 4
+      },
+      {
+        "name": "审案",
+        "count": 4
+      },
+      {
+        "name": "复仇",
+        "count": 3
+      },
+      {
+        "name": "忠谏",
+        "count": 2
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "宋",
+        "count": 13
+      },
+      {
+        "name": "隋唐",
+        "count": 7
+      },
+      {
+        "name": "明",
+        "count": 4
+      },
+      {
+        "name": "三国",
+        "count": 3
+      },
+      {
+        "name": "清",
+        "count": 3
+      },
+      {
+        "name": "杨家将",
+        "count": 2
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "赵匡胤",
+        "count": 75
+      },
+      {
+        "name": "高怀德",
+        "count": 16
+      },
+      {
+        "name": "柴荣",
+        "count": 13
+      },
+      {
+        "name": "郑恩",
+        "count": 10
+      },
+      {
+        "name": "曹彬",
+        "count": 9
+      },
+      {
+        "name": "高行周",
+        "count": 8
+      },
+      {
+        "name": "郑子明",
+        "count": 8
+      },
+      {
+        "name": "苗顺",
+        "count": 6
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "净",
+        "count": 34
+      },
+      {
+        "name": "红生",
+        "count": 29
+      },
+      {
+        "name": "老生",
+        "count": 20
+      },
+      {
+        "name": "小生",
+        "count": 17
+      },
+      {
+        "name": "旦",
+        "count": 17
+      },
+      {
+        "name": "丑",
+        "count": 13
+      },
+      {
+        "name": "末",
+        "count": 10
+      },
+      {
+        "name": "外",
+        "count": 6
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "京剧汇编",
+        "count": 17
+      },
+      {
+        "name": "戏考",
+        "count": 9
+      },
+      {
+        "name": "国剧大成",
+        "count": 7
+      },
+      {
+        "name": "传统剧目汇编",
+        "count": 2
+      },
+      {
+        "name": "郝寿臣剧本选",
+        "count": 1
+      },
+      {
+        "name": "侯玉山剧本选",
+        "count": 1
+      },
+      {
+        "name": "俞振飞剧本选",
+        "count": 1
+      },
+      {
+        "name": "录音、唱片本",
+        "count": 1
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "赵匡胤",
+        "source": "keywords",
+        "count": 38,
+        "share": 0.95,
+        "lift": 33.3179,
+        "score": 46.3836
+      },
+      {
+        "name": "柴荣",
+        "source": "keywords",
+        "count": 7,
+        "share": 0.175,
+        "lift": 36.825,
+        "score": 29.0987
+      },
+      {
+        "name": "高怀德",
+        "source": "keywords",
+        "count": 9,
+        "share": 0.225,
+        "lift": 33.1425,
+        "score": 28.9991
+      },
+      {
+        "name": "呼延",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.125,
+        "lift": 36.825,
+        "score": 25.073
+      },
+      {
+        "name": "曹彬",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.125,
+        "lift": 36.825,
+        "score": 25.073
+      },
+      {
+        "name": "郑恩",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.125,
+        "lift": 36.825,
+        "score": 25.073
+      },
+      {
+        "name": "寿廷",
+        "source": "keywords",
+        "count": 4,
+        "share": 0.1,
+        "lift": 36.825,
+        "score": 22.5217
+      },
+      {
+        "name": "呼延赞",
+        "source": "keywords",
+        "count": 3,
+        "share": 0.075,
+        "lift": 36.825,
+        "score": 19.3991
+      }
+    ],
+    "explanation": "宋初开国宫廷主要由富集标签“赵匡胤、柴荣、高怀德、呼延”、主题“战争、历史、家庭伦理”、行当“净、红生、老生”和来源“京剧汇编、戏考”共同形成。",
+    "coarse_cluster_id": "coarse_song_palace",
+    "coarse_cluster_name": "宋初开国与宫廷风云"
+  },
+  {
+    "cluster_id": "cluster_graph_12",
+    "cluster_name": "九莲灯闵觉剧目群",
+    "node_count": 38,
+    "representative_play_ids": [
+      "play_70203000_70203202",
+      "play_09000000_09006001",
+      "play_02000000_02005012",
+      "play_01000000_01019011",
+      "play_01000000_01004012"
+    ],
+    "representative_titles": [
+      "玉堂春",
+      "打严嵩",
+      "九莲灯",
+      "九龙杯",
+      "女起解"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 31
+      },
+      {
+        "name": "谋略",
+        "count": 29
+      },
+      {
+        "name": "公案",
+        "count": 27
+      },
+      {
+        "name": "宫廷",
+        "count": 22
+      },
+      {
+        "name": "忠义",
+        "count": 12
+      },
+      {
+        "name": "家庭伦理",
+        "count": 12
+      },
+      {
+        "name": "爱情",
+        "count": 6
+      },
+      {
+        "name": "历史",
+        "count": 5
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "历史演义",
+        "count": 34
+      },
+      {
+        "name": "其他",
+        "count": 6
+      },
+      {
+        "name": "三国",
+        "count": 5
+      },
+      {
+        "name": "明清公案",
+        "count": 3
+      },
+      {
+        "name": "列国",
+        "count": 2
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "审案",
+        "count": 37
+      },
+      {
+        "name": "计谋",
+        "count": 31
+      },
+      {
+        "name": "征战",
+        "count": 14
+      },
+      {
+        "name": "伸冤",
+        "count": 7
+      },
+      {
+        "name": "团圆",
+        "count": 5
+      },
+      {
+        "name": "认亲",
+        "count": 5
+      },
+      {
+        "name": "除奸",
+        "count": 5
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "明",
+        "count": 8
+      },
+      {
+        "name": "清",
+        "count": 7
+      },
+      {
+        "name": "列国",
+        "count": 2
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "闵觉",
+        "count": 19
+      },
+      {
+        "name": "闵远",
+        "count": 17
+      },
+      {
+        "name": "苏三",
+        "count": 16
+      },
+      {
+        "name": "王金龙",
+        "count": 16
+      },
+      {
+        "name": "邹应龙",
+        "count": 16
+      },
+      {
+        "name": "傅奴",
+        "count": 15
+      },
+      {
+        "name": "单洪",
+        "count": 14
+      },
+      {
+        "name": "杨香武",
+        "count": 12
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "丑",
+        "count": 41
+      },
+      {
+        "name": "净",
+        "count": 34
+      },
+      {
+        "name": "老生",
+        "count": 30
+      },
+      {
+        "name": "小生",
+        "count": 28
+      },
+      {
+        "name": "旦",
+        "count": 18
+      },
+      {
+        "name": "末",
+        "count": 9
+      },
+      {
+        "name": "武生",
+        "count": 5
+      },
+      {
+        "name": "杂",
+        "count": 5
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "国剧大成",
+        "count": 17
+      },
+      {
+        "name": "戏考",
+        "count": 7
+      },
+      {
+        "name": "京剧汇编",
+        "count": 2
+      },
+      {
+        "name": "戏典",
+        "count": 2
+      },
+      {
+        "name": "周信芳剧本选",
+        "count": 2
+      },
+      {
+        "name": "梅兰芳剧本选",
+        "count": 2
+      },
+      {
+        "name": "京剧丛刊",
+        "count": 1
+      },
+      {
+        "name": "京剧流派剧目荟萃",
+        "count": 1
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "九莲灯",
+        "source": "keywords",
+        "count": 11,
+        "share": 0.2895,
+        "lift": 38.7632,
+        "score": 36.6027
+      },
+      {
+        "name": "闵觉",
+        "source": "keywords",
+        "count": 11,
+        "share": 0.2895,
+        "lift": 38.7632,
+        "score": 36.6027
+      },
+      {
+        "name": "傅奴",
+        "source": "keywords",
+        "count": 10,
+        "share": 0.2632,
+        "lift": 38.7632,
+        "score": 35.321
+      },
+      {
+        "name": "闵远",
+        "source": "keywords",
+        "count": 10,
+        "share": 0.2632,
+        "lift": 38.7632,
+        "score": 35.321
+      },
+      {
+        "name": "王金龙",
+        "source": "keywords",
+        "count": 9,
+        "share": 0.2368,
+        "lift": 38.7632,
+        "score": 33.9171
+      },
+      {
+        "name": "单洪",
+        "source": "keywords",
+        "count": 8,
+        "share": 0.2105,
+        "lift": 38.7632,
+        "score": 32.3651
+      },
+      {
+        "name": "苏三",
+        "source": "keywords",
+        "count": 8,
+        "share": 0.2105,
+        "lift": 38.7632,
+        "score": 32.3651
+      },
+      {
+        "name": "邹应龙",
+        "source": "keywords",
+        "count": 8,
+        "share": 0.2105,
+        "lift": 38.7632,
+        "score": 32.3651
+      }
+    ],
+    "explanation": "九莲灯闵觉剧目群主要由富集标签“九莲灯、闵觉、傅奴、闵远”、主题“战争、谋略、公案”、行当“丑、净、老生”和来源“国剧大成、戏考”共同形成。",
+    "coarse_cluster_id": "coarse_sanguo",
+    "coarse_cluster_name": "三国群雄与智谋征战"
+  },
+  {
+    "cluster_id": "cluster_graph_13",
+    "cluster_name": "薛平贵王宝钏婚恋",
+    "node_count": 31,
+    "representative_play_ids": [
+      "play_01000000_01005001",
+      "play_01000000_01003012",
+      "play_01000000_01036006",
+      "play_01000000_01012011",
+      "play_90000000_90000006"
+    ],
+    "representative_titles": [
+      "武家坡",
+      "彩楼配",
+      "平贵别窑",
+      "赶三关",
+      "花园赠金"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 22
+      },
+      {
+        "name": "爱情",
+        "count": 20
+      },
+      {
+        "name": "家庭伦理",
+        "count": 19
+      },
+      {
+        "name": "婚姻",
+        "count": 10
+      },
+      {
+        "name": "宫廷",
+        "count": 8
+      },
+      {
+        "name": "历史",
+        "count": 5
+      },
+      {
+        "name": "谋略",
+        "count": 3
+      },
+      {
+        "name": "认亲",
+        "count": 3
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "历史演义",
+        "count": 18
+      },
+      {
+        "name": "其他",
+        "count": 13
+      },
+      {
+        "name": "隋唐",
+        "count": 13
+      },
+      {
+        "name": "岳家将",
+        "count": 10
+      },
+      {
+        "name": "明清公案",
+        "count": 5
+      },
+      {
+        "name": "三国",
+        "count": 5
+      },
+      {
+        "name": "封神",
+        "count": 3
+      },
+      {
+        "name": "包公",
+        "count": 2
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 25
+      },
+      {
+        "name": "认亲",
+        "count": 14
+      },
+      {
+        "name": "投军",
+        "count": 8
+      },
+      {
+        "name": "团圆",
+        "count": 6
+      },
+      {
+        "name": "审案",
+        "count": 5
+      },
+      {
+        "name": "伸冤",
+        "count": 5
+      },
+      {
+        "name": "计谋",
+        "count": 2
+      },
+      {
+        "name": "忠谏",
+        "count": 1
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "岳家将",
+        "count": 10
+      },
+      {
+        "name": "明",
+        "count": 4
+      },
+      {
+        "name": "隋唐",
+        "count": 3
+      },
+      {
+        "name": "封神",
+        "count": 3
+      },
+      {
+        "name": "清",
+        "count": 1
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "王宝钏",
+        "count": 57
+      },
+      {
+        "name": "薛平贵",
+        "count": 52
+      },
+      {
+        "name": "王允",
+        "count": 26
+      },
+      {
+        "name": "代战公主",
+        "count": 10
+      },
+      {
+        "name": "寒窑",
+        "count": 9
+      },
+      {
+        "name": "薛平",
+        "count": 7
+      },
+      {
+        "name": "魏虎",
+        "count": 7
+      },
+      {
+        "name": "王夫人",
+        "count": 6
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "旦",
+        "count": 31
+      },
+      {
+        "name": "老生",
+        "count": 27
+      },
+      {
+        "name": "丑",
+        "count": 12
+      },
+      {
+        "name": "老旦",
+        "count": 10
+      },
+      {
+        "name": "小生",
+        "count": 9
+      },
+      {
+        "name": "净",
+        "count": 6
+      },
+      {
+        "name": "正旦",
+        "count": 3
+      },
+      {
+        "name": "生",
+        "count": 2
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "京剧汇编",
+        "count": 12
+      },
+      {
+        "name": "戏考",
+        "count": 8
+      },
+      {
+        "name": "京剧丛刊",
+        "count": 4
+      },
+      {
+        "name": "戏典",
+        "count": 1
+      },
+      {
+        "name": "周信芳剧本选",
+        "count": 1
+      },
+      {
+        "name": "孟小冬剧本选",
+        "count": 1
+      },
+      {
+        "name": "程砚秋剧本选",
+        "count": 1
+      },
+      {
+        "name": "老舍剧本选",
+        "count": 1
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "王宝钏",
+        "source": "keywords",
+        "count": 29,
+        "share": 0.9355,
+        "lift": 47.5161,
+        "score": 61.4125
+      },
+      {
+        "name": "薛平贵",
+        "source": "keywords",
+        "count": 30,
+        "share": 0.9677,
+        "lift": 45.9834,
+        "score": 60.0044
+      },
+      {
+        "name": "王允",
+        "source": "keywords",
+        "count": 15,
+        "share": 0.4839,
+        "lift": 44.5464,
+        "score": 46.9333
+      },
+      {
+        "name": "薛平",
+        "source": "keywords",
+        "count": 7,
+        "share": 0.2258,
+        "lift": 47.5161,
+        "score": 37.5467
+      },
+      {
+        "name": "寒窑",
+        "source": "keywords",
+        "count": 9,
+        "share": 0.2903,
+        "lift": 42.7645,
+        "score": 37.4182
+      },
+      {
+        "name": "认亲",
+        "source": "themes",
+        "count": 3,
+        "share": 0.0968,
+        "lift": 20.3641,
+        "score": 33.8767
+      },
+      {
+        "name": "击掌",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.1613,
+        "lift": 47.5161,
+        "score": 32.3522
+      },
+      {
+        "name": "代战公主",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.1613,
+        "lift": 39.5968,
+        "score": 26.9602
+      }
+    ],
+    "explanation": "薛平贵王宝钏婚恋主要由富集标签“王宝钏、薛平贵、王允、薛平”、主题“战争、爱情、家庭伦理”、行当“旦、老生、丑”和来源“京剧汇编、戏考”共同形成。",
+    "coarse_cluster_id": "coarse_love_family",
+    "coarse_cluster_name": "爱情婚姻与家庭伦理"
+  },
+  {
+    "cluster_id": "cluster_graph_14",
+    "cluster_name": "伍子胥复仇列国",
+    "node_count": 30,
+    "representative_play_ids": [
+      "play_80000000_80000029",
+      "play_01000000_01001011",
+      "play_05000000_05006005",
+      "play_01000000_01009013",
+      "play_02000000_02001044"
+    ],
+    "representative_titles": [
+      "战樊城",
+      "文昭关",
+      "要离刺庆忌",
+      "长亭会",
+      "西施"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 23
+      },
+      {
+        "name": "家庭伦理",
+        "count": 20
+      },
+      {
+        "name": "历史",
+        "count": 20
+      },
+      {
+        "name": "谋略",
+        "count": 11
+      },
+      {
+        "name": "宫廷",
+        "count": 8
+      },
+      {
+        "name": "复仇",
+        "count": 6
+      },
+      {
+        "name": "忠义",
+        "count": 6
+      },
+      {
+        "name": "征战",
+        "count": 5
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "历史演义",
+        "count": 27
+      },
+      {
+        "name": "列国",
+        "count": 20
+      },
+      {
+        "name": "三国",
+        "count": 1
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 25
+      },
+      {
+        "name": "计谋",
+        "count": 16
+      },
+      {
+        "name": "忠谏",
+        "count": 12
+      },
+      {
+        "name": "复仇",
+        "count": 12
+      },
+      {
+        "name": "殉节",
+        "count": 11
+      },
+      {
+        "name": "归隐",
+        "count": 5
+      },
+      {
+        "name": "除奸",
+        "count": 3
+      },
+      {
+        "name": "审案",
+        "count": 3
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "列国",
+        "count": 12
+      },
+      {
+        "name": "明",
+        "count": 2
+      },
+      {
+        "name": "三国",
+        "count": 1
+      },
+      {
+        "name": "宋",
+        "count": 1
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "伍员",
+        "count": 46
+      },
+      {
+        "name": "楚平王",
+        "count": 12
+      },
+      {
+        "name": "伍奢",
+        "count": 11
+      },
+      {
+        "name": "申包胥",
+        "count": 10
+      },
+      {
+        "name": "费无极",
+        "count": 10
+      },
+      {
+        "name": "范蠡",
+        "count": 8
+      },
+      {
+        "name": "夫差",
+        "count": 8
+      },
+      {
+        "name": "姬光",
+        "count": 7
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "老生",
+        "count": 53
+      },
+      {
+        "name": "净",
+        "count": 24
+      },
+      {
+        "name": "旦",
+        "count": 13
+      },
+      {
+        "name": "丑",
+        "count": 12
+      },
+      {
+        "name": "小生",
+        "count": 8
+      },
+      {
+        "name": "武净",
+        "count": 5
+      },
+      {
+        "name": "外",
+        "count": 3
+      },
+      {
+        "name": "末",
+        "count": 1
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "京剧汇编",
+        "count": 11
+      },
+      {
+        "name": "传统剧目汇编",
+        "count": 8
+      },
+      {
+        "name": "戏考",
+        "count": 6
+      },
+      {
+        "name": "录音、唱片本",
+        "count": 3
+      },
+      {
+        "name": "国剧大成",
+        "count": 1
+      },
+      {
+        "name": "梅兰芳剧本选",
+        "count": 1
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "伍员",
+        "source": "keywords",
+        "count": 25,
+        "share": 0.8333,
+        "lift": 49.1,
+        "score": 60.7896
+      },
+      {
+        "name": "楚平王",
+        "source": "keywords",
+        "count": 10,
+        "share": 0.3333,
+        "lift": 49.1,
+        "score": 44.7399
+      },
+      {
+        "name": "伍奢",
+        "source": "keywords",
+        "count": 6,
+        "share": 0.2,
+        "lift": 49.1,
+        "score": 36.3068
+      },
+      {
+        "name": "姬光",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.1667,
+        "lift": 49.1,
+        "score": 33.4306
+      },
+      {
+        "name": "申包胥",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.1667,
+        "lift": 49.1,
+        "score": 33.4306
+      },
+      {
+        "name": "费无极",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.1667,
+        "lift": 49.1,
+        "score": 33.4306
+      },
+      {
+        "name": "夫差",
+        "source": "keywords",
+        "count": 4,
+        "share": 0.1333,
+        "lift": 49.1,
+        "score": 30.0289
+      },
+      {
+        "name": "无极",
+        "source": "keywords",
+        "count": 4,
+        "share": 0.1333,
+        "lift": 49.1,
+        "score": 30.0289
+      }
+    ],
+    "explanation": "伍子胥复仇列国主要由富集标签“伍员、楚平王、伍奢、姬光”、主题“战争、家庭伦理、历史”、行当“老生、净、旦”和来源“京剧汇编、传统剧目汇编”共同形成。",
+    "coarse_cluster_id": "coarse_lieguo",
+    "coarse_cluster_name": "列国楚汉与春秋风云"
+  },
+  {
+    "cluster_id": "cluster_graph_15",
+    "cluster_name": "明代清官权奸",
+    "node_count": 24,
+    "representative_play_ids": [
+      "play_05000000_05018005",
+      "play_14000000_14001001",
+      "play_01000000_01024006",
+      "play_94000000_94000002",
+      "play_70203000_70203111"
+    ],
+    "representative_titles": [
+      "五彩舆",
+      "一捧雪",
+      "雪杯圆",
+      "海瑞上疏",
+      "金玉奴"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 22
+      },
+      {
+        "name": "谋略",
+        "count": 12
+      },
+      {
+        "name": "公案",
+        "count": 11
+      },
+      {
+        "name": "忠义",
+        "count": 10
+      },
+      {
+        "name": "家庭伦理",
+        "count": 10
+      },
+      {
+        "name": "历史",
+        "count": 5
+      },
+      {
+        "name": "爱情",
+        "count": 5
+      },
+      {
+        "name": "婚姻",
+        "count": 4
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "历史演义",
+        "count": 20
+      },
+      {
+        "name": "明清公案",
+        "count": 13
+      },
+      {
+        "name": "岳家将",
+        "count": 8
+      },
+      {
+        "name": "杨家将",
+        "count": 1
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 20
+      },
+      {
+        "name": "计谋",
+        "count": 19
+      },
+      {
+        "name": "审案",
+        "count": 18
+      },
+      {
+        "name": "逼婚",
+        "count": 10
+      },
+      {
+        "name": "投军",
+        "count": 10
+      },
+      {
+        "name": "殉节",
+        "count": 5
+      },
+      {
+        "name": "团圆",
+        "count": 5
+      },
+      {
+        "name": "认亲",
+        "count": 4
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "明",
+        "count": 13
+      },
+      {
+        "name": "岳家将",
+        "count": 8
+      },
+      {
+        "name": "杨家将",
+        "count": 1
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "戚继光",
+        "count": 27
+      },
+      {
+        "name": "海瑞",
+        "count": 22
+      },
+      {
+        "name": "莫怀古",
+        "count": 18
+      },
+      {
+        "name": "鄢懋卿",
+        "count": 18
+      },
+      {
+        "name": "雪艳",
+        "count": 12
+      },
+      {
+        "name": "冯莲芳",
+        "count": 12
+      },
+      {
+        "name": "汤勤",
+        "count": 10
+      },
+      {
+        "name": "莫成",
+        "count": 10
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "老生",
+        "count": 40
+      },
+      {
+        "name": "丑",
+        "count": 30
+      },
+      {
+        "name": "旦",
+        "count": 27
+      },
+      {
+        "name": "净",
+        "count": 23
+      },
+      {
+        "name": "生",
+        "count": 8
+      },
+      {
+        "name": "小生",
+        "count": 7
+      },
+      {
+        "name": "老旦",
+        "count": 6
+      },
+      {
+        "name": "末",
+        "count": 4
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "传统剧目汇编",
+        "count": 10
+      },
+      {
+        "name": "京剧汇编",
+        "count": 5
+      },
+      {
+        "name": "戏考",
+        "count": 4
+      },
+      {
+        "name": "剧学月刊",
+        "count": 1
+      },
+      {
+        "name": "戏典",
+        "count": 1
+      },
+      {
+        "name": "周信芳剧本选",
+        "count": 1
+      },
+      {
+        "name": "荀慧生剧本选",
+        "count": 1
+      },
+      {
+        "name": "院团改编本、演出本",
+        "count": 1
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "戚继光",
+        "source": "keywords",
+        "count": 14,
+        "share": 0.5833,
+        "lift": 61.375,
+        "score": 63.1585
+      },
+      {
+        "name": "莫怀古",
+        "source": "keywords",
+        "count": 9,
+        "share": 0.375,
+        "lift": 61.375,
+        "score": 53.702
+      },
+      {
+        "name": "鄢懋卿",
+        "source": "keywords",
+        "count": 9,
+        "share": 0.375,
+        "lift": 61.375,
+        "score": 53.702
+      },
+      {
+        "name": "海瑞",
+        "source": "keywords",
+        "count": 11,
+        "share": 0.4583,
+        "lift": 56.2604,
+        "score": 53.1247
+      },
+      {
+        "name": "怀古",
+        "source": "keywords",
+        "count": 8,
+        "share": 0.3333,
+        "lift": 61.375,
+        "score": 51.2448
+      },
+      {
+        "name": "冯莲芳",
+        "source": "keywords",
+        "count": 7,
+        "share": 0.2917,
+        "lift": 61.375,
+        "score": 48.4978
+      },
+      {
+        "name": "汤勤",
+        "source": "keywords",
+        "count": 6,
+        "share": 0.25,
+        "lift": 61.375,
+        "score": 45.3835
+      },
+      {
+        "name": "雪艳",
+        "source": "keywords",
+        "count": 6,
+        "share": 0.25,
+        "lift": 61.375,
+        "score": 45.3835
+      }
+    ],
+    "explanation": "明代清官权奸主要由富集标签“戚继光、莫怀古、鄢懋卿、海瑞”、主题“战争、谋略、公案”、行当“老生、丑、旦”和来源“传统剧目汇编、京剧汇编”共同形成。",
+    "coarse_cluster_id": "coarse_gongan",
+    "coarse_cluster_name": "公案清官与明清冤案"
+  },
+  {
+    "cluster_id": "cluster_graph_16",
+    "cluster_name": "黄天霸施公案",
+    "node_count": 19,
+    "representative_play_ids": [
+      "play_11000000_11001001",
+      "play_02000000_02012035",
+      "play_11000000_11001003",
+      "play_01000000_01020005",
+      "play_01000000_01013007"
+    ],
+    "representative_titles": [
+      "连环套",
+      "东昌府",
+      "殷家堡",
+      "义旗令",
+      "恶虎村"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 16
+      },
+      {
+        "name": "公案",
+        "count": 11
+      },
+      {
+        "name": "家庭伦理",
+        "count": 10
+      },
+      {
+        "name": "谋略",
+        "count": 8
+      },
+      {
+        "name": "历史",
+        "count": 7
+      },
+      {
+        "name": "忠义",
+        "count": 5
+      },
+      {
+        "name": "复仇",
+        "count": 2
+      },
+      {
+        "name": "宫廷",
+        "count": 2
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "历史演义",
+        "count": 16
+      },
+      {
+        "name": "明清公案",
+        "count": 8
+      },
+      {
+        "name": "水浒",
+        "count": 4
+      },
+      {
+        "name": "神怪",
+        "count": 4
+      },
+      {
+        "name": "包公",
+        "count": 3
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "审案",
+        "count": 16
+      },
+      {
+        "name": "计谋",
+        "count": 10
+      },
+      {
+        "name": "征战",
+        "count": 9
+      },
+      {
+        "name": "复仇",
+        "count": 6
+      },
+      {
+        "name": "归隐",
+        "count": 4
+      },
+      {
+        "name": "忠谏",
+        "count": 3
+      },
+      {
+        "name": "结义",
+        "count": 1
+      },
+      {
+        "name": "除奸",
+        "count": 1
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "明",
+        "count": 5
+      },
+      {
+        "name": "清",
+        "count": 2
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "黄天霸",
+        "count": 34
+      },
+      {
+        "name": "施世纶",
+        "count": 13
+      },
+      {
+        "name": "朱光祖",
+        "count": 10
+      },
+      {
+        "name": "窦尔敦",
+        "count": 5
+      },
+      {
+        "name": "连环套",
+        "count": 4
+      },
+      {
+        "name": "李堃",
+        "count": 4
+      },
+      {
+        "name": "贺仁杰",
+        "count": 4
+      },
+      {
+        "name": "余七",
+        "count": 4
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "净",
+        "count": 40
+      },
+      {
+        "name": "丑",
+        "count": 24
+      },
+      {
+        "name": "武生",
+        "count": 22
+      },
+      {
+        "name": "老生",
+        "count": 21
+      },
+      {
+        "name": "其他",
+        "count": 12
+      },
+      {
+        "name": "武丑",
+        "count": 6
+      },
+      {
+        "name": "彩旦",
+        "count": 5
+      },
+      {
+        "name": "武旦",
+        "count": 5
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "戏考",
+        "count": 12
+      },
+      {
+        "name": "国剧大成",
+        "count": 5
+      },
+      {
+        "name": "传统戏曲剧目资料汇编",
+        "count": 2
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "黄天霸",
+        "source": "keywords",
+        "count": 17,
+        "share": 0.8947,
+        "lift": 77.5263,
+        "score": 85.1504
+      },
+      {
+        "name": "施世纶",
+        "source": "keywords",
+        "count": 8,
+        "share": 0.4211,
+        "lift": 77.5263,
+        "score": 64.7302
+      },
+      {
+        "name": "朱光祖",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.2632,
+        "lift": 77.5263,
+        "score": 52.7852
+      },
+      {
+        "name": "连环套",
+        "source": "keywords",
+        "count": 4,
+        "share": 0.2105,
+        "lift": 77.5263,
+        "score": 47.414
+      },
+      {
+        "name": "光祖",
+        "source": "keywords",
+        "count": 3,
+        "share": 0.1579,
+        "lift": 77.5263,
+        "score": 40.8402
+      },
+      {
+        "name": "施公",
+        "source": "keywords",
+        "count": 3,
+        "share": 0.1579,
+        "lift": 77.5263,
+        "score": 40.8402
+      },
+      {
+        "name": "李堃",
+        "source": "keywords",
+        "count": 3,
+        "share": 0.1579,
+        "lift": 77.5263,
+        "score": 40.8402
+      },
+      {
+        "name": "窦尔敦",
+        "source": "keywords",
+        "count": 3,
+        "share": 0.1579,
+        "lift": 77.5263,
+        "score": 40.8402
+      }
+    ],
+    "explanation": "黄天霸施公案主要由富集标签“黄天霸、施世纶、朱光祖、连环套”、主题“战争、公案、家庭伦理”、行当“净、丑、武生”和来源“戏考、国剧大成”共同形成。",
+    "coarse_cluster_id": "coarse_gongan",
+    "coarse_cluster_name": "公案清官与明清冤案"
+  },
+  {
+    "cluster_id": "cluster_graph_17",
+    "cluster_name": "红楼儿女情",
+    "node_count": 16,
+    "representative_play_ids": [
+      "play_01000000_01013019",
+      "play_03000000_03057008",
+      "play_01000000_01030009",
+      "play_01000000_01032006",
+      "play_01000000_01035003"
+    ],
+    "representative_titles": [
+      "黛玉葬花",
+      "黛玉焚稿",
+      "贾政训子",
+      "芙蓉诔",
+      "宝玉出家"
+    ],
+    "top_themes": [
+      {
+        "name": "爱情",
+        "count": 8
+      },
+      {
+        "name": "家庭伦理",
+        "count": 8
+      },
+      {
+        "name": "战争",
+        "count": 6
+      },
+      {
+        "name": "谋略",
+        "count": 4
+      },
+      {
+        "name": "历史",
+        "count": 3
+      },
+      {
+        "name": "婚姻",
+        "count": 2
+      },
+      {
+        "name": "忠义",
+        "count": 1
+      },
+      {
+        "name": "神怪",
+        "count": 1
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "历史演义",
+        "count": 8
+      },
+      {
+        "name": "明清公案",
+        "count": 5
+      },
+      {
+        "name": "封神",
+        "count": 2
+      },
+      {
+        "name": "其他",
+        "count": 2
+      },
+      {
+        "name": "神怪",
+        "count": 2
+      },
+      {
+        "name": "西游",
+        "count": 1
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "归隐",
+        "count": 7
+      },
+      {
+        "name": "计谋",
+        "count": 4
+      },
+      {
+        "name": "审案",
+        "count": 2
+      },
+      {
+        "name": "复仇",
+        "count": 2
+      },
+      {
+        "name": "忠谏",
+        "count": 1
+      },
+      {
+        "name": "征战",
+        "count": 1
+      },
+      {
+        "name": "殉节",
+        "count": 1
+      },
+      {
+        "name": "团圆",
+        "count": 1
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "明",
+        "count": 6
+      },
+      {
+        "name": "清",
+        "count": 2
+      },
+      {
+        "name": "封神",
+        "count": 2
+      },
+      {
+        "name": "西游",
+        "count": 1
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "贾宝玉",
+        "count": 32
+      },
+      {
+        "name": "林黛玉",
+        "count": 16
+      },
+      {
+        "name": "晴雯",
+        "count": 8
+      },
+      {
+        "name": "贾政",
+        "count": 4
+      },
+      {
+        "name": "薛宝钗",
+        "count": 4
+      },
+      {
+        "name": "葬花",
+        "count": 3
+      },
+      {
+        "name": "荷锄",
+        "count": 3
+      },
+      {
+        "name": "言归于好",
+        "count": 3
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "旦",
+        "count": 24
+      },
+      {
+        "name": "小生",
+        "count": 17
+      },
+      {
+        "name": "丑",
+        "count": 5
+      },
+      {
+        "name": "贴旦",
+        "count": 4
+      },
+      {
+        "name": "净",
+        "count": 2
+      },
+      {
+        "name": "生",
+        "count": 2
+      },
+      {
+        "name": "老旦",
+        "count": 2
+      },
+      {
+        "name": "老生",
+        "count": 2
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "京剧汇编",
+        "count": 8
+      },
+      {
+        "name": "戏考",
+        "count": 7
+      },
+      {
+        "name": "梅兰芳剧本选",
+        "count": 1
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "贾宝玉",
+        "source": "keywords",
+        "count": 16,
+        "share": 1.0,
+        "lift": 92.0625,
+        "score": 99.1164
+      },
+      {
+        "name": "林黛玉",
+        "source": "keywords",
+        "count": 8,
+        "share": 0.5,
+        "lift": 81.8333,
+        "score": 68.3264
+      },
+      {
+        "name": "晴雯",
+        "source": "keywords",
+        "count": 4,
+        "share": 0.25,
+        "lift": 92.0625,
+        "score": 56.3042
+      },
+      {
+        "name": "荷锄",
+        "source": "keywords",
+        "count": 3,
+        "share": 0.1875,
+        "lift": 92.0625,
+        "score": 48.4978
+      },
+      {
+        "name": "葬花",
+        "source": "keywords",
+        "count": 3,
+        "share": 0.1875,
+        "lift": 92.0625,
+        "score": 48.4978
+      },
+      {
+        "name": "千金一笑",
+        "source": "keywords",
+        "count": 2,
+        "share": 0.125,
+        "lift": 92.0625,
+        "score": 38.4336
+      },
+      {
+        "name": "含恨而死",
+        "source": "keywords",
+        "count": 2,
+        "share": 0.125,
+        "lift": 92.0625,
+        "score": 38.4336
+      },
+      {
+        "name": "恶语",
+        "source": "keywords",
+        "count": 2,
+        "share": 0.125,
+        "lift": 92.0625,
+        "score": 38.4336
+      }
+    ],
+    "explanation": "红楼儿女情主要由富集标签“贾宝玉、林黛玉、晴雯、荷锄”、主题“爱情、家庭伦理、战争”、行当“旦、小生、丑”和来源“京剧汇编、戏考”共同形成。",
+    "coarse_cluster_id": "coarse_love_family",
+    "coarse_cluster_name": "爱情婚姻与家庭伦理"
+  },
+  {
+    "cluster_id": "cluster_graph_18",
+    "cluster_name": "孙膑庞涓斗智",
+    "node_count": 15,
+    "representative_play_ids": [
+      "play_03000000_03051003",
+      "play_02000000_02001047",
+      "play_02000000_02001046",
+      "play_03000000_03051005",
+      "play_03000000_03051006"
+    ],
+    "representative_titles": [
+      "马陵道",
+      "五雷阵",
+      "装疯",
+      "马陵道",
+      "马陵道"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 15
+      },
+      {
+        "name": "宫廷",
+        "count": 9
+      },
+      {
+        "name": "谋略",
+        "count": 6
+      },
+      {
+        "name": "神怪",
+        "count": 5
+      },
+      {
+        "name": "家庭伦理",
+        "count": 5
+      },
+      {
+        "name": "忠义",
+        "count": 3
+      },
+      {
+        "name": "历史",
+        "count": 3
+      },
+      {
+        "name": "征战",
+        "count": 2
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "列国",
+        "count": 15
+      },
+      {
+        "name": "神怪",
+        "count": 14
+      },
+      {
+        "name": "历史演义",
+        "count": 8
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 14
+      },
+      {
+        "name": "计谋",
+        "count": 9
+      },
+      {
+        "name": "审案",
+        "count": 8
+      },
+      {
+        "name": "复仇",
+        "count": 8
+      },
+      {
+        "name": "殉节",
+        "count": 8
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "列国",
+        "count": 15
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "孙膑",
+        "count": 28
+      },
+      {
+        "name": "庞涓",
+        "count": 16
+      },
+      {
+        "name": "王翦",
+        "count": 11
+      },
+      {
+        "name": "毛蕡",
+        "count": 10
+      },
+      {
+        "name": "袁达",
+        "count": 10
+      },
+      {
+        "name": "孙燕",
+        "count": 6
+      },
+      {
+        "name": "五雷阵",
+        "count": 6
+      },
+      {
+        "name": "攻齐起",
+        "count": 5
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "净",
+        "count": 23
+      },
+      {
+        "name": "老生",
+        "count": 16
+      },
+      {
+        "name": "小生",
+        "count": 3
+      },
+      {
+        "name": "其他",
+        "count": 2
+      },
+      {
+        "name": "旦",
+        "count": 2
+      },
+      {
+        "name": "丑",
+        "count": 1
+      },
+      {
+        "name": "外",
+        "count": 1
+      },
+      {
+        "name": "老旦",
+        "count": 1
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "京剧汇编",
+        "count": 9
+      },
+      {
+        "name": "国剧大成",
+        "count": 5
+      },
+      {
+        "name": "戏考",
+        "count": 1
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "孙膑",
+        "source": "keywords",
+        "count": 15,
+        "share": 1.0,
+        "lift": 98.2,
+        "score": 103.4619
+      },
+      {
+        "name": "庞涓",
+        "source": "keywords",
+        "count": 8,
+        "share": 0.5333,
+        "lift": 98.2,
+        "score": 81.9916
+      },
+      {
+        "name": "五雷阵",
+        "source": "keywords",
+        "count": 6,
+        "share": 0.4,
+        "lift": 98.2,
+        "score": 72.6136
+      },
+      {
+        "name": "王翦",
+        "source": "keywords",
+        "count": 6,
+        "share": 0.4,
+        "lift": 98.2,
+        "score": 72.6136
+      },
+      {
+        "name": "攻齐起",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.3333,
+        "lift": 98.2,
+        "score": 66.8613
+      },
+      {
+        "name": "毛蕡",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.3333,
+        "lift": 98.2,
+        "score": 66.8613
+      },
+      {
+        "name": "袁达",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.3333,
+        "lift": 98.2,
+        "score": 66.8613
+      },
+      {
+        "name": "系出",
+        "source": "keywords",
+        "count": 4,
+        "share": 0.2667,
+        "lift": 98.2,
+        "score": 60.0578
+      }
+    ],
+    "explanation": "孙膑庞涓斗智主要由富集标签“孙膑、庞涓、五雷阵、王翦”、主题“战争、宫廷、谋略”、行当“净、老生、小生”和来源“京剧汇编、国剧大成”共同形成。",
+    "coarse_cluster_id": "coarse_lieguo",
+    "coarse_cluster_name": "列国楚汉与春秋风云"
+  },
+  {
+    "cluster_id": "cluster_graph_19",
+    "cluster_name": "沙陀李克用忠义",
+    "node_count": 12,
+    "representative_play_ids": [
+      "play_10000000_10001032",
+      "play_01000000_01022006",
+      "play_01000000_01004011",
+      "play_01000000_01005005",
+      "play_03000000_03013006"
+    ],
+    "representative_titles": [
+      "珠帘寨",
+      "太平桥",
+      "飞虎山",
+      "沙陀国",
+      "五龙斗"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 12
+      },
+      {
+        "name": "忠义",
+        "count": 7
+      },
+      {
+        "name": "历史",
+        "count": 6
+      },
+      {
+        "name": "宫廷",
+        "count": 5
+      },
+      {
+        "name": "谋略",
+        "count": 5
+      },
+      {
+        "name": "家庭伦理",
+        "count": 4
+      },
+      {
+        "name": "爱情",
+        "count": 1
+      },
+      {
+        "name": "公案",
+        "count": 1
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "历史演义",
+        "count": 12
+      },
+      {
+        "name": "隋唐",
+        "count": 10
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 12
+      },
+      {
+        "name": "计谋",
+        "count": 7
+      },
+      {
+        "name": "殉节",
+        "count": 3
+      },
+      {
+        "name": "忠谏",
+        "count": 3
+      },
+      {
+        "name": "归隐",
+        "count": 2
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "隋唐",
+        "count": 10
+      },
+      {
+        "name": "唐",
+        "count": 1
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "李克用",
+        "count": 24
+      },
+      {
+        "name": "周德威",
+        "count": 10
+      },
+      {
+        "name": "程敬思",
+        "count": 10
+      },
+      {
+        "name": "李嗣源",
+        "count": 8
+      },
+      {
+        "name": "李存孝",
+        "count": 6
+      },
+      {
+        "name": "史敬思",
+        "count": 6
+      },
+      {
+        "name": "安敬思",
+        "count": 4
+      },
+      {
+        "name": "晋王",
+        "count": 4
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "净",
+        "count": 22
+      },
+      {
+        "name": "老生",
+        "count": 15
+      },
+      {
+        "name": "小生",
+        "count": 11
+      },
+      {
+        "name": "丑",
+        "count": 10
+      },
+      {
+        "name": "旦",
+        "count": 9
+      },
+      {
+        "name": "末",
+        "count": 3
+      },
+      {
+        "name": "武生",
+        "count": 2
+      },
+      {
+        "name": "其他",
+        "count": 2
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "戏考",
+        "count": 4
+      },
+      {
+        "name": "京剧汇编",
+        "count": 4
+      },
+      {
+        "name": "国剧大成",
+        "count": 2
+      },
+      {
+        "name": "戏考大全",
+        "count": 1
+      },
+      {
+        "name": "孟小冬剧本选",
+        "count": 1
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "李克用",
+        "source": "keywords",
+        "count": 12,
+        "share": 1.0,
+        "lift": 122.75,
+        "score": 119.6421
+      },
+      {
+        "name": "周德威",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.4167,
+        "lift": 122.75,
+        "score": 83.5766
+      },
+      {
+        "name": "程敬思",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.4167,
+        "lift": 122.75,
+        "score": 83.5766
+      },
+      {
+        "name": "德威",
+        "source": "keywords",
+        "count": 4,
+        "share": 0.3333,
+        "lift": 122.75,
+        "score": 75.0722
+      },
+      {
+        "name": "李嗣源",
+        "source": "keywords",
+        "count": 4,
+        "share": 0.3333,
+        "lift": 122.75,
+        "score": 75.0722
+      },
+      {
+        "name": "史敬思",
+        "source": "keywords",
+        "count": 3,
+        "share": 0.25,
+        "lift": 122.75,
+        "score": 64.6637
+      },
+      {
+        "name": "太保",
+        "source": "keywords",
+        "count": 3,
+        "share": 0.25,
+        "lift": 122.75,
+        "score": 64.6637
+      },
+      {
+        "name": "太平桥",
+        "source": "keywords",
+        "count": 3,
+        "share": 0.25,
+        "lift": 122.75,
+        "score": 64.6637
+      }
+    ],
+    "explanation": "沙陀李克用忠义主要由富集标签“李克用、周德威、程敬思、德威”、主题“战争、忠义、历史”、行当“净、老生、小生”和来源“戏考、京剧汇编”共同形成。",
+    "coarse_cluster_id": "coarse_suitang",
+    "coarse_cluster_name": "隋唐英雄与宫闱传奇"
+  },
+  {
+    "cluster_id": "cluster_graph_20",
+    "cluster_name": "楚庄王列国征战",
+    "node_count": 12,
+    "representative_play_ids": [
+      "play_02000000_02001027",
+      "play_01000000_01014012",
+      "play_02000000_02001030",
+      "play_01000000_01036003",
+      "play_03000000_03001003"
+    ],
+    "representative_titles": [
+      "米注山",
+      "摘缨会",
+      "连环阵",
+      "大香山",
+      "清河桥"
+    ],
+    "top_themes": [
+      {
+        "name": "战争",
+        "count": 11
+      },
+      {
+        "name": "历史",
+        "count": 11
+      },
+      {
+        "name": "征战",
+        "count": 6
+      },
+      {
+        "name": "家庭伦理",
+        "count": 5
+      },
+      {
+        "name": "宫廷",
+        "count": 2
+      },
+      {
+        "name": "谋略",
+        "count": 2
+      },
+      {
+        "name": "忠义",
+        "count": 1
+      },
+      {
+        "name": "复仇",
+        "count": 1
+      }
+    ],
+    "top_genealogy_tags": [
+      {
+        "name": "历史演义",
+        "count": 12
+      },
+      {
+        "name": "列国",
+        "count": 7
+      },
+      {
+        "name": "隋唐",
+        "count": 3
+      },
+      {
+        "name": "西游",
+        "count": 1
+      }
+    ],
+    "top_motif_tags": [
+      {
+        "name": "征战",
+        "count": 11
+      },
+      {
+        "name": "审案",
+        "count": 2
+      },
+      {
+        "name": "报恩",
+        "count": 2
+      },
+      {
+        "name": "计谋",
+        "count": 2
+      },
+      {
+        "name": "归隐",
+        "count": 1
+      }
+    ],
+    "top_periods": [
+      {
+        "name": "清",
+        "count": 4
+      },
+      {
+        "name": "隋唐",
+        "count": 3
+      },
+      {
+        "name": "宋",
+        "count": 2
+      },
+      {
+        "name": "西游",
+        "count": 1
+      },
+      {
+        "name": "列国",
+        "count": 1
+      }
+    ],
+    "top_keywords": [
+      {
+        "name": "楚庄王",
+        "count": 21
+      },
+      {
+        "name": "斗越椒",
+        "count": 10
+      },
+      {
+        "name": "养由基",
+        "count": 8
+      },
+      {
+        "name": "唐狡",
+        "count": 6
+      },
+      {
+        "name": "斗贲凰",
+        "count": 6
+      },
+      {
+        "name": "公子茷",
+        "count": 4
+      },
+      {
+        "name": "越椒",
+        "count": 4
+      },
+      {
+        "name": "襄老",
+        "count": 4
+      }
+    ],
+    "top_role_types": [
+      {
+        "name": "净",
+        "count": 12
+      },
+      {
+        "name": "老生",
+        "count": 10
+      },
+      {
+        "name": "丑",
+        "count": 9
+      },
+      {
+        "name": "武生",
+        "count": 7
+      },
+      {
+        "name": "小生",
+        "count": 7
+      },
+      {
+        "name": "旦",
+        "count": 5
+      },
+      {
+        "name": "生",
+        "count": 4
+      },
+      {
+        "name": "外",
+        "count": 3
+      }
+    ],
+    "top_sources": [
+      {
+        "name": "京剧汇编",
+        "count": 6
+      },
+      {
+        "name": "国剧大成",
+        "count": 4
+      },
+      {
+        "name": "戏考",
+        "count": 2
+      }
+    ],
+    "distinctive_terms": [
+      {
+        "name": "楚庄王",
+        "source": "keywords",
+        "count": 11,
+        "share": 0.9167,
+        "lift": 122.75,
+        "score": 115.9085
+      },
+      {
+        "name": "斗越椒",
+        "source": "keywords",
+        "count": 5,
+        "share": 0.4167,
+        "lift": 122.75,
+        "score": 83.5766
+      },
+      {
+        "name": "养由基",
+        "source": "keywords",
+        "count": 4,
+        "share": 0.3333,
+        "lift": 122.75,
+        "score": 75.0722
+      },
+      {
+        "name": "越椒",
+        "source": "keywords",
+        "count": 4,
+        "share": 0.3333,
+        "lift": 122.75,
+        "score": 75.0722
+      },
+      {
+        "name": "唐狡",
+        "source": "keywords",
+        "count": 3,
+        "share": 0.25,
+        "lift": 122.75,
+        "score": 64.6637
+      },
+      {
+        "name": "斗贲凰",
+        "source": "keywords",
+        "count": 3,
+        "share": 0.25,
+        "lift": 122.75,
+        "score": 64.6637
+      },
+      {
+        "name": "注山",
+        "source": "keywords",
+        "count": 3,
+        "share": 0.25,
+        "lift": 122.75,
+        "score": 64.6637
+      },
+      {
+        "name": "公子茷",
+        "source": "keywords",
+        "count": 2,
+        "share": 0.1667,
+        "lift": 122.75,
+        "score": 51.2448
+      }
+    ],
+    "explanation": "楚庄王列国征战主要由富集标签“楚庄王、斗越椒、养由基、越椒”、主题“战争、历史、征战”、行当“净、老生、丑”和来源“京剧汇编、国剧大成”共同形成。",
+    "coarse_cluster_id": "coarse_lieguo",
+    "coarse_cluster_name": "列国楚汉与春秋风云"
+  }
+]

@@ -1,0 +1,337 @@
+% !TEX program = xelatex
+\documentclass[12pt,a4paper]{article}
+
+\usepackage[UTF8,scheme=plain]{ctex}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning}
+
+\geometry{left=2.55cm,right=2.55cm,top=2.35cm,bottom=2.35cm,headheight=25pt}
+\setstretch{1.32}
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0.25em}
+\setCJKmainfont[AutoFakeBold=2.0]{SimSun}
+\setCJKsansfont{Microsoft YaHei}
+\newcommand{\xiaosi}{\zihao{-4}}
+
+\definecolor{SYSUGreen}{RGB}{0,88,49}
+\definecolor{LightGreen}{RGB}{245,250,247}
+\definecolor{DeepGray}{RGB}{55,55,55}
+\definecolor{OperaRed}{RGB}{156,45,43}
+\definecolor{WarmGold}{RGB}{166,122,40}
+\definecolor{LineGray}{RGB}{190,190,190}
+
+\titleformat{\section}{\color{SYSUGreen}\Large\rmfamily\bfseries}{\thesection}{0.7em}{}
+\titleformat{\subsection}{\color{OperaRed}\large\rmfamily\bfseries}{\thesubsection}{0.65em}{}
+\titlespacing*{\section}{0pt}{0.8em}{0.35em}
+\titlespacing*{\subsection}{0pt}{0.55em}{0.2em}
+\captionsetup{font=small,labelfont=bf,labelsep=space,skip=4pt}
+\hypersetup{colorlinks=true,linkcolor=SYSUGreen,urlcolor=SYSUGreen}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\color{gray} 中山大学 \quad 智能工程学院}
+\fancyhead[R]{\small\color{gray} 《戏韵千秋》实验报告}
+\fancyfoot[C]{\small\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{SYSUGreen}\leaders\hrule height \headrulewidth\hfill}}
+
+\newcommand{\keyterm}[1]{\textcolor{OperaRed}{\textbf{#1}}}
+\newcommand{\figpath}[1]{images/#1}
+\renewcommand{\figurename}{图}
+\renewcommand{\tablename}{表}
+\renewcommand{\abstractname}{摘要}
+\tikzset{
+  flowbox/.style={draw=SYSUGreen, rounded corners=2pt, fill=LightGreen, minimum height=0.72cm, align=center, font=\small, inner sep=5pt},
+  flowarrow/.style={-{Latex[length=2mm]}, color=SYSUGreen, line width=0.6pt}
+}
+
+\begin{document}
+
+\begin{titlepage}
+  \centering
+  \vspace*{0.7cm}
+  \includegraphics[width=0.34\textwidth]{logo.png}\\[1.2cm]
+  {\color{SYSUGreen}\rule{0.90\textwidth}{1.5pt}}\\[0.42cm]
+  {\Huge\bfseries 戏韵千秋}\\[0.28cm]
+  {\LARGE\bfseries 京剧剧目关系与版本传承可视化实验报告}\\[0.55cm]
+  {\color{OperaRed}\large 以可解释文化距离组织京剧剧本文本宇宙}\\[0.45cm]
+  {\color{SYSUGreen}\rule{0.90\textwidth}{1pt}}
+
+  \vfill
+  \begin{minipage}{0.83\textwidth}
+    \centering\large
+    \renewcommand{\arraystretch}{1.65}
+    \begin{tabular}{r p{9.1cm}}
+      \textbf{课程/实验：} & 数据可视化课程实验 \\
+      \textbf{作品名称：} & 戏韵千秋：京剧剧本的版本传承与角色宇宙可视化 \\
+      \textbf{小组成员：} & 徐韶泽、方佳欣、王子岳、古彩妍、王心怡 \\
+    \end{tabular}
+  \end{minipage}
+  \vfill
+  {\large 中山大学 · 智能工程学院}\\[0.35cm]
+  {\large 2026 年 7 月}
+\end{titlepage}
+
+\setcounter{page}{1}
+\xiaosi
+
+\begin{abstract}
+面对数量庞大的京剧剧本，按目录逐个打开文件并不难，真正困难的是看清剧目之间的关系：哪些戏共享人物和叙事母题，同名剧目在不同来源中保留或改变了什么，初次接触京剧的观众又该从哪里进入。本实验据此实现数字人文可视化系统《戏韵千秋》。系统将 1,473 个剧本、7,863 条角色记录和 40,000 个文本片段整理为可交互的文化星云：总览用于观察主题社区，版本页用于比较同名异本，AI 导览则把问答结果落回可核对的文本和节点。图谱中的位置综合考虑语义、角色结构、来源、人物网络、舞台节奏和题材谱系，因此具有可解释的关系含义。报告进一步说明三维视图的视觉深度、版本差异的计算依据和 AI 回答的证据链，并明确其数据边界。
+\end{abstract}
+
+\noindent\textbf{关键词：} 京剧数字人文；可视分析；复合距离；版本传承；知识图谱；检索增强生成
+
+\section{问题背景与研究目标}
+京剧剧本既是舞台表演的文本底本，也留下了题材、角色行当、整理来源和版本等多层线索。这些信息原本分散在不同文件中。面对上千份剧本，标题检索只能帮助用户找到一部戏，却很难继续回答：它和哪些剧目相近？相近是因为故事、人物，还是来源？同名剧目又在何处发生了变化？
+
+本实验以“\keyterm{星图即戏谱}”为设计出发点，先让用户从整体关系中看见剧目，再把注意力带到版本和文本证据上。作品采用“星云总览 - 版本传承 - AI 证据”的连续路径。用户可以缩放、筛选和搜索星云；遇到《宇宙锋》《空城计》等重点剧目时，可以转入版本河流与角色比较；提出问题后，侧边栏会返回可点击的证据并高亮相关节点。图谱既呈现关系，也支持后续探索。
+
+\section{数据集与字段契约}
+\subsection{数据规模与分析对象}
+系统采用最终数据版本 \texttt{v3\_final}。基本分析单元为一份剧本文本，同时以规范化剧名建立“剧目组”，从而将单本浏览与同名版本比较连接起来。表\ref{tab:dataset}概括了数据集的主要规模。
+
+\begin{table}[H]
+  \centering
+  \caption{《戏韵千秋》最终数据集概况}
+  \label{tab:dataset}
+  \renewcommand{\arraystretch}{1.35}
+  \begin{tabularx}{0.93\textwidth}{>{\bfseries}l X r}
+    \toprule
+    指标 & 含义 & 数量 \\
+    \midrule
+    剧本/版本节点 & 每份可分析剧本对应一个图谱节点 & 1,473 \\
+    结构化剧本 & 具备可用于展示与检索的结构化字段 & 1,467 \\
+    角色记录 & 剧本角色及其行当等记录 & 7,863 \\
+    剧目组 & 按同名剧目归并后的分析单元 & 1,043 \\
+    多版本剧目组 & 可进入版本传承比较的同名剧目组 & 252 \\
+    文本片段 & 用于检索与证据回答的切分片段 & 40,000 \\
+    来源类型 & 反映剧本收录、整理或流派来源的类别 & 33 \\
+    \bottomrule
+  \end{tabularx}
+\end{table}
+
+\subsection{字段契约与预处理流程}
+在正式解析文本前，项目先约定各类数据的粒度和主键。这样做看似基础，却决定了后续能否把搜索、图谱、版本页和 AI 证据真正连起来。数据对象包括 \texttt{play}、\texttt{role}、\texttt{source}、\texttt{version}、\texttt{play\_group} 与 \texttt{text\_chunk}；其中 \texttt{play\_id} 贯穿各视图，\texttt{play\_group\_id} 用来汇集同名剧目，\texttt{version\_id} 则让版本河流和比较矩阵能定位到具体记录。角色表还记录角色名、行当、场次位置和证据原文；剧本表保留来源、情节摘要、主题词、唱白线索和舞台提示。这些字段既供分析，也供界面直接展示。
+
+实际处理从 PDF 解包和文本抽取开始，依次识别半结构化字段，统一剧名、来源、角色与行当写法，再建立同名版本索引。为了让问答能“说得出出处”，每个文本片段还保留了剧目、版本、章节和来源等元数据。文本切片包括场次、摘要和注释，既避免把整部剧本直接送入检索，也保留足以回溯的上下文。无论用户从搜索框进入、点击星云节点，还是在侧边栏读到一条证据，最终都能回到同一份结构化数据。
+
+\begin{figure}[H]
+  \centering
+  \begin{tikzpicture}[node distance=0.42cm and 0.28cm]
+    \node[flowbox] (pdf) {原始 PDF\\剧本文本};
+    \node[flowbox, right=of pdf] (parse) {文本抽取与\\字段规范化};
+    \node[flowbox, right=of parse] (struct) {剧目、角色、来源\\版本与文本片段};
+    \node[flowbox, below=of struct] (derived) {星云节点、边、星团\\版本河流与差异卡};
+    \node[flowbox, left=of derived] (service) {API、检索索引\\与证据元数据};
+    \node[flowbox, left=of service] (ui) {搜索、星云、版本页\\AI 导览与高亮};
+    \draw[flowarrow] (pdf) -- (parse);
+    \draw[flowarrow] (parse) -- (struct);
+    \draw[flowarrow] (struct) -- (derived);
+    \draw[flowarrow] (derived) -- (service);
+    \draw[flowarrow] (service) -- (ui);
+  \end{tikzpicture}
+  \caption{从原始剧本到交互界面的数据链路}
+  \label{fig:dataflow}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.91\linewidth]{\figpath{剧目搜索.png}}
+  \caption{剧目搜索界面：支持以剧目、角色与相关字段进入数据集}
+  \label{fig:search}
+\end{figure}
+
+\section{数据建模与关系发现方法}
+\subsection{复合文化距离}
+如果图谱只依赖文本嵌入与降维，用户只能看到“它们靠得很近”，却不知道“为什么靠得很近”。因此，本实验为每个剧目同时记录六类特征：\keyterm{主题语义}（剧名、简介、注释与文本摘要）、\keyterm{角色与行当结构}、\keyterm{来源与版本特征}、\keyterm{角色共现网络}、\keyterm{舞台节奏}（场次、唱白与舞台提示）以及\keyterm{题材谱系}（如三国、公案、宫廷、爱情）。两个剧目之间的距离定义为
+\[
+d=0.35d_{\mathrm{semantic}}+0.20d_{\mathrm{role}}+0.15d_{\mathrm{lineage}}+0.15d_{\mathrm{network}}+0.10d_{\mathrm{rhythm}}+0.05d_{\mathrm{topic}}.
+\]
+距离越小，表示两个剧目在叙事主题、角色舞台结构、来源传承或表演节奏上更接近；它\textbf{不表示真实的历史年代距离}。因此，星云中的邻近关系可以逐项解释，不会只停留在视觉位置上。
+
+\subsection{图构建、聚类与布局}
+得到复合距离后，系统为每个节点保留 $K=12$ 个近邻，形成 KNN 图。图结构采用 Leiden 发现社区，HDBSCAN 用于识别自然形成的细星团，两种结果相互参照，减少单一算法造成的偶然分组。UMAP 只承担高维关系到二维平面的布局任务，参数为 \texttt{n\_neighbors=20}、\texttt{min\_dist=0.08} 和余弦度量；星团的命名与解释仍回到主题词、角色、来源和图结构统计。
+
+图谱分为粗、细两层。粗星团先帮助用户把握三国、公案、将门、隋唐等较大的题材区域，细星团再揭示包公公案、杨家将、岳家将、明代清官权奸等更具体的子群。颜色用于区分主题社区，节点大小提示角色规模。前端将边权不低于 $0.78$、且不是注释型桥接边的关系视为强关系，默认优先显示。这样可以保留值得阅读的连接，又不会让 1,473 个节点被全量边遮住。
+
+\begin{figure}[H]
+  \centering
+  \begin{minipage}[t]{0.485\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{\figpath{粗星团2d.png}}\\[-2pt]
+    \small (a) 粗星团二维视图
+  \end{minipage}\hfill
+  \begin{minipage}[t]{0.485\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{\figpath{细星团2d.png}}\\[-2pt]
+    \small (b) 细星团二维视图
+  \end{minipage}
+  \caption{由宏观题材到细粒度剧目社区的双层星云编码}
+  \label{fig:2dclusters}
+\end{figure}
+
+\subsection{三维星云的坐标构成}
+三维视图没有重新训练三维嵌入，也没有把 Z 轴解释为某一种戏曲属性。它以二维星云为底图，将原有的布局坐标映射到 X、Y 平面，再生成一个稳定的视觉深度。设节点的二维显示坐标为 $(x_i,y_i)$，在当前视口中的三维位置可概括为
+\[
+X_i=460\,\hat{x_i},\qquad Y_i=-310\,\hat{y_i},\qquad Z_i=0.58S\sin(h_i+0.11i)+0.42S(w_i-0.5),
+\]
+其中 $\hat{x_i}$、$\hat{y_i}$ 为归一化后的二维坐标，$S=360$ 为深度展开尺度，$h_i$ 由星团 ID 或剧目 ID 的固定哈希得到，$i$ 为节点序号。$w_i$ 由版本数和角色数构造：
+\[
+w_i=\min\left(1,\frac{v_i+r_i/8}{9}\right).
+\]
+这里的 $Z_i$ 只负责把同一平面上的点适度拉开。版本多、角色多的节点会获得略大的深度偏移，但这一偏移不能被理解为“文化距离更远”或“历史年代更早”。
+
+渲染层使用 Three.js 的 \texttt{BufferGeometry} 和点精灵着色器一次性绘制节点。着色器根据点到中心的距离生成亮核与半透明光晕，节点颜色沿用粗星团或细星团的主题色；连线采用加色混合，背景另有 420 个随机星点。透视相机、初始俯仰和偏航、自动缓慢旋转、拖拽旋转和滚轮缩放共同构成可操作的三维观察空间。选中或被 AI 命中的节点会以高亮点和屏幕标记再次强调。
+
+\begin{figure}[H]
+  \centering
+  \begin{tikzpicture}[node distance=0.62cm and 0.7cm]
+    \node[flowbox] (xy) {二维布局坐标\\$x_i,y_i$};
+    \node[flowbox, right=of xy] (z) {星团哈希、节点序号\\版本数与角色数};
+    \node[flowbox, below=of xy] (xyz) {三维位置\\$X_i,Y_i,Z_i$};
+    \node[flowbox, right=of xyz] (render) {相机、光晕、连线\\旋转与拾取};
+    \draw[flowarrow] (xy) -- (xyz);
+    \draw[flowarrow] (z) -- (xyz);
+    \draw[flowarrow] (xyz) -- (render);
+  \end{tikzpicture}
+  \caption{三维星云的坐标与渲染构成。Z 轴为视觉深度，不是额外的语义维度}
+  \label{fig:3dflow}
+\end{figure}
+
+\subsection{线性形态与整理布局}
+三维星云在部分视角下呈现明显的斜向线束，这来自二维底图本身。原始布局把语义相近或关系紧密的节点排在若干带状区域，三维模式仍保留其 X、Y 相对位置；Z 轴的展开幅度有限，投影到屏幕时不会完全打散带状轮廓。强关系边又多沿这些带状区域连接，因此线性印象会更明显。这是布局和视角的共同结果，并不意味着数据只含一维结构。
+
+为改善总览阅读，界面提供“原始布局”和“整理布局”两种模式。原始布局直接使用派生数据中的二维坐标。整理布局先按粗星团或细星团分组，把较大的组按原始 X 均值排到环形中心位置，小星团围绕父星团放置；随后用强关系进行 110 次轻量拉近，并对星团中心施加排斥力。星团内部仍保存原始坐标相对中心的角度，半径经过双曲正切压缩。该模式改变的是展示位置，不改变原始关系数据，适合首次浏览；需要观察原始分布时可切回原始布局。
+
+\section{可视化系统设计与实现}
+\subsection{系统架构与交互流程}
+系统分为数据层、FastAPI 服务层、React/TypeScript 前端和 AI 导览模块。后端提供图谱、剧目、版本、搜索、星团和问答接口；前端负责渲染关系、管理筛选和详情状态；模型调用始终留在后端，以免 API Key 出现在浏览器中。用户的实际路线是“星云总览 $\rightarrow$ 星团解释 $\rightarrow$ 剧目详情 $\rightarrow$ 版本传承 $\rightarrow$ AI 提问 $\rightarrow$ 证据高亮”。无论从哪里开始，都可以继续深入，也可以顺着证据回到关系图。
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.91\linewidth]{\figpath{选择部分星团显示.png}}
+  \caption{星团选择与局部关系查看：通过筛选降低大规模网络的阅读负担}
+  \label{fig:selection}
+\end{figure}
+
+\subsection{星云总览与三维空间表达}
+总览页支持二维、三维和粗细星团切换。二维视图便于寻找和比较，三维视图让各个社区的层次更直观；强关系边只在需要时显示，避免一开始就遮住节点。面对 1,000 级节点，界面将标签分层呈现，并采用按需显示连线的方式保持缩放和搜索的流畅。悬停时可以查看剧名、来源、角色数、行当构成和主题标签，点击后再进入剧目细读。
+
+\begin{figure}[H]
+  \centering
+  \begin{minipage}[t]{0.485\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{\figpath{粗星团3d.png}}\\[-2pt]
+    \small (a) 粗星团三维总览
+  \end{minipage}\hfill
+  \begin{minipage}[t]{0.485\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{\figpath{3d全部连线.png}}\\[-2pt]
+    \small (b) 三维强关系连线
+  \end{minipage}
+  \caption{三维星云图将主题社区与强关系结构同时置于可旋转的观察空间}
+  \label{fig:3dnebula}
+\end{figure}
+
+\section{版本传承的构建与比较依据}
+\subsection{从同名归并到版本河流}
+版本传承的起点是规范化剧名。同名的剧本记录被归并为同一 \texttt{play\_group}，每份文本仍保留自己的 \texttt{version\_id}、来源名、版本标签、角色数和剧本 ID。版本河流按照数据中的 \texttt{version\_index} 排列，展示为来源或整理序列。它不是历史年表：当数据没有可靠的出版或演出年代时，界面和报告都不把前后顺序解释成早晚关系。
+
+版本页把四类信息放在一起阅读。版本河流回答“有哪些可比版本”；角色变形谱显示角色在不同版本中是否出现及其行当；差异卡把某一版本与参考版本的字段差异转写为短文；距离矩阵用数值概览各版本之间的相对差异。参考版本由派生数据中的 \texttt{reference\_version\_id} 指定，报告只说明这一事实，不把运行包中没有提供的参考版本选择规则写成结论。
+
+\subsection{差异卡和距离矩阵}
+差异卡的依据来自可回溯的结构化字段：新增或缺失的角色、同名角色的行当变化、来源差异、关键词增删，以及文本轮廓的变化。文本轮廓包括切片数量、场次数、文本长度、唱腔提示数、念白提示数、舞台提示数、高频角色和高频关键词。它的作用是提示用户应该去比较哪几项，而不是替代对原剧本的细读。
+
+版本距离矩阵保存的是派生的标准化差异值，数值越大表示该对版本在所纳入的比较字段上差异越多。当前运行包交付了结果矩阵和差异字段，但未交付生成矩阵的离线计算脚本，本文不虚构其精确权重公式；矩阵只作为相对比较工具使用。这样可以避免把一个数据处理分数误写成戏曲史判断。
+
+以《空城计》为例，数据集中有戏考、京剧丛刊和戏典三个来源版本，角色数分别为 7、4、10。矩阵显示：戏考与京剧丛刊之间的差异值为 $0.728846$，戏考与戏典为 $0.558392$，京剧丛刊与戏典为 $0.575000$。差异卡还能具体指出角色缺失、王平的行当标注变化，以及场次、文本长度和舞台提示的差异。数值帮助选择比较对象，角色和文本字段才是解释变化的依据。
+
+\begin{figure}[H]
+  \centering
+  \begin{minipage}[t]{0.485\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{\figpath{版本传承报告.png}}\\[-2pt]
+    \small (a) 版本传承报告与差异摘要
+  \end{minipage}\hfill
+  \begin{minipage}[t]{0.485\linewidth}
+    \centering
+    \includegraphics[width=\linewidth]{\figpath{ai导览.png}}\\[-2pt]
+    \small (b) 带证据与联动目标的 AI 导览
+  \end{minipage}
+  \caption{从版本细读到证据问答的解释性分析界面}
+  \label{fig:versionai}
+\end{figure}
+
+\section{AI 导览的模型与证据链}
+\subsection{模型配置和离线索引}
+AI 导览通过后端调用 SiliconFlow 提供的 OpenAI 兼容接口。当前配置中，\url{Qwen/Qwen3-8B} 负责生成中文回答，\url{BAAI/bge-m3} 负责把文本和问题编码为向量；模型名与访问密钥都读取后端 \texttt{.env}，浏览器端不保存密钥。当前版本没有启用重排序模型。
+
+系统在运行前已把 40,000 个文本片段编码为 1,024 维向量，并写入 FAISS 的 \url{IndexFlatIP} 索引。每个向量旁边都保留元数据，包括剧名、剧目组、版本、角色、章节、片段类型、来源和原文。查询时，问题向量和库中向量均做 L2 归一化，因此内积可作为余弦相似度使用。建立索引是离线步骤，正常提问只编码用户问题，不会重新处理全部剧本。
+
+\subsection{检索、生成与高亮}
+AI 回答并不把问题直接交给大模型。系统先从问题中识别版本差异、角色事实、剧情概述、星团解释、相似原因、来源事实或推荐等意图；有明确剧目或星团时，优先直接读取对应数据。随后进行字段加权的结构化检索和向量检索，当前各自最多召回 8 条证据。版本问题优先使用版本差异卡、版本河流和距离矩阵，角色问题优先角色记录和文本片段。合并、去重和按意图重排后，最多保留 12 条证据作为回答上下文。
+
+提示词要求模型按“结论、依据、可继续探索”组织答案，并引用证据编号。后端把被使用的证据转为前端字段，附带 \texttt{play\_id}、\texttt{play\_group\_id}、\texttt{version\_id} 或 \texttt{cluster\_id}。用户点击证据后，界面据此高亮剧目、版本或星团。对于证据不足，系统明确回答“当前数据不足以判断”；模型调用失败时，优先查 FAQ 缓存，缓存也不可用时返回已检索到的纯证据，不再生成额外解释。
+
+\begin{figure}[H]
+  \centering
+  \begin{tikzpicture}[node distance=0.28cm and 0.25cm]
+    \node[flowbox] (q) {用户问题\\与当前选择};
+    \node[flowbox, right=of q] (intent) {意图识别\\目标定位};
+    \node[flowbox, right=of intent] (retrieve) {结构化检索 +\\FAISS 向量检索};
+    \node[flowbox, below=of retrieve] (evidence) {证据合并、去重\\排序与上下文};
+    \node[flowbox, left=of evidence] (model) {Qwen3-8B\\生成受控回答};
+    \node[flowbox, left=of model] (link) {证据引用与\\图谱高亮};
+    \draw[flowarrow] (q) -- (intent);
+    \draw[flowarrow] (intent) -- (retrieve);
+    \draw[flowarrow] (retrieve) -- (evidence);
+    \draw[flowarrow] (evidence) -- (model);
+    \draw[flowarrow] (model) -- (link);
+  \end{tikzpicture}
+  \caption{AI 导览的证据链。模型负责组织语言，数据记录提供回答依据}
+  \label{fig:ragflow}
+\end{figure}
+
+\section{系统整合与界面优化}
+在主要功能完成后，项目又围绕真实演示路线进行了整体打磨。配色、控件密度、侧边栏层级、AI 问答框、版本河流和三维星云作为同一条探索路径的不同环节共同调整。深色背景保留星云的空间层次，题材色系帮助用户区分文化社区，信息面板以较低干扰呈现证据和操作反馈。搜索、悬停、选中、版本进入与 AI 高亮都使用相同的对象 ID，使用户可以沿着一个问题继续查下去。
+
+在性能方面，二维视图按层绘制节点、光晕、标签和边；三维视图把节点和边写入连续缓冲区，通过 WebGL 一次渲染。强边默认可见，全部边、局部筛选和细星团视图由用户按需要打开。这样的策略把“关系很多”与“画面必须同时显示所有关系”分开处理，保证总览仍可阅读。
+
+\section{案例分析：从星团到版本传承}
+\subsection{宏观题材社区的可解释分化}
+从粗星团的统计看，\keyterm{公案清官与明清冤案}社区有 425 个节点，\keyterm{三国群雄与智谋征战}社区有 311 个节点；隋唐、将门、水浒、神怪、爱情家庭与宫廷也各自形成了相对稳定的区域。题材词只能解释其中一部分。反复出现的核心人物、行当组合、叙事母题和来源线索共同作用，才让这些戏在图中形成可辨识的文化结构。
+
+星团边界没有把所有熟悉的剧名做机械分类。《空城计》可以在诸葛亮、司马懿以及战争、谋略等线索构成的局部中被迅速定位；《宇宙锋》则因版本和人物结构进入公案与冤案相关的社区。这种邻近关系可以追问，也可以回到数据中验证。星云因此承担了提出分析问题的作用，而不是停留在背景画面。
+
+\subsection{同名剧目中的“稳定”与“变化”}
+数据中有 252 个多版本剧目组，足以支撑版本比较。针对《宇宙锋》《二进宫》《空城计》《打渔杀家》《玉堂春》和《打严嵩》等重点案例，页面不预设哪一版本“更权威”，而是把来源、角色、行当、文本摘要和差异距离并列给出。比较时可以看到，同名剧目的\keyterm{叙事骨架往往仍然延续}，但角色是否出现、行当怎样标注、来源如何记录以及情节怎样表述都会变化。这些差异对应着整理、选编和舞台实践中的不同传承路径。
+
+这类比较也有明确边界：版本数多不等于历史时间更长。系统只按数据中可验证的来源或整理顺序展示，差异卡片只引用角色、关键词、来源和文本轮廓等派生字段。把限制写在界面与报告中，能够避免图表给出超出数据所能支持的结论。
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.64\linewidth]{\figpath{细星团3d.png}}
+  \caption{细星团三维视图：在局部空间中观察主题、角色与版本关系的交叠}
+  \label{fig:fine3d}
+\end{figure}
+
+\section{实验总结与特色}
+本实验把分散的京剧剧本文本转化为一套可交互的文化图谱。复合文化距离让“相近”可以从主题、角色、来源和舞台结构几方面解释；三维视图在二维关系上增加视觉深度，并明确保留其非语义轴的边界；版本页将同名记录的来源、角色和文本差异并置；AI 导览通过检索、证据引用和缓存回退控制生成式问答的范围。字段契约和跨视图 ID 保证搜索、节点、版本卡片与问答证据都指向同一份数据。
+
+下一步可以补充更可靠的出版与演出年代，让版本河流具有更强的历史维度；也可以引入人工标注和专家校验，继续迭代行当与题材标签；还可以把用户的探索过程整理成面向教学的导览路线。就本次实验而言，《戏韵千秋》说明大规模戏曲文本不必只作为档案被检索，它同样可以被组织为可解释、可进入、也值得反复发现的关系空间。
+
+
+\end{document}

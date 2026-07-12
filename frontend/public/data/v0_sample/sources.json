@@ -1,0 +1,173 @@
+[
+  {
+    "source_id": "source_01000000",
+    "source_name": "戏考",
+    "source_collection": "《戏考》",
+    "source_file_code": "01000000",
+    "source_bibliography": "《戏考》",
+    "source_category": "网站",
+    "original_zip": "01000000.zip",
+    "play_count": 448,
+    "play_group_count": 426,
+    "example_play_ids": [
+      "play_01000000_01001001",
+      "play_01000000_01001002",
+      "play_01000000_01001003",
+      "play_01000000_01001004",
+      "play_01000000_01001005"
+    ],
+    "xlsx_row_index": 2
+  },
+  {
+    "source_id": "source_02000000",
+    "source_name": "国剧大成",
+    "source_collection": "《国剧大成》",
+    "source_file_code": "02000000",
+    "source_bibliography": "《国剧大成》",
+    "source_category": "剧本集",
+    "original_zip": "02000000.zip",
+    "play_count": 194,
+    "play_group_count": 135,
+    "example_play_ids": [
+      "play_02000000_02001001",
+      "play_02000000_02001002",
+      "play_02000000_02001003",
+      "play_02000000_02001004",
+      "play_02000000_02001005"
+    ],
+    "xlsx_row_index": 3
+  },
+  {
+    "source_id": "source_04000000",
+    "source_name": "京剧丛刊",
+    "source_collection": "《京剧丛刊》",
+    "source_file_code": "04000000",
+    "source_bibliography": "《京剧丛刊》",
+    "source_category": "剧本集",
+    "original_zip": "04000000.zip",
+    "play_count": 71,
+    "play_group_count": 71,
+    "example_play_ids": [
+      "play_04000000_04001001",
+      "play_04000000_04001002",
+      "play_04000000_04001003",
+      "play_04000000_04002003",
+      "play_04000000_04003001"
+    ],
+    "xlsx_row_index": 5
+  },
+  {
+    "source_id": "source_09000000",
+    "source_name": "京剧流派剧目荟萃",
+    "source_collection": "《京剧流派剧目荟萃》",
+    "source_file_code": "09000000",
+    "source_bibliography": "《京剧流派剧目荟萃》",
+    "source_category": "剧本集",
+    "original_zip": "09000000.zip",
+    "play_count": 8,
+    "play_group_count": 8,
+    "example_play_ids": [
+      "play_09000000_09001002",
+      "play_09000000_09002002",
+      "play_09000000_09003003",
+      "play_09000000_09004003",
+      "play_09000000_09006001"
+    ],
+    "xlsx_row_index": 9
+  },
+  {
+    "source_id": "source_14000000",
+    "source_name": "戏典",
+    "source_collection": "《戏典》",
+    "source_file_code": "14000000",
+    "source_bibliography": "《戏典》",
+    "source_category": "剧本集",
+    "original_zip": "14000000.zip",
+    "play_count": 25,
+    "play_group_count": 25,
+    "example_play_ids": [
+      "play_14000000_14001001",
+      "play_14000000_14001002",
+      "play_14000000_14001003",
+      "play_14000000_14001004",
+      "play_14000000_14001005"
+    ],
+    "xlsx_row_index": 14
+  },
+  {
+    "source_id": "source_70001000",
+    "source_name": "周信芳剧本选",
+    "source_collection": "周信芳剧本选",
+    "source_file_code": "70001000",
+    "source_bibliography": "《周信芳演出剧本选集》",
+    "source_category": "剧本集",
+    "original_zip": "70001000.zip",
+    "play_count": 14,
+    "play_group_count": 13,
+    "example_play_ids": [
+      "play_70001000_70001101",
+      "play_70001000_70001102",
+      "play_70001000_70001103",
+      "play_70001000_70001106",
+      "play_70001000_70001107"
+    ],
+    "xlsx_row_index": 16
+  },
+  {
+    "source_id": "source_70201000",
+    "source_name": "梅兰芳剧本选",
+    "source_collection": "梅兰芳剧本选",
+    "source_file_code": "70201000",
+    "source_bibliography": "《梅兰芳演出剧本选集》",
+    "source_category": "剧本集",
+    "original_zip": "70201000.zip",
+    "play_count": 11,
+    "play_group_count": 11,
+    "example_play_ids": [
+      "play_70201000_70201101",
+      "play_70201000_70201104",
+      "play_70201000_70201105",
+      "play_70201000_70201106",
+      "play_70201000_70201107"
+    ],
+    "xlsx_row_index": 25
+  },
+  {
+    "source_id": "source_70203000",
+    "source_name": "荀慧生剧本选",
+    "source_collection": "荀慧生剧本选",
+    "source_file_code": "70203000",
+    "source_bibliography": "《荀慧生演出剧本选集》",
+    "source_category": "剧本集",
+    "original_zip": "70203000.zip",
+    "play_count": 15,
+    "play_group_count": 15,
+    "example_play_ids": [
+      "play_70203000_70203101",
+      "play_70203000_70203102",
+      "play_70203000_70203103",
+      "play_70203000_70203104",
+      "play_70203000_70203105"
+    ],
+    "xlsx_row_index": 28
+  },
+  {
+    "source_id": "source_80000000",
+    "source_name": "录音、唱片本",
+    "source_collection": "录音、唱片本",
+    "source_file_code": "80000000",
+    "source_bibliography": "根据录音记录本",
+    "source_category": "录音整理",
+    "original_zip": "80000000.zip",
+    "play_count": 34,
+    "play_group_count": 31,
+    "example_play_ids": [
+      "play_80000000_80000001",
+      "play_80000000_80000002",
+      "play_80000000_80000003",
+      "play_80000000_80000004",
+      "play_80000000_80000005"
+    ],
+    "xlsx_row_index": 46
+  }
+]

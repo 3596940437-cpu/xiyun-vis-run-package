@@ -1,0 +1,692 @@
+[
+  {
+    "source_id": "source_01000000",
+    "source_name": "戏考",
+    "source_collection": "《戏考》",
+    "source_file_code": "01000000",
+    "source_bibliography": "《戏考》",
+    "source_category": "网站",
+    "original_zip": "01000000.zip",
+    "play_count": 448,
+    "play_group_count": 426,
+    "example_play_ids": [
+      "play_01000000_01001001",
+      "play_01000000_01001002",
+      "play_01000000_01001003",
+      "play_01000000_01001004",
+      "play_01000000_01001005"
+    ],
+    "xlsx_row_index": 2
+  },
+  {
+    "source_id": "source_02000000",
+    "source_name": "国剧大成",
+    "source_collection": "《国剧大成》",
+    "source_file_code": "02000000",
+    "source_bibliography": "《国剧大成》",
+    "source_category": "剧本集",
+    "original_zip": "02000000.zip",
+    "play_count": 194,
+    "play_group_count": 135,
+    "example_play_ids": [
+      "play_02000000_02001001",
+      "play_02000000_02001002",
+      "play_02000000_02001003",
+      "play_02000000_02001004",
+      "play_02000000_02001005"
+    ],
+    "xlsx_row_index": 3
+  },
+  {
+    "source_id": "source_03000000",
+    "source_name": "京剧汇编",
+    "source_collection": "《京剧汇编》",
+    "source_file_code": "03000000",
+    "source_bibliography": "《京剧汇编》",
+    "source_category": "剧本集",
+    "original_zip": "03000000.zip",
+    "play_count": 360,
+    "play_group_count": 342,
+    "example_play_ids": [
+      "play_03000000_03001001",
+      "play_03000000_03001002",
+      "play_03000000_03001003",
+      "play_03000000_03001004",
+      "play_03000000_03001005"
+    ],
+    "xlsx_row_index": 4
+  },
+  {
+    "source_id": "source_04000000",
+    "source_name": "京剧丛刊",
+    "source_collection": "《京剧丛刊》",
+    "source_file_code": "04000000",
+    "source_bibliography": "《京剧丛刊》",
+    "source_category": "剧本集",
+    "original_zip": "04000000.zip",
+    "play_count": 71,
+    "play_group_count": 71,
+    "example_play_ids": [
+      "play_04000000_04001001",
+      "play_04000000_04001002",
+      "play_04000000_04001003",
+      "play_04000000_04002003",
+      "play_04000000_04003001"
+    ],
+    "xlsx_row_index": 5
+  },
+  {
+    "source_id": "source_05000000",
+    "source_name": "传统剧目汇编",
+    "source_collection": "《传统剧目汇编》",
+    "source_file_code": "05000000",
+    "source_bibliography": "《传统剧目汇编》",
+    "source_category": "剧本集",
+    "original_zip": "05000000.zip",
+    "play_count": 67,
+    "play_group_count": 53,
+    "example_play_ids": [
+      "play_05000000_05002001",
+      "play_05000000_05002003",
+      "play_05000000_05002005",
+      "play_05000000_05003001",
+      "play_05000000_05003002"
+    ],
+    "xlsx_row_index": 6
+  },
+  {
+    "source_id": "source_07000000",
+    "source_name": "中国传统戏曲剧本选集",
+    "source_collection": "《中国传统戏曲剧本选集》",
+    "source_file_code": "07000000",
+    "source_bibliography": "《中国传统戏曲剧本选集》",
+    "source_category": "剧本集",
+    "original_zip": "07000000.zip",
+    "play_count": 2,
+    "play_group_count": 2,
+    "example_play_ids": [
+      "play_07000000_07002001",
+      "play_07000000_07004002"
+    ],
+    "xlsx_row_index": 7
+  },
+  {
+    "source_id": "source_08000000",
+    "source_name": "京剧集成",
+    "source_collection": "《京剧集成》",
+    "source_file_code": "08000000",
+    "source_bibliography": "《京剧集成》",
+    "source_category": "剧本集",
+    "original_zip": "08000000.zip",
+    "play_count": 4,
+    "play_group_count": 4,
+    "example_play_ids": [
+      "play_08000000_08002005",
+      "play_08000000_08005002",
+      "play_08000000_08005004",
+      "play_08000000_08005006"
+    ],
+    "xlsx_row_index": 8
+  },
+  {
+    "source_id": "source_09000000",
+    "source_name": "京剧流派剧目荟萃",
+    "source_collection": "《京剧流派剧目荟萃》",
+    "source_file_code": "09000000",
+    "source_bibliography": "《京剧流派剧目荟萃》",
+    "source_category": "剧本集",
+    "original_zip": "09000000.zip",
+    "play_count": 8,
+    "play_group_count": 8,
+    "example_play_ids": [
+      "play_09000000_09001002",
+      "play_09000000_09002002",
+      "play_09000000_09003003",
+      "play_09000000_09004003",
+      "play_09000000_09006001"
+    ],
+    "xlsx_row_index": 9
+  },
+  {
+    "source_id": "source_10000000",
+    "source_name": "戏考大全",
+    "source_collection": "《戏考大全》",
+    "source_file_code": "10000000",
+    "source_bibliography": "《戏考大全》",
+    "source_category": "网站",
+    "original_zip": "10000000.zip",
+    "play_count": 3,
+    "play_group_count": 3,
+    "example_play_ids": [
+      "play_10000000_10001032",
+      "play_10000000_10002001",
+      "play_10000000_10002046"
+    ],
+    "xlsx_row_index": 10
+  },
+  {
+    "source_id": "source_11000000",
+    "source_name": "传统戏曲剧目资料汇编",
+    "source_collection": "《传统戏曲剧目资料汇编》",
+    "source_file_code": "11000000",
+    "source_bibliography": "《传统戏曲剧目资料汇编》",
+    "source_category": "剧本集",
+    "original_zip": "11000000.zip",
+    "play_count": 2,
+    "play_group_count": 2,
+    "example_play_ids": [
+      "play_11000000_11001001",
+      "play_11000000_11001003"
+    ],
+    "xlsx_row_index": 11
+  },
+  {
+    "source_id": "source_13000000",
+    "source_name": "剧学月刊",
+    "source_collection": "《剧学月刊》",
+    "source_file_code": "13000000",
+    "source_bibliography": "《剧学月刊》",
+    "source_category": "剧本集",
+    "original_zip": "13000000.zip",
+    "play_count": 7,
+    "play_group_count": 7,
+    "example_play_ids": [
+      "play_13000000_13001007",
+      "play_13000000_13003007",
+      "play_13000000_13003008",
+      "play_13000000_13004002",
+      "play_13000000_13004003"
+    ],
+    "xlsx_row_index": 13
+  },
+  {
+    "source_id": "source_14000000",
+    "source_name": "戏典",
+    "source_collection": "《戏典》",
+    "source_file_code": "14000000",
+    "source_bibliography": "《戏典》",
+    "source_category": "剧本集",
+    "original_zip": "14000000.zip",
+    "play_count": 25,
+    "play_group_count": 25,
+    "example_play_ids": [
+      "play_14000000_14001001",
+      "play_14000000_14001002",
+      "play_14000000_14001003",
+      "play_14000000_14001004",
+      "play_14000000_14001005"
+    ],
+    "xlsx_row_index": 14
+  },
+  {
+    "source_id": "source_15000000",
+    "source_name": "大众戏曲丛书",
+    "source_collection": "《大众戏曲丛书》",
+    "source_file_code": "15000000",
+    "source_bibliography": "《大众戏曲丛书》",
+    "source_category": "剧本集",
+    "original_zip": "15000000.zip",
+    "play_count": 1,
+    "play_group_count": 1,
+    "example_play_ids": [
+      "play_15000000_15013001"
+    ],
+    "xlsx_row_index": 15
+  },
+  {
+    "source_id": "source_70001000",
+    "source_name": "周信芳剧本选",
+    "source_collection": "周信芳剧本选",
+    "source_file_code": "70001000",
+    "source_bibliography": "《周信芳演出剧本选集》",
+    "source_category": "剧本集",
+    "original_zip": "70001000.zip",
+    "play_count": 14,
+    "play_group_count": 13,
+    "example_play_ids": [
+      "play_70001000_70001101",
+      "play_70001000_70001102",
+      "play_70001000_70001103",
+      "play_70001000_70001106",
+      "play_70001000_70001107"
+    ],
+    "xlsx_row_index": 16
+  },
+  {
+    "source_id": "source_70002000",
+    "source_name": "马连良剧本选",
+    "source_collection": "马连良剧本选",
+    "source_file_code": "70002000",
+    "source_bibliography": "《马连良演出剧本选集》",
+    "source_category": "剧本集",
+    "original_zip": "70002000.zip",
+    "play_count": 9,
+    "play_group_count": 9,
+    "example_play_ids": [
+      "play_70002000_70002101",
+      "play_70002000_70002102",
+      "play_70002000_70002103",
+      "play_70002000_70002104",
+      "play_70002000_70002105"
+    ],
+    "xlsx_row_index": 19
+  },
+  {
+    "source_id": "source_70003000",
+    "source_name": "李洪春剧本选",
+    "source_collection": "李洪春剧本选",
+    "source_file_code": "70003000",
+    "source_bibliography": "《关羽戏集：李洪春演出本》",
+    "source_category": "单行本",
+    "original_zip": "70003000.zip",
+    "play_count": 27,
+    "play_group_count": 27,
+    "example_play_ids": [
+      "play_70003000_70003101",
+      "play_70003000_70003102",
+      "play_70003000_70003103",
+      "play_70003000_70003104",
+      "play_70003000_70003105"
+    ],
+    "xlsx_row_index": 21
+  },
+  {
+    "source_id": "source_70004000",
+    "source_name": "唐韵笙剧本选",
+    "source_collection": "唐韵笙剧本选",
+    "source_file_code": "70004000",
+    "source_bibliography": "《唐韵笙舞台艺术集》",
+    "source_category": "剧本集",
+    "original_zip": "70004000.zip",
+    "play_count": 10,
+    "play_group_count": 10,
+    "example_play_ids": [
+      "play_70004000_70004101",
+      "play_70004000_70004102",
+      "play_70004000_70004103",
+      "play_70004000_70004104",
+      "play_70004000_70004105"
+    ],
+    "xlsx_row_index": 22
+  },
+  {
+    "source_id": "source_70005000",
+    "source_name": "汪笑侬剧本选",
+    "source_collection": "汪笑侬剧本选",
+    "source_file_code": "70005000",
+    "source_bibliography": "《汪笑侬戏曲集》",
+    "source_category": "剧本集",
+    "original_zip": "70005000.zip",
+    "play_count": 14,
+    "play_group_count": 14,
+    "example_play_ids": [
+      "play_70005000_70005101",
+      "play_70005000_70005102",
+      "play_70005000_70005103",
+      "play_70005000_70005104",
+      "play_70005000_70005106"
+    ],
+    "xlsx_row_index": 23
+  },
+  {
+    "source_id": "source_70006000",
+    "source_name": "孟小冬剧本选",
+    "source_collection": "孟小冬剧本选",
+    "source_file_code": "70006000",
+    "source_bibliography": "《余派戏词钱氏辑粹》",
+    "source_category": "剧本集",
+    "original_zip": "70006000.zip",
+    "play_count": 12,
+    "play_group_count": 12,
+    "example_play_ids": [
+      "play_70006000_70006101",
+      "play_70006000_70006102",
+      "play_70006000_70006103",
+      "play_70006000_70006104",
+      "play_70006000_70006105"
+    ],
+    "xlsx_row_index": 24
+  },
+  {
+    "source_id": "source_70201000",
+    "source_name": "梅兰芳剧本选",
+    "source_collection": "梅兰芳剧本选",
+    "source_file_code": "70201000",
+    "source_bibliography": "《梅兰芳演出剧本选集》",
+    "source_category": "剧本集",
+    "original_zip": "70201000.zip",
+    "play_count": 11,
+    "play_group_count": 11,
+    "example_play_ids": [
+      "play_70201000_70201101",
+      "play_70201000_70201104",
+      "play_70201000_70201105",
+      "play_70201000_70201106",
+      "play_70201000_70201107"
+    ],
+    "xlsx_row_index": 25
+  },
+  {
+    "source_id": "source_70202000",
+    "source_name": "程砚秋剧本选",
+    "source_collection": "程砚秋剧本选",
+    "source_file_code": "70202000",
+    "source_bibliography": "《程砚秋演出剧本选集》",
+    "source_category": "剧本集",
+    "original_zip": "70202000.zip",
+    "play_count": 12,
+    "play_group_count": 12,
+    "example_play_ids": [
+      "play_70202000_70202101",
+      "play_70202000_70202102",
+      "play_70202000_70202103",
+      "play_70202000_70202104",
+      "play_70202000_70202105"
+    ],
+    "xlsx_row_index": 27
+  },
+  {
+    "source_id": "source_70203000",
+    "source_name": "荀慧生剧本选",
+    "source_collection": "荀慧生剧本选",
+    "source_file_code": "70203000",
+    "source_bibliography": "《荀慧生演出剧本选集》",
+    "source_category": "剧本集",
+    "original_zip": "70203000.zip",
+    "play_count": 15,
+    "play_group_count": 15,
+    "example_play_ids": [
+      "play_70203000_70203101",
+      "play_70203000_70203102",
+      "play_70203000_70203103",
+      "play_70203000_70203104",
+      "play_70203000_70203105"
+    ],
+    "xlsx_row_index": 28
+  },
+  {
+    "source_id": "source_70204000",
+    "source_name": "欧阳予倩剧本选",
+    "source_collection": "欧阳予倩剧本选",
+    "source_file_code": "70204000",
+    "source_bibliography": "《欧阳予倩文集》",
+    "source_category": "剧本集",
+    "original_zip": "70204000.zip",
+    "play_count": 2,
+    "play_group_count": 2,
+    "example_play_ids": [
+      "play_70204000_70204106",
+      "play_70204000_70204107"
+    ],
+    "xlsx_row_index": 30
+  },
+  {
+    "source_id": "source_70401000",
+    "source_name": "郝寿臣剧本选",
+    "source_collection": "郝寿臣剧本选",
+    "source_file_code": "70401000",
+    "source_bibliography": "《郝寿臣演出剧本选集》",
+    "source_category": "剧本集",
+    "original_zip": "70401000.zip",
+    "play_count": 5,
+    "play_group_count": 5,
+    "example_play_ids": [
+      "play_70401000_70401101",
+      "play_70401000_70401104",
+      "play_70401000_70401106",
+      "play_70401000_70401107",
+      "play_70401000_70401110"
+    ],
+    "xlsx_row_index": 32
+  },
+  {
+    "source_id": "source_70402000",
+    "source_name": "方荣翔剧本选",
+    "source_collection": "方荣翔剧本选",
+    "source_file_code": "70402000",
+    "source_bibliography": "《方荣翔戏剧集》",
+    "source_category": "剧本集",
+    "original_zip": "70402000.zip",
+    "play_count": 5,
+    "play_group_count": 5,
+    "example_play_ids": [
+      "play_70402000_70402101",
+      "play_70402000_70402102",
+      "play_70402000_70402103",
+      "play_70402000_70402104",
+      "play_70402000_70402105"
+    ],
+    "xlsx_row_index": 33
+  },
+  {
+    "source_id": "source_70601000",
+    "source_name": "萧长华剧本选",
+    "source_collection": "萧长华剧本选",
+    "source_file_code": "70601000",
+    "source_bibliography": "《萧长华演出剧本选集》",
+    "source_category": "剧本集",
+    "original_zip": "70601000.zip",
+    "play_count": 9,
+    "play_group_count": 2,
+    "example_play_ids": [
+      "play_70601000_70601101",
+      "play_70601000_70601102",
+      "play_70601000_70601103",
+      "play_70601000_70601104",
+      "play_70601000_70601105"
+    ],
+    "xlsx_row_index": 34
+  },
+  {
+    "source_id": "source_70801000",
+    "source_name": "田汉剧本选",
+    "source_collection": "田汉剧本选",
+    "source_file_code": "70801000",
+    "source_bibliography": "《田汉全集》",
+    "source_category": "全集",
+    "original_zip": "70801000.zip",
+    "play_count": 4,
+    "play_group_count": 4,
+    "example_play_ids": [
+      "play_70801000_70801109",
+      "play_70801000_70801115",
+      "play_70801000_70801119",
+      "play_70801000_70801120"
+    ],
+    "xlsx_row_index": 35
+  },
+  {
+    "source_id": "source_70802000",
+    "source_name": "老舍剧本选",
+    "source_collection": "老舍剧本选",
+    "source_file_code": "70802000",
+    "source_bibliography": "《老舍剧作全集》",
+    "source_category": "全集",
+    "original_zip": "70802000.zip",
+    "play_count": 2,
+    "play_group_count": 2,
+    "example_play_ids": [
+      "play_70802000_70802106",
+      "play_70802000_70802107"
+    ],
+    "xlsx_row_index": 36
+  },
+  {
+    "source_id": "source_70803000",
+    "source_name": "范钧宏剧本选",
+    "source_collection": "范钧宏剧本选",
+    "source_file_code": "70803000",
+    "source_bibliography": "《范钧宏戏曲选》",
+    "source_category": "剧本集",
+    "original_zip": "70803000.zip",
+    "play_count": 1,
+    "play_group_count": 1,
+    "example_play_ids": [
+      "play_70803000_70803102"
+    ],
+    "xlsx_row_index": 37
+  },
+  {
+    "source_id": "source_70804000",
+    "source_name": "范钧宏、吕瑞明剧本选",
+    "source_collection": "范钧宏、吕瑞明剧本选",
+    "source_file_code": "70804000",
+    "source_bibliography": "《范钧宏、吕瑞明戏曲选》",
+    "source_category": "剧本集",
+    "original_zip": "70804000.zip",
+    "play_count": 1,
+    "play_group_count": 1,
+    "example_play_ids": [
+      "play_70804000_70804101"
+    ],
+    "xlsx_row_index": 38
+  },
+  {
+    "source_id": "source_70805000",
+    "source_name": "翁偶虹剧本选",
+    "source_collection": "翁偶虹剧本选",
+    "source_file_code": "70805000",
+    "source_bibliography": "《翁偶虹剧作选》",
+    "source_category": "剧本集",
+    "original_zip": "70805000.zip",
+    "play_count": 6,
+    "play_group_count": 6,
+    "example_play_ids": [
+      "play_70805000_70805101",
+      "play_70805000_70805102",
+      "play_70805000_70805104",
+      "play_70805000_70805105",
+      "play_70805000_70805106"
+    ],
+    "xlsx_row_index": 39
+  },
+  {
+    "source_id": "source_70901000",
+    "source_name": "侯玉山剧本选",
+    "source_collection": "侯玉山剧本选",
+    "source_file_code": "70901000",
+    "source_bibliography": "《侯玉山昆曲谱》",
+    "source_category": "剧本集",
+    "original_zip": "70901000.zip",
+    "play_count": 20,
+    "play_group_count": 20,
+    "example_play_ids": [
+      "play_70901000_70901101",
+      "play_70901000_70901102",
+      "play_70901000_70901103",
+      "play_70901000_70901104",
+      "play_70901000_70901105"
+    ],
+    "xlsx_row_index": 42
+  },
+  {
+    "source_id": "source_70902000",
+    "source_name": "俞振飞剧本选",
+    "source_collection": "俞振飞剧本选",
+    "source_file_code": "70902000",
+    "source_bibliography": "《振飞曲谱》",
+    "source_category": "剧本集",
+    "original_zip": "70902000.zip",
+    "play_count": 45,
+    "play_group_count": 45,
+    "example_play_ids": [
+      "play_70902000_70902101",
+      "play_70902000_70902102",
+      "play_70902000_70902103",
+      "play_70902000_70902104",
+      "play_70902000_70902105"
+    ],
+    "xlsx_row_index": 43
+  },
+  {
+    "source_id": "source_70903000",
+    "source_name": "侯少奎剧本选",
+    "source_collection": "侯少奎剧本选",
+    "source_file_code": "70903000",
+    "source_bibliography": "《大武生：侯少奎昆曲五十年》",
+    "source_category": "剧本集",
+    "original_zip": "70903000.zip",
+    "play_count": 1,
+    "play_group_count": 1,
+    "example_play_ids": [
+      "play_70903000_70903102"
+    ],
+    "xlsx_row_index": 44
+  },
+  {
+    "source_id": "source_70904000",
+    "source_name": "马祥麟剧本选",
+    "source_collection": "马祥麟剧本选",
+    "source_file_code": "70904000",
+    "source_bibliography": "《马祥麟演出剧目集》",
+    "source_category": "剧本集",
+    "original_zip": "70904000.zip",
+    "play_count": 5,
+    "play_group_count": 4,
+    "example_play_ids": [
+      "play_70904000_70904110",
+      "play_70904000_70904115",
+      "play_70904000_70904207",
+      "play_70904000_70904208",
+      "play_70904000_70904214"
+    ],
+    "xlsx_row_index": 45
+  },
+  {
+    "source_id": "source_80000000",
+    "source_name": "录音、唱片本",
+    "source_collection": "录音、唱片本",
+    "source_file_code": "80000000",
+    "source_bibliography": "根据录音记录本",
+    "source_category": "录音整理",
+    "original_zip": "80000000.zip",
+    "play_count": 34,
+    "play_group_count": 31,
+    "example_play_ids": [
+      "play_80000000_80000001",
+      "play_80000000_80000002",
+      "play_80000000_80000003",
+      "play_80000000_80000004",
+      "play_80000000_80000005"
+    ],
+    "xlsx_row_index": 46
+  },
+  {
+    "source_id": "source_90000000",
+    "source_name": "名家藏本、演出本",
+    "source_collection": "名家藏本、演出本",
+    "source_file_code": "90000000",
+    "source_bibliography": "单行本",
+    "source_category": "单行本",
+    "original_zip": "90000000.zip",
+    "play_count": 11,
+    "play_group_count": 11,
+    "example_play_ids": [
+      "play_90000000_90000001",
+      "play_90000000_90000002",
+      "play_90000000_90000003",
+      "play_90000000_90000004",
+      "play_90000000_90000005"
+    ],
+    "xlsx_row_index": 47
+  },
+  {
+    "source_id": "source_94000000",
+    "source_name": "院团改编本、演出本",
+    "source_collection": "院团改编本、演出本",
+    "source_file_code": "94000000",
+    "source_bibliography": "单行本",
+    "source_category": "单行本",
+    "original_zip": "94000000.zip",
+    "play_count": 6,
+    "play_group_count": 6,
+    "example_play_ids": [
+      "play_94000000_94000001",
+      "play_94000000_94000002",
+      "play_94000000_94000003",
+      "play_94000000_94000004",
+      "play_94000000_94000005"
+    ],
+    "xlsx_row_index": 48
+  }
+]

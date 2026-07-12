@@ -1,0 +1,526 @@
+[
+  {
+    "play_group_id": "group_da_yan_song_96fecd",
+    "canonical_title": "打严嵩",
+    "title_clean": "打严嵩",
+    "title_aliases": [
+      "开山府"
+    ],
+    "title_variants": [
+      "打严嵩"
+    ],
+    "representative_play_id": "play_09000000_09006001",
+    "member_play_ids": [
+      "play_09000000_09006001",
+      "play_70001000_70001102",
+      "play_80000000_80000019",
+      "play_70001000_70001311",
+      "play_14000000_14002005"
+    ],
+    "member_version_ids": [
+      "version_09000000_09006001",
+      "version_70001000_70001102",
+      "version_80000000_80000019",
+      "version_70001000_70001311",
+      "version_14000000_14002005"
+    ],
+    "version_count": 5,
+    "source_ids": [
+      "source_09000000",
+      "source_14000000",
+      "source_70001000",
+      "source_80000000"
+    ],
+    "source_names": [
+      "京剧流派剧目荟萃",
+      "周信芳剧本选",
+      "录音、唱片本",
+      "戏典"
+    ],
+    "source_collections": [
+      "《京剧流派剧目荟萃》",
+      "《戏典》",
+      "周信芳剧本选",
+      "录音、唱片本"
+    ],
+    "source_bibliographies": [
+      "《京剧流派剧目荟萃》",
+      "《周信芳演出剧本选集》",
+      "《戏典》",
+      "根据录音记录本"
+    ],
+    "representative_summary": "明朝嘉靖年间，严嵩独揽朝政，排除异己，并在府中鸠营密室，私造九龙王冠，欲谋纂位。其工匠邱、马二人被常宝童诱入他的开山府，作为严嵩罪状的人质。御史邹应龙秉性耿直，对严嵩专政，极为愤恨。",
+    "themes": [
+      "战争",
+      "谋略",
+      "忠义",
+      "历史",
+      "家庭伦理"
+    ],
+    "genealogy_tags": [
+      "历史演义",
+      "三国"
+    ],
+    "motif_tags": [
+      "计谋",
+      "除奸",
+      "审案"
+    ],
+    "historical_period": "明",
+    "main_character_keys": [
+      "char_zou_ying_long_08e712",
+      "char_yan_song_fb3f72",
+      "char_chang_bao_tong_c28697",
+      "char_yan_xia_9535c9",
+      "char_wen_tang_16dd19",
+      "char_song_zhi_tai_jian_1079d3"
+    ],
+    "main_role_names": [
+      "邹应龙",
+      "严嵩",
+      "常宝童",
+      "严侠",
+      "文堂",
+      "送旨太监"
+    ],
+    "role_type_counts_merged": {
+      "丑": 5,
+      "净": 5,
+      "小生": 5,
+      "杂": 5,
+      "老生": 5
+    },
+    "is_multi_version": true,
+    "is_focus": true,
+    "focus_reason": "重点多版本剧目",
+    "grouping_method": "clean_title",
+    "grouping_note": "标题清洗后一致，按 title_clean 自动聚合。",
+    "quality": {
+      "grouping_confidence": 1.0,
+      "theme_confidence": 0.85,
+      "version_confidence": 0.95,
+      "overall_confidence": 0.89
+    }
+  },
+  {
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "canonical_title": "打渔杀家",
+    "title_clean": "打渔杀家",
+    "title_aliases": [
+      "庆顶珠",
+      "讨鱼税"
+    ],
+    "title_variants": [
+      "打渔杀家"
+    ],
+    "representative_play_id": "play_70001000_70001201",
+    "member_play_ids": [
+      "play_70001000_70001201",
+      "play_14000000_14002002",
+      "play_01000000_01002016",
+      "play_80000000_80000002"
+    ],
+    "member_version_ids": [
+      "version_70001000_70001201",
+      "version_14000000_14002002",
+      "version_01000000_01002016",
+      "version_80000000_80000002"
+    ],
+    "version_count": 4,
+    "source_ids": [
+      "source_01000000",
+      "source_14000000",
+      "source_70001000",
+      "source_80000000"
+    ],
+    "source_names": [
+      "周信芳剧本选",
+      "录音、唱片本",
+      "戏典",
+      "戏考"
+    ],
+    "source_collections": [
+      "《戏典》",
+      "《戏考》",
+      "周信芳剧本选",
+      "录音、唱片本"
+    ],
+    "source_bibliographies": [
+      "《周信芳演出剧本选集》",
+      "《戏典》",
+      "《戏考》",
+      "根据录音记录本"
+    ],
+    "representative_summary": "老英雄萧恩带着女儿萧桂英打鱼，因天旱水浅，鱼不上网，欠下了恶霸丁自爕的渔税银子。一日，丁府派人前来催讨渔税，恰好被萧恩的好友倪荣、李俊遇到，二人甚为不平，把丁府恶奴顶撞回去。",
+    "themes": [
+      "家庭伦理",
+      "历史",
+      "战争",
+      "水浒",
+      "公案"
+    ],
+    "genealogy_tags": [
+      "水浒",
+      "历史演义"
+    ],
+    "motif_tags": [
+      "殉节",
+      "审案",
+      "报恩"
+    ],
+    "historical_period": null,
+    "main_character_keys": [
+      "char_xiao_en_c54c04",
+      "char_xiao_gui_ying_c50059",
+      "char_da_jiao_shi_d1923b",
+      "char_li_jun_984a63",
+      "char_ni_rong_b88be8"
+    ],
+    "main_role_names": [
+      "萧恩",
+      "萧桂英",
+      "大教师",
+      "李俊",
+      "倪荣"
+    ],
+    "role_type_counts_merged": {
+      "丑": 4,
+      "净": 2,
+      "旦": 3,
+      "老生": 6,
+      "青衣": 1
+    },
+    "is_multi_version": true,
+    "is_focus": true,
+    "focus_reason": "重点多版本剧目",
+    "grouping_method": "clean_title",
+    "grouping_note": "标题清洗后一致，按 title_clean 自动聚合。",
+    "quality": {
+      "grouping_confidence": 1.0,
+      "theme_confidence": 0.85,
+      "version_confidence": 0.95,
+      "overall_confidence": 0.89
+    }
+  },
+  {
+    "play_group_id": "group_er_jin_gong_d8b9f5",
+    "canonical_title": "二进宫",
+    "title_clean": "二进宫",
+    "title_aliases": [
+      "击宫门"
+    ],
+    "title_variants": [
+      "二进宫"
+    ],
+    "representative_play_id": "play_01000000_01005007",
+    "member_play_ids": [
+      "play_01000000_01005007"
+    ],
+    "member_version_ids": [
+      "version_01000000_01005007"
+    ],
+    "version_count": 1,
+    "source_ids": [
+      "source_01000000",
+      "source_04000000",
+      "source_14000000",
+      "source_70006000"
+    ],
+    "source_names": [
+      "京剧丛刊",
+      "孟小冬剧本选",
+      "戏典",
+      "戏考"
+    ],
+    "source_collections": [
+      "《京剧丛刊》",
+      "《戏典》",
+      "《戏考》",
+      "孟小冬剧本选"
+    ],
+    "source_bibliographies": [
+      "《京剧丛刊》",
+      "《余派戏词钱氏辑粹》",
+      "《戏典》",
+      "《戏考》"
+    ],
+    "representative_summary": "徐延昭、杨波，因初次力谏李良摄位事，李后执拗不听，故叹皇陵后，复二次入宫，竭诚奏导。时李后适因其父封锁朝阳，间隔内外，渐露篡夺之谋，以是心亦回悟，深知徐、杨忠诚，可托六尺之孤。",
+    "themes": [
+      "宫廷",
+      "战争",
+      "谋略",
+      "忠义",
+      "家庭伦理"
+    ],
+    "genealogy_tags": [
+      "历史演义",
+      "杨家将"
+    ],
+    "motif_tags": [
+      "忠谏",
+      "计谋",
+      "征战"
+    ],
+    "historical_period": null,
+    "main_character_keys": [
+      "char_yang_bo_d89927",
+      "char_li_yan_fei_e6c746",
+      "char_xu_yan_zhao_f03fc4",
+      "char_xu_xiao_jie_a705ef",
+      "char_yang_si_lang_7c7e37",
+      "char_li_fei_5f5050"
+    ],
+    "main_role_names": [
+      "杨波",
+      "李艳妃",
+      "徐延昭",
+      "徐小姐",
+      "杨四郎",
+      "李妃"
+    ],
+    "role_type_counts_merged": {
+      "净": 4,
+      "小生": 2,
+      "旦": 2,
+      "正旦": 2,
+      "老生": 4,
+      "贴旦": 1,
+      "青衣": 1
+    },
+    "is_multi_version": false,
+    "is_focus": true,
+    "focus_reason": "重点多版本剧目",
+    "grouping_method": "clean_title",
+    "grouping_note": "标题清洗后一致，按 title_clean 自动聚合。",
+    "quality": {
+      "grouping_confidence": 1.0,
+      "theme_confidence": 0.85,
+      "version_confidence": 0.95,
+      "overall_confidence": 0.77
+    }
+  },
+  {
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "canonical_title": "玉堂春",
+    "title_clean": "玉堂春",
+    "title_aliases": [
+      "三堂会审",
+      "嫖院庙会"
+    ],
+    "title_variants": [
+      "玉堂春",
+      "玉堂春【头本】"
+    ],
+    "representative_play_id": "play_70203000_70203202",
+    "member_play_ids": [
+      "play_70203000_70203202",
+      "play_02000000_02011049",
+      "play_04000000_04004001",
+      "play_14000000_14002007",
+      "play_01000000_01005008"
+    ],
+    "member_version_ids": [
+      "version_70203000_70203202",
+      "version_02000000_02011049",
+      "version_04000000_04004001",
+      "version_14000000_14002007",
+      "version_01000000_01005008"
+    ],
+    "version_count": 5,
+    "source_ids": [
+      "source_01000000",
+      "source_02000000",
+      "source_04000000",
+      "source_14000000",
+      "source_70203000"
+    ],
+    "source_names": [
+      "京剧丛刊",
+      "国剧大成",
+      "戏典",
+      "戏考",
+      "荀慧生剧本选"
+    ],
+    "source_collections": [
+      "《京剧丛刊》",
+      "《国剧大成》",
+      "《戏典》",
+      "《戏考》",
+      "荀慧生剧本选"
+    ],
+    "source_bibliographies": [
+      "《京剧丛刊》",
+      "《国剧大成》",
+      "《戏典》",
+      "《戏考》",
+      "《荀慧生演出剧本选集》"
+    ],
+    "representative_summary": "名妓苏三（玉堂春）识礼部尚书子王金龙，誓偕白首。王金龙财尽，被鸨儿驱出院外，落魄，居关王庙中。卖花金哥代送信于苏三，苏三乃前往相会，并赠金使回南京。苏三自王金龙去后矢志不接一客。",
+    "themes": [
+      "谋略",
+      "公案",
+      "战争",
+      "家庭伦理",
+      "忠义"
+    ],
+    "genealogy_tags": [
+      "历史演义",
+      "其他"
+    ],
+    "motif_tags": [
+      "计谋",
+      "审案",
+      "伸冤",
+      "团圆",
+      "认亲"
+    ],
+    "historical_period": null,
+    "main_character_keys": [
+      "char_su_san_03fc34",
+      "char_wang_jin_long_4e42c5",
+      "char_chong_gong_dao_cd071d",
+      "char_liu_bing_yi_fb058e",
+      "char_pan_bi_zheng_40f17f",
+      "char_jin_ge_6680fb"
+    ],
+    "main_role_names": [
+      "苏三",
+      "王金龙",
+      "崇公道",
+      "刘秉义",
+      "潘必正",
+      "金哥"
+    ],
+    "role_type_counts_merged": {
+      "丑": 15,
+      "净": 1,
+      "小生": 5,
+      "彩旦": 1,
+      "旦": 6,
+      "老生": 8,
+      "青衣": 1
+    },
+    "is_multi_version": true,
+    "is_focus": true,
+    "focus_reason": "重点多版本剧目",
+    "grouping_method": "clean_title",
+    "grouping_note": "标题清洗后一致，按 title_clean 自动聚合。",
+    "quality": {
+      "grouping_confidence": 1.0,
+      "theme_confidence": 0.85,
+      "version_confidence": 0.95,
+      "overall_confidence": 0.866
+    }
+  },
+  {
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "canonical_title": "宇宙锋",
+    "title_clean": "宇宙锋",
+    "title_aliases": [
+      "金殿装疯"
+    ],
+    "title_variants": [
+      "宇宙锋"
+    ],
+    "representative_play_id": "play_09000000_09001002",
+    "member_play_ids": [
+      "play_09000000_09001002",
+      "play_70201000_70201101",
+      "play_04000000_04011001",
+      "play_01000000_01002014",
+      "play_14000000_14002010"
+    ],
+    "member_version_ids": [
+      "version_09000000_09001002",
+      "version_70201000_70201101",
+      "version_04000000_04011001",
+      "version_01000000_01002014",
+      "version_14000000_14002010"
+    ],
+    "version_count": 5,
+    "source_ids": [
+      "source_01000000",
+      "source_04000000",
+      "source_09000000",
+      "source_14000000",
+      "source_70201000"
+    ],
+    "source_names": [
+      "京剧丛刊",
+      "京剧流派剧目荟萃",
+      "戏典",
+      "戏考",
+      "梅兰芳剧本选"
+    ],
+    "source_collections": [
+      "《京剧丛刊》",
+      "《京剧流派剧目荟萃》",
+      "《戏典》",
+      "《戏考》",
+      "梅兰芳剧本选"
+    ],
+    "source_bibliographies": [
+      "《京剧丛刊》",
+      "《京剧流派剧目荟萃》",
+      "《戏典》",
+      "《戏考》",
+      "《梅兰芳演出剧本选集》"
+    ],
+    "representative_summary": "秦朝二世胡亥时，权臣赵高素与大臣匡洪不和。赵高为了笼络匡家，将自己女儿赵艳容许配匡洪之子匡扶为妻。外地献鹿，赵高认为这是观测众大臣趋向的好时机，他指鹿为马，群臣惧权多顺其意。",
+    "themes": [
+      "家庭伦理",
+      "谋略",
+      "其他",
+      "宫廷",
+      "战争"
+    ],
+    "genealogy_tags": [
+      "其他",
+      "包公",
+      "隋唐",
+      "历史演义"
+    ],
+    "motif_tags": [
+      "计谋",
+      "审案",
+      "逼婚"
+    ],
+    "historical_period": null,
+    "main_character_keys": [
+      "char_zhao_gao_896a2c",
+      "char_zhao_yan_rong_86db3b",
+      "char_qin_wang_418c6a",
+      "char_qin_er_shi_60349b",
+      "char_men_guan_936d95",
+      "char_zhao_nv_3bc90e"
+    ],
+    "main_role_names": [
+      "赵高",
+      "赵艳容",
+      "秦王",
+      "秦二世",
+      "门官",
+      "赵女"
+    ],
+    "role_type_counts_merged": {
+      "丑": 3,
+      "净": 6,
+      "小生": 5,
+      "旦": 4,
+      "杂": 4,
+      "正旦": 3,
+      "生": 2
+    },
+    "is_multi_version": true,
+    "is_focus": true,
+    "focus_reason": "重点多版本剧目",
+    "grouping_method": "clean_title",
+    "grouping_note": "标题清洗后一致，按 title_clean 自动聚合。",
+    "quality": {
+      "grouping_confidence": 1.0,
+      "theme_confidence": 0.85,
+      "version_confidence": 0.95,
+      "overall_confidence": 0.89
+    }
+  }
+]

@@ -1,0 +1,5067 @@
+[
+  {
+    "role_id": "role_01000000_01002014_001",
+    "play_id": "play_01000000_01002014",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_01000000_01002014",
+    "role_order": 1,
+    "role_name": "赵艳容",
+    "role_name_clean": "赵艳容",
+    "character_key": "char_zhao_yan_rong_86db3b",
+    "alias_names": [],
+    "raw_role_type": "正旦",
+    "base_role_type": "正旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_qin_wang_418c6a",
+      "char_zhao_gao_896a2c"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "赵艳容：正旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_01000000_01002014_002",
+    "play_id": "play_01000000_01002014",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_01000000_01002014",
+    "role_order": 2,
+    "role_name": "赵高",
+    "role_name_clean": "赵高",
+    "character_key": "char_zhao_gao_896a2c",
+    "alias_names": [],
+    "raw_role_type": "净",
+    "base_role_type": "净",
+    "role_type_family": "净",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.7108,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_qin_wang_418c6a",
+      "char_zhao_yan_rong_86db3b"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "赵高：净",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_01000000_01002014_003",
+    "play_id": "play_01000000_01002014",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_01000000_01002014",
+    "role_order": 3,
+    "role_name": "秦王",
+    "role_name_clean": "秦王",
+    "character_key": "char_qin_wang_418c6a",
+    "alias_names": [],
+    "raw_role_type": "小生",
+    "base_role_type": "小生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.2816,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_zhao_gao_896a2c",
+      "char_zhao_yan_rong_86db3b"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "秦王：小生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_01000000_01002016_001",
+    "play_id": "play_01000000_01002016",
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "version_id": "version_01000000_01002016",
+    "role_order": 1,
+    "role_name": "萧恩",
+    "role_name_clean": "萧恩",
+    "character_key": "char_xiao_en_c54c04",
+    "alias_names": [],
+    "raw_role_type": "老生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_002",
+      "scene_003",
+      "scene_004",
+      "scene_006"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_006",
+    "co_occurrence_hint": [
+      "char_da_jiao_shi_d1923b",
+      "char_li_jun_984a63",
+      "char_ni_rong_b88be8",
+      "char_xiao_gui_ying_c50059"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "萧恩：老生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_01000000_01002016_002",
+    "play_id": "play_01000000_01002016",
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "version_id": "version_01000000_01002016",
+    "role_order": 2,
+    "role_name": "萧桂英",
+    "role_name_clean": "萧桂英",
+    "character_key": "char_xiao_gui_ying_c50059",
+    "alias_names": [],
+    "raw_role_type": "旦",
+    "base_role_type": "旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.7071,
+    "scene_ids": [
+      "scene_002",
+      "scene_004",
+      "scene_006"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_006",
+    "co_occurrence_hint": [
+      "char_da_jiao_shi_d1923b",
+      "char_li_jun_984a63",
+      "char_ni_rong_b88be8",
+      "char_xiao_en_c54c04"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "萧桂英：旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_01000000_01002016_003",
+    "play_id": "play_01000000_01002016",
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "version_id": "version_01000000_01002016",
+    "role_order": 3,
+    "role_name": "大教师",
+    "role_name_clean": "大教师",
+    "character_key": "char_da_jiao_shi_d1923b",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.5774,
+    "scene_ids": [
+      "scene_003",
+      "scene_004",
+      "scene_005",
+      "scene_006"
+    ],
+    "first_scene_id": "scene_003",
+    "last_scene_id": "scene_006",
+    "co_occurrence_hint": [
+      "char_li_jun_984a63",
+      "char_ni_rong_b88be8",
+      "char_xiao_en_c54c04",
+      "char_xiao_gui_ying_c50059"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "大教师：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_01000000_01002016_004",
+    "play_id": "play_01000000_01002016",
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "version_id": "version_01000000_01002016",
+    "role_order": 4,
+    "role_name": "李俊",
+    "role_name_clean": "李俊",
+    "character_key": "char_li_jun_984a63",
+    "alias_names": [],
+    "raw_role_type": "老生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.5,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_003",
+    "co_occurrence_hint": [
+      "char_da_jiao_shi_d1923b",
+      "char_ni_rong_b88be8",
+      "char_xiao_en_c54c04",
+      "char_xiao_gui_ying_c50059"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "李俊：老生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_01000000_01002016_005",
+    "play_id": "play_01000000_01002016",
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "version_id": "version_01000000_01002016",
+    "role_order": 5,
+    "role_name": "倪荣",
+    "role_name_clean": "倪荣",
+    "character_key": "char_ni_rong_b88be8",
+    "alias_names": [],
+    "raw_role_type": "净",
+    "base_role_type": "净",
+    "role_type_family": "净",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.4472,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_003",
+    "co_occurrence_hint": [
+      "char_da_jiao_shi_d1923b",
+      "char_li_jun_984a63",
+      "char_xiao_en_c54c04",
+      "char_xiao_gui_ying_c50059"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "倪荣：净",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_01000000_01005007_001",
+    "play_id": "play_01000000_01005007",
+    "play_group_id": "group_er_jin_gong_d8b9f5",
+    "version_id": "version_01000000_01005007",
+    "role_order": 1,
+    "role_name": "李艳妃",
+    "role_name_clean": "李艳妃",
+    "character_key": "char_li_yan_fei_e6c746",
+    "alias_names": [],
+    "raw_role_type": "正旦",
+    "base_role_type": "正旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.8642,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "李艳妃：正旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_01000000_01005007_002",
+    "play_id": "play_01000000_01005007",
+    "play_group_id": "group_er_jin_gong_d8b9f5",
+    "version_id": "version_01000000_01005007",
+    "role_order": 2,
+    "role_name": "徐延昭",
+    "role_name_clean": "徐延昭",
+    "character_key": "char_xu_yan_zhao_f03fc4",
+    "alias_names": [],
+    "raw_role_type": "净",
+    "base_role_type": "净",
+    "role_type_family": "净",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "徐延昭：净",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_01000000_01005007_003",
+    "play_id": "play_01000000_01005007",
+    "play_group_id": "group_er_jin_gong_d8b9f5",
+    "version_id": "version_01000000_01005007",
+    "role_order": 3,
+    "role_name": "杨波",
+    "role_name_clean": "杨波",
+    "character_key": "char_yang_bo_d89927",
+    "alias_names": [],
+    "raw_role_type": "老生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.7582,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "杨波：老生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_01000000_01005007_004",
+    "play_id": "play_01000000_01005007",
+    "play_group_id": "group_er_jin_gong_d8b9f5",
+    "version_id": "version_01000000_01005007",
+    "role_order": 4,
+    "role_name": "徐小姐",
+    "role_name_clean": "徐小姐",
+    "character_key": "char_xu_xiao_jie_a705ef",
+    "alias_names": [],
+    "raw_role_type": "旦",
+    "base_role_type": "旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.4321,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "徐小姐：旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_01000000_01005007_005",
+    "play_id": "play_01000000_01005007",
+    "play_group_id": "group_er_jin_gong_d8b9f5",
+    "version_id": "version_01000000_01005007",
+    "role_order": 5,
+    "role_name": "杨四郎",
+    "role_name_clean": "杨四郎",
+    "character_key": "char_yang_si_lang_7c7e37",
+    "alias_names": [],
+    "raw_role_type": "小生",
+    "base_role_type": "小生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.3865,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "杨四郎：小生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_01000000_01005008_001",
+    "play_id": "play_01000000_01005008",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_01000000_01005008",
+    "role_order": 1,
+    "role_name": "苏三",
+    "role_name_clean": "苏三",
+    "character_key": "char_su_san_03fc34",
+    "alias_names": [],
+    "raw_role_type": "旦",
+    "base_role_type": "旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "苏三：旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_01000000_01005008_002",
+    "play_id": "play_01000000_01005008",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_01000000_01005008",
+    "role_order": 2,
+    "role_name": "王金龙",
+    "role_name_clean": "王金龙",
+    "character_key": "char_wang_jin_long_4e42c5",
+    "alias_names": [],
+    "raw_role_type": "小生",
+    "base_role_type": "小生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.6294,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "王金龙：小生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_01000000_01005008_003",
+    "play_id": "play_01000000_01005008",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_01000000_01005008",
+    "role_order": 3,
+    "role_name": "藩台",
+    "role_name_clean": "藩台",
+    "character_key": "char_fan_tai_55b6bc",
+    "alias_names": [],
+    "raw_role_type": "老生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.3608,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "藩台：老生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_01000000_01005008_004",
+    "play_id": "play_01000000_01005008",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_01000000_01005008",
+    "role_order": 4,
+    "role_name": "臬台",
+    "role_name_clean": "臬台",
+    "character_key": "char_nie_tai_cff04b",
+    "alias_names": [],
+    "raw_role_type": "老生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.3125,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "臬台：老生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_01000000_01005008_005",
+    "play_id": "play_01000000_01005008",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_01000000_01005008",
+    "role_order": 5,
+    "role_name": "张公道",
+    "role_name_clean": "张公道",
+    "character_key": "char_zhang_gong_dao_aa9fbc",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.2795,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "张公道：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_02000000_02011049_001",
+    "play_id": "play_02000000_02011049",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_02000000_02011049",
+    "role_order": 1,
+    "role_name": "苏三",
+    "role_name_clean": "苏三",
+    "character_key": "char_su_san_03fc34",
+    "alias_names": [],
+    "raw_role_type": "旦",
+    "base_role_type": "旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.9373,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_004",
+      "scene_005",
+      "scene_006",
+      "scene_008",
+      "scene_010",
+      "scene_012",
+      "scene_015",
+      "scene_016",
+      "scene_017",
+      "scene_020",
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_026",
+      "scene_027"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_027",
+    "co_occurrence_hint": [
+      "char_shen_yan_lin_52dc2e",
+      "char_wang_jin_long_4e42c5"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "苏三：旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_02000000_02011049_002",
+    "play_id": "play_02000000_02011049",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_02000000_02011049",
+    "role_order": 2,
+    "role_name": "王金龙",
+    "role_name_clean": "王金龙",
+    "character_key": "char_wang_jin_long_4e42c5",
+    "alias_names": [],
+    "raw_role_type": "小生",
+    "base_role_type": "小生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_005",
+      "scene_006",
+      "scene_008",
+      "scene_009",
+      "scene_010",
+      "scene_011",
+      "scene_012",
+      "scene_013",
+      "scene_015",
+      "scene_017",
+      "scene_019",
+      "scene_020",
+      "scene_028"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_028",
+    "co_occurrence_hint": [
+      "char_su_san_03fc34"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "王金龙：小生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_02000000_02011049_003",
+    "play_id": "play_02000000_02011049",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_02000000_02011049",
+    "role_order": 3,
+    "role_name": "沈延林",
+    "role_name_clean": "沈延林",
+    "character_key": "char_shen_yan_lin_52dc2e",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.2303,
+    "scene_ids": [
+      "scene_007",
+      "scene_021",
+      "scene_022",
+      "scene_023",
+      "scene_026",
+      "scene_027"
+    ],
+    "first_scene_id": "scene_007",
+    "last_scene_id": "scene_027",
+    "co_occurrence_hint": [
+      "char_su_san_03fc34"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "沈延林：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_04000000_04004001_001",
+    "play_id": "play_04000000_04004001",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_04000000_04004001",
+    "role_order": 1,
+    "role_name": "苏三",
+    "role_name_clean": "苏三",
+    "character_key": "char_su_san_03fc34",
+    "alias_names": [],
+    "raw_role_type": "旦",
+    "base_role_type": "旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_004",
+      "scene_005"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_005",
+    "co_occurrence_hint": [
+      "char_chong_gong_dao_cd071d",
+      "char_liu_bing_yi_fb058e",
+      "char_pan_bi_zheng_40f17f",
+      "char_wang_jin_long_4e42c5"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "苏三：旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_04000000_04004001_002",
+    "play_id": "play_04000000_04004001",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_04000000_04004001",
+    "role_order": 2,
+    "role_name": "王金龙",
+    "role_name_clean": "王金龙",
+    "character_key": "char_wang_jin_long_4e42c5",
+    "alias_names": [],
+    "raw_role_type": "小生",
+    "base_role_type": "小生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.7232,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_004",
+      "scene_005"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_005",
+    "co_occurrence_hint": [
+      "char_chong_gong_dao_cd071d",
+      "char_liu_bing_yi_fb058e",
+      "char_pan_bi_zheng_40f17f",
+      "char_su_san_03fc34"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "王金龙：小生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_04000000_04004001_003",
+    "play_id": "play_04000000_04004001",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_04000000_04004001",
+    "role_order": 3,
+    "role_name": "潘必正",
+    "role_name_clean": "潘必正",
+    "character_key": "char_pan_bi_zheng_40f17f",
+    "alias_names": [],
+    "raw_role_type": "老生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.3608,
+    "scene_ids": [
+      "scene_002",
+      "scene_003",
+      "scene_004",
+      "scene_005"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_005",
+    "co_occurrence_hint": [
+      "char_chong_gong_dao_cd071d",
+      "char_liu_bing_yi_fb058e",
+      "char_su_san_03fc34",
+      "char_wang_jin_long_4e42c5"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "潘必正：老生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_04000000_04004001_004",
+    "play_id": "play_04000000_04004001",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_04000000_04004001",
+    "role_order": 4,
+    "role_name": "刘秉义",
+    "role_name_clean": "刘秉义",
+    "character_key": "char_liu_bing_yi_fb058e",
+    "alias_names": [],
+    "raw_role_type": "老生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.3125,
+    "scene_ids": [
+      "scene_002",
+      "scene_003",
+      "scene_004",
+      "scene_005"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_005",
+    "co_occurrence_hint": [
+      "char_chong_gong_dao_cd071d",
+      "char_pan_bi_zheng_40f17f",
+      "char_su_san_03fc34",
+      "char_wang_jin_long_4e42c5"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "刘秉义：老生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_04000000_04004001_005",
+    "play_id": "play_04000000_04004001",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_04000000_04004001",
+    "role_order": 5,
+    "role_name": "崇公道",
+    "role_name_clean": "崇公道",
+    "character_key": "char_chong_gong_dao_cd071d",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.3733,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_liu_bing_yi_fb058e",
+      "char_pan_bi_zheng_40f17f",
+      "char_su_san_03fc34",
+      "char_wang_jin_long_4e42c5"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "崇公道：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_04000000_04011001_001",
+    "play_id": "play_04000000_04011001",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_04000000_04011001",
+    "role_order": 1,
+    "role_name": "赵女",
+    "role_name_clean": "赵女",
+    "character_key": "char_zhao_nv_3bc90e",
+    "alias_names": [],
+    "raw_role_type": "旦",
+    "base_role_type": "旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_qin_er_shi_60349b",
+      "char_ya_ya_huan_f809b1",
+      "char_zhao_gao_896a2c"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "赵女：旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_04000000_04011001_002",
+    "play_id": "play_04000000_04011001",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_04000000_04011001",
+    "role_order": 2,
+    "role_name": "赵高",
+    "role_name_clean": "赵高",
+    "character_key": "char_zhao_gao_896a2c",
+    "alias_names": [],
+    "raw_role_type": "净",
+    "base_role_type": "净",
+    "role_type_family": "净",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.6612,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_qin_er_shi_60349b",
+      "char_ya_ya_huan_f809b1",
+      "char_zhao_nv_3bc90e"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "赵高：净",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_04000000_04011001_003",
+    "play_id": "play_04000000_04011001",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_04000000_04011001",
+    "role_order": 3,
+    "role_name": "秦二世",
+    "role_name_clean": "秦二世",
+    "character_key": "char_qin_er_shi_60349b",
+    "alias_names": [],
+    "raw_role_type": "小生",
+    "base_role_type": "小生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.4156,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_ya_ya_huan_f809b1",
+      "char_zhao_gao_896a2c",
+      "char_zhao_nv_3bc90e"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "秦二世：小生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_04000000_04011001_004",
+    "play_id": "play_04000000_04011001",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_04000000_04011001",
+    "role_order": 4,
+    "role_name": "哑丫鬟",
+    "role_name_clean": "哑丫鬟",
+    "character_key": "char_ya_ya_huan_f809b1",
+    "alias_names": [],
+    "raw_role_type": "旦",
+    "base_role_type": "旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.3714,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_qin_er_shi_60349b",
+      "char_zhao_gao_896a2c",
+      "char_zhao_nv_3bc90e"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "哑丫鬟：旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_09000000_09001002_001",
+    "play_id": "play_09000000_09001002",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_09000000_09001002",
+    "role_order": 1,
+    "role_name": "赵艳容",
+    "role_name_clean": "赵艳容",
+    "character_key": "char_zhao_yan_rong_86db3b",
+    "alias_names": [],
+    "raw_role_type": "旦，梳大头线帘子、点翠头面、带抱头联、小白绸条、团花蓝披或黑披、衬青褶子、花边腰包、彩",
+    "base_role_type": "旦",
+    "role_type_family": "旦",
+    "costume_tags": [
+      "梳大头线帘子",
+      "点翠头面",
+      "带抱头联",
+      "小白绸条",
+      "团花蓝披或黑披",
+      "衬青褶子",
+      "花边腰包",
+      "彩"
+    ],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_men_guan_936d95",
+      "char_qin_er_shi_60349b",
+      "char_si_xiao_tai_jian_879996",
+      "char_si_yu_lin_jun_76d7a8",
+      "char_ya_nu_d9ade4",
+      "char_zhao_gao_896a2c"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "赵艳容：旦，梳大头线帘子、点翠头面、带抱头联、小白绸条、团花蓝披或黑披、衬青褶子、花边腰包、彩",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_09000000_09001002_002",
+    "play_id": "play_09000000_09001002",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_09000000_09001002",
+    "role_order": 2,
+    "role_name": "赵高",
+    "role_name_clean": "赵高",
+    "character_key": "char_zhao_gao_896a2c",
+    "alias_names": [],
+    "raw_role_type": "净，相巾、黪满、紫开氅、衬素褶子、红彩裤、厚底；金殿一场换相纱、黑蟒、玉带。",
+    "base_role_type": "净",
+    "role_type_family": "净",
+    "costume_tags": [
+      "相巾",
+      "黪满",
+      "紫开氅",
+      "衬素褶子",
+      "红彩裤",
+      "厚底",
+      "金殿一场换相纱",
+      "黑蟒",
+      "玉带。"
+    ],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.8571,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_men_guan_936d95",
+      "char_qin_er_shi_60349b",
+      "char_si_xiao_tai_jian_879996",
+      "char_si_yu_lin_jun_76d7a8",
+      "char_ya_nu_d9ade4",
+      "char_zhao_yan_rong_86db3b"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "赵高：净，相巾、黪满、紫开氅、衬素褶子、红彩裤、厚底；金殿一场换相纱、黑蟒、玉带。",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_09000000_09001002_003",
+    "play_id": "play_09000000_09001002",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_09000000_09001002",
+    "role_order": 3,
+    "role_name": "秦二世",
+    "role_name_clean": "秦二世",
+    "character_key": "char_qin_er_shi_60349b",
+    "alias_names": [],
+    "raw_role_type": "小生，九龙冠、黄披、黄素褶子、红彩裤、厚底；金殿一场换王帽、黄蟒、玉带",
+    "base_role_type": "小生",
+    "role_type_family": "生",
+    "costume_tags": [
+      "九龙冠",
+      "黄披",
+      "黄素褶子",
+      "红彩裤",
+      "厚底",
+      "金殿一场换王帽",
+      "黄蟒",
+      "玉带"
+    ],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.7938,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_men_guan_936d95",
+      "char_si_xiao_tai_jian_879996",
+      "char_si_yu_lin_jun_76d7a8",
+      "char_ya_nu_d9ade4",
+      "char_zhao_gao_896a2c",
+      "char_zhao_yan_rong_86db3b"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "秦二世：小生，九龙冠、黄披、黄素褶子、红彩裤、厚底；金殿一场换王帽、黄蟒、玉带",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_09000000_09001002_004",
+    "play_id": "play_09000000_09001002",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_09000000_09001002",
+    "role_order": 4,
+    "role_name": "哑奴",
+    "role_name_clean": "哑奴",
+    "character_key": "char_ya_nu_d9ade4",
+    "alias_names": [],
+    "raw_role_type": "旦，梳大头抓髻线帘子、水钻头面、裤袄、大坎肩、白腰巾、彩鞋",
+    "base_role_type": "旦",
+    "role_type_family": "旦",
+    "costume_tags": [
+      "梳大头抓髻线帘子",
+      "水钻头面",
+      "裤袄",
+      "大坎肩",
+      "白腰巾",
+      "彩鞋"
+    ],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.3171,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_men_guan_936d95",
+      "char_qin_er_shi_60349b",
+      "char_si_xiao_tai_jian_879996",
+      "char_si_yu_lin_jun_76d7a8",
+      "char_zhao_gao_896a2c",
+      "char_zhao_yan_rong_86db3b"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "哑奴：旦，梳大头抓髻线帘子、水钻头面、裤袄、大坎肩、白腰巾、彩鞋",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_09000000_09001002_005",
+    "play_id": "play_09000000_09001002",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_09000000_09001002",
+    "role_order": 5,
+    "role_name": "门官",
+    "role_name_clean": "门官",
+    "character_key": "char_men_guan_936d95",
+    "alias_names": [],
+    "raw_role_type": "丑，圆纱、黑吊搭、青褶子、红彩裤、大布袜、朝方",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [
+      "圆纱",
+      "黑吊搭",
+      "青褶子",
+      "红彩裤",
+      "大布袜",
+      "朝方"
+    ],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.2182,
+    "scene_ids": [
+      "scene_001"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_001",
+    "co_occurrence_hint": [
+      "char_qin_er_shi_60349b",
+      "char_ya_nu_d9ade4",
+      "char_zhao_gao_896a2c",
+      "char_zhao_yan_rong_86db3b"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "门官：丑，圆纱、黑吊搭、青褶子、红彩裤、大布袜、朝方",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_09000000_09001002_006",
+    "play_id": "play_09000000_09001002",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_09000000_09001002",
+    "role_order": 6,
+    "role_name": "二太监",
+    "role_name_clean": "二太监",
+    "character_key": "char_er_tai_jian_90f6e5",
+    "alias_names": [],
+    "raw_role_type": "杂，太监帽、花褶子、彩裤、厚底",
+    "base_role_type": "杂",
+    "role_type_family": "杂",
+    "costume_tags": [
+      "太监帽",
+      "花褶子",
+      "彩裤",
+      "厚底"
+    ],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1991,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "二太监：杂，太监帽、花褶子、彩裤、厚底",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_09000000_09001002_007",
+    "play_id": "play_09000000_09001002",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_09000000_09001002",
+    "role_order": 7,
+    "role_name": "朝臣甲",
+    "role_name_clean": "朝臣甲",
+    "character_key": "char_chao_chen_jia_d9ea75",
+    "alias_names": [],
+    "raw_role_type": "净，尖纱、黑满、蓝蟒、玉带、红彩裤、厚底",
+    "base_role_type": "净",
+    "role_type_family": "净",
+    "costume_tags": [
+      "尖纱",
+      "黑满",
+      "蓝蟒",
+      "玉带",
+      "红彩裤",
+      "厚底"
+    ],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1844,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "朝臣甲：净，尖纱、黑满、蓝蟒、玉带、红彩裤、厚底",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_09000000_09001002_008",
+    "play_id": "play_09000000_09001002",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_09000000_09001002",
+    "role_order": 8,
+    "role_name": "朝臣乙",
+    "role_name_clean": "朝臣乙",
+    "character_key": "char_chao_chen_yi_cadeeb",
+    "alias_names": [],
+    "raw_role_type": "丑：圆纱、黑吊搭、红蟒、玉带、红彩裤、朝方",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [
+      "黑吊搭",
+      "红蟒",
+      "玉带",
+      "红彩裤",
+      "朝方"
+    ],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1725,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "朝臣乙：丑：圆纱、黑吊搭、红蟒、玉带、红彩裤、朝方",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_09000000_09001002_009",
+    "play_id": "play_09000000_09001002",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_09000000_09001002",
+    "role_order": 9,
+    "role_name": "朝臣丙",
+    "role_name_clean": "朝臣丙",
+    "character_key": "char_chao_chen_bing_a41736",
+    "alias_names": [],
+    "raw_role_type": "生，中纱、黑三、白蟒、玉带、红彩裤、厚底",
+    "base_role_type": "生",
+    "role_type_family": "生",
+    "costume_tags": [
+      "中纱",
+      "黑三",
+      "白蟒",
+      "玉带",
+      "红彩裤",
+      "厚底"
+    ],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1626,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "朝臣丙：生，中纱、黑三、白蟒、玉带、红彩裤、厚底",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_09000000_09001002_010",
+    "play_id": "play_09000000_09001002",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_09000000_09001002",
+    "role_order": 10,
+    "role_name": "朝臣丁",
+    "role_name_clean": "朝臣丁",
+    "character_key": "char_chao_chen_ding_70545c",
+    "alias_names": [],
+    "raw_role_type": "生，中纱、黪三、白蟒、玉带、红彩裤、厚底",
+    "base_role_type": "生",
+    "role_type_family": "生",
+    "costume_tags": [
+      "中纱",
+      "黪三",
+      "白蟒",
+      "玉带",
+      "红彩裤",
+      "厚底"
+    ],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1543,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "朝臣丁：生，中纱、黪三、白蟒、玉带、红彩裤、厚底",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_09000000_09001002_011",
+    "play_id": "play_09000000_09001002",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_09000000_09001002",
+    "role_order": 11,
+    "role_name": "四御林军",
+    "role_name_clean": "四御林军",
+    "character_key": "char_si_yu_lin_jun_76d7a8",
+    "alias_names": [],
+    "raw_role_type": "杂，大铠服、罐子盔（武士盔）、红彩裤、薄底",
+    "base_role_type": "杂",
+    "role_type_family": "杂",
+    "costume_tags": [
+      "大铠服",
+      "罐子盔（武士盔）",
+      "红彩裤",
+      "薄底"
+    ],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1471,
+    "scene_ids": [
+      "scene_002"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_qin_er_shi_60349b",
+      "char_si_xiao_tai_jian_879996",
+      "char_ya_nu_d9ade4",
+      "char_zhao_gao_896a2c",
+      "char_zhao_yan_rong_86db3b"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "四御林军：杂，大铠服、罐子盔（武士盔）、红彩裤、薄底",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_09000000_09001002_012",
+    "play_id": "play_09000000_09001002",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_09000000_09001002",
+    "role_order": 12,
+    "role_name": "四小太监",
+    "role_name_clean": "四小太监",
+    "character_key": "char_si_xiao_tai_jian_879996",
+    "alias_names": [],
+    "raw_role_type": "杂，太监帽、太监衣、红彩裤、薄底",
+    "base_role_type": "杂",
+    "role_type_family": "杂",
+    "costume_tags": [
+      "太监帽",
+      "太监衣",
+      "红彩裤",
+      "薄底"
+    ],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1408,
+    "scene_ids": [
+      "scene_002"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_qin_er_shi_60349b",
+      "char_si_yu_lin_jun_76d7a8",
+      "char_ya_nu_d9ade4",
+      "char_zhao_gao_896a2c",
+      "char_zhao_yan_rong_86db3b"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "四小太监：杂，太监帽、太监衣、红彩裤、薄底",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_09000000_09001002_013",
+    "play_id": "play_09000000_09001002",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_09000000_09001002",
+    "role_order": 13,
+    "role_name": "车夫",
+    "role_name_clean": "车夫",
+    "character_key": "char_che_fu_270348",
+    "alias_names": [],
+    "raw_role_type": "杂，太监帽、花褶子、红彩裤、厚底",
+    "base_role_type": "杂",
+    "role_type_family": "杂",
+    "costume_tags": [
+      "太监帽",
+      "花褶子",
+      "红彩裤",
+      "厚底"
+    ],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1353,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "车夫：杂，太监帽、花褶子、红彩裤、厚底",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_09000000_09006001_001",
+    "play_id": "play_09000000_09006001",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_09000000_09006001",
+    "role_order": 1,
+    "role_name": "邹应龙",
+    "role_name_clean": "邹应龙",
+    "character_key": "char_zou_ying_long_08e712",
+    "alias_names": [],
+    "raw_role_type": "老生，黑三，纱帽，蓝官衣，红官衣（由金殿起至剧终），玉带，紫衬褶，香色彩裤，黑厚底靴",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [
+      "黑三",
+      "纱帽",
+      "蓝官衣",
+      "红官衣（由金殿起至剧终）",
+      "玉带",
+      "紫衬褶",
+      "香色彩裤",
+      "黑厚底靴"
+    ],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.7049,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_tai_jian_179708",
+      "char_xiao_wei_8039e4",
+      "char_yan_song_fb3f72",
+      "char_yan_xia_9535c9"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "邹应龙：老生，黑三，纱帽，蓝官衣，红官衣（由金殿起至剧终），玉带，紫衬褶，香色彩裤，黑厚底靴",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_09000000_09006001_002",
+    "play_id": "play_09000000_09006001",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_09000000_09006001",
+    "role_order": 2,
+    "role_name": "严嵩",
+    "role_name_clean": "严嵩",
+    "character_key": "char_yan_song_fb3f72",
+    "alias_names": [],
+    "raw_role_type": "净，白脸，黪满，黪鬓发，文扬，红蟒，玉带，红衬褶，红彩裤，黑厚底靴",
+    "base_role_type": "净",
+    "role_type_family": "净",
+    "costume_tags": [
+      "白脸",
+      "黪满",
+      "黪鬓发",
+      "文扬",
+      "红蟒",
+      "玉带",
+      "红衬褶",
+      "红彩裤",
+      "黑厚底靴"
+    ],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_tai_jian_179708",
+      "char_xiao_wei_8039e4",
+      "char_yan_xia_9535c9",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "严嵩：净，白脸，黪满，黪鬓发，文扬，红蟒，玉带，红衬褶，红彩裤，黑厚底靴",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_09000000_09006001_003",
+    "play_id": "play_09000000_09006001",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_09000000_09006001",
+    "role_order": 3,
+    "role_name": "常宝童",
+    "role_name_clean": "常宝童",
+    "character_key": "char_chang_bao_tong_c28697",
+    "alias_names": [],
+    "raw_role_type": "小生，紫金冠，红龙箭衣，大带，红开氅，红彩裤，黑厚底靴",
+    "base_role_type": "小生",
+    "role_type_family": "生",
+    "costume_tags": [
+      "紫金冠",
+      "红龙箭衣",
+      "大带",
+      "红开氅",
+      "红彩裤",
+      "黑厚底靴"
+    ],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.4994,
+    "scene_ids": [
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_tai_jian_179708",
+      "char_xiao_wei_8039e4",
+      "char_yan_song_fb3f72",
+      "char_yan_xia_9535c9",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "常宝童：小生，紫金冠，红龙箭衣，大带，红开氅，红彩裤，黑厚底靴",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_09000000_09006001_004",
+    "play_id": "play_09000000_09006001",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_09000000_09006001",
+    "role_order": 4,
+    "role_name": "严侠",
+    "role_name_clean": "严侠",
+    "character_key": "char_yan_xia_9535c9",
+    "alias_names": [],
+    "raw_role_type": "丑，小脸，黑八字吊搭，丑圆纱帽，黑素官，玉带，黑彩裤，黑朝方靴",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [
+      "小脸",
+      "黑八字吊搭",
+      "丑圆纱帽",
+      "黑素官",
+      "玉带",
+      "黑彩裤",
+      "黑朝方靴"
+    ],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.2431,
+    "scene_ids": [
+      "scene_002"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_tai_jian_179708",
+      "char_xiao_wei_8039e4",
+      "char_yan_song_fb3f72",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "严侠：丑，小脸，黑八字吊搭，丑圆纱帽，黑素官，玉带，黑彩裤，黑朝方靴",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_09000000_09006001_005",
+    "play_id": "play_09000000_09006001",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_09000000_09006001",
+    "role_order": 5,
+    "role_name": "文堂",
+    "role_name_clean": "文堂",
+    "character_key": "char_wen_tang_16dd19",
+    "alias_names": [],
+    "raw_role_type": "杂，红大叶巾，红龙套，红彩裤，薄底靴",
+    "base_role_type": "杂",
+    "role_type_family": "杂",
+    "costume_tags": [
+      "红大叶巾",
+      "红龙套",
+      "红彩裤",
+      "薄底靴"
+    ],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.2174,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "文堂：杂，红大叶巾，红龙套，红彩裤，薄底靴",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_09000000_09006001_006",
+    "play_id": "play_09000000_09006001",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_09000000_09006001",
+    "role_order": 6,
+    "role_name": "送旨太监",
+    "role_name_clean": "送旨太监",
+    "character_key": "char_song_zhi_tai_jian_1079d3",
+    "alias_names": [],
+    "raw_role_type": "杂，太监帽，太监衣，红彩裤，薄底靴",
+    "base_role_type": "杂",
+    "role_type_family": "杂",
+    "costume_tags": [
+      "太监帽",
+      "太监衣",
+      "红彩裤",
+      "薄底靴"
+    ],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1985,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "送旨太监：杂，太监帽，太监衣，红彩裤，薄底靴",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_09000000_09006001_007",
+    "play_id": "play_09000000_09006001",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_09000000_09006001",
+    "role_order": 7,
+    "role_name": "校尉",
+    "role_name_clean": "校尉",
+    "character_key": "char_xiao_wei_8039e4",
+    "alias_names": [],
+    "raw_role_type": "杂，大叶巾，小额子，素黄马褂，三尖，素紫箭衣，大带，黑彩裤，薄底靴",
+    "base_role_type": "杂",
+    "role_type_family": "杂",
+    "costume_tags": [
+      "大叶巾",
+      "小额子",
+      "素黄马褂",
+      "三尖",
+      "素紫箭衣",
+      "大带",
+      "黑彩裤",
+      "薄底靴"
+    ],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1837,
+    "scene_ids": [
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_tai_jian_179708",
+      "char_yan_song_fb3f72",
+      "char_yan_xia_9535c9",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "校尉：杂，大叶巾，小额子，素黄马褂，三尖，素紫箭衣，大带，黑彩裤，薄底靴",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_09000000_09006001_008",
+    "play_id": "play_09000000_09006001",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_09000000_09006001",
+    "role_order": 8,
+    "role_name": "拾皇杠武士",
+    "role_name_clean": "拾皇杠武士",
+    "character_key": "char_shi_huang_gang_wu_shi_c6debc",
+    "alias_names": [],
+    "raw_role_type": "杂，大铠盔，大铠服，黑彩裤，薄底靴",
+    "base_role_type": "杂",
+    "role_type_family": "杂",
+    "costume_tags": [
+      "大铠盔",
+      "大铠服",
+      "黑彩裤",
+      "薄底靴"
+    ],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1719,
+    "scene_ids": [],
+    "first_scene_id": null,
+    "last_scene_id": null,
+    "co_occurrence_hint": [],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "拾皇杠武士：杂，大铠盔，大铠服，黑彩裤，薄底靴",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.2,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.7
+    }
+  },
+  {
+    "role_id": "role_09000000_09006001_009",
+    "play_id": "play_09000000_09006001",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_09000000_09006001",
+    "role_order": 9,
+    "role_name": "太监",
+    "role_name_clean": "太监",
+    "character_key": "char_tai_jian_179708",
+    "alias_names": [],
+    "raw_role_type": "杂，太监帽，太监衣，黑彩裤，薄底靴",
+    "base_role_type": "杂",
+    "role_type_family": "杂",
+    "costume_tags": [
+      "太监帽",
+      "太监衣",
+      "黑彩裤",
+      "薄底靴"
+    ],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.162,
+    "scene_ids": [
+      "scene_002",
+      "scene_003"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_003",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_xiao_wei_8039e4",
+      "char_yan_song_fb3f72",
+      "char_yan_xia_9535c9",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "太监：杂，太监帽，太监衣，黑彩裤，薄底靴",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002002_001",
+    "play_id": "play_14000000_14002002",
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "version_id": "version_14000000_14002002",
+    "role_order": 1,
+    "role_name": "萧恩",
+    "role_name_clean": "萧恩",
+    "character_key": "char_xiao_en_c54c04",
+    "alias_names": [],
+    "raw_role_type": "老生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_002",
+      "scene_003",
+      "scene_004",
+      "scene_006"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_006",
+    "co_occurrence_hint": [
+      "char_da_jiao_shi_d1923b",
+      "char_li_jun_984a63",
+      "char_ni_rong_b88be8",
+      "char_xiao_gui_ying_c50059"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "萧恩：老生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002002_002",
+    "play_id": "play_14000000_14002002",
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "version_id": "version_14000000_14002002",
+    "role_order": 2,
+    "role_name": "萧桂英",
+    "role_name_clean": "萧桂英",
+    "character_key": "char_xiao_gui_ying_c50059",
+    "alias_names": [],
+    "raw_role_type": "青衣",
+    "base_role_type": "青衣",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.3009,
+    "scene_ids": [
+      "scene_002",
+      "scene_004",
+      "scene_006"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_006",
+    "co_occurrence_hint": [
+      "char_da_jiao_shi_d1923b",
+      "char_li_jun_984a63",
+      "char_ni_rong_b88be8",
+      "char_xiao_en_c54c04"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "萧桂英：青衣",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002002_003",
+    "play_id": "play_14000000_14002002",
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "version_id": "version_14000000_14002002",
+    "role_order": 3,
+    "role_name": "李俊",
+    "role_name_clean": "李俊",
+    "character_key": "char_li_jun_984a63",
+    "alias_names": [],
+    "raw_role_type": "须生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.3733,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_003",
+    "co_occurrence_hint": [
+      "char_da_jiao_shi_d1923b",
+      "char_ni_rong_b88be8",
+      "char_xiao_en_c54c04",
+      "char_xiao_gui_ying_c50059"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "李俊：须生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002002_004",
+    "play_id": "play_14000000_14002002",
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "version_id": "version_14000000_14002002",
+    "role_order": 4,
+    "role_name": "倪荣",
+    "role_name_clean": "倪荣",
+    "character_key": "char_ni_rong_b88be8",
+    "alias_names": [],
+    "raw_role_type": "净",
+    "base_role_type": "净",
+    "role_type_family": "净",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.3404,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_003",
+    "co_occurrence_hint": [
+      "char_da_jiao_shi_d1923b",
+      "char_li_jun_984a63",
+      "char_xiao_en_c54c04",
+      "char_xiao_gui_ying_c50059"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "倪荣：净",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002002_005",
+    "play_id": "play_14000000_14002002",
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "version_id": "version_14000000_14002002",
+    "role_order": 5,
+    "role_name": "大教师",
+    "role_name_clean": "大教师",
+    "character_key": "char_da_jiao_shi_d1923b",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1903,
+    "scene_ids": [
+      "scene_003",
+      "scene_004",
+      "scene_005",
+      "scene_006"
+    ],
+    "first_scene_id": "scene_003",
+    "last_scene_id": "scene_006",
+    "co_occurrence_hint": [
+      "char_li_jun_984a63",
+      "char_ni_rong_b88be8",
+      "char_xiao_en_c54c04",
+      "char_xiao_gui_ying_c50059"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "大教师：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002005_001",
+    "play_id": "play_14000000_14002005",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_14000000_14002005",
+    "role_order": 1,
+    "role_name": "邹应龙",
+    "role_name_clean": "邹应龙",
+    "character_key": "char_zou_ying_long_08e712",
+    "alias_names": [],
+    "raw_role_type": "正生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.996,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_men_guan_936d95",
+      "char_yan_song_fb3f72"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "邹应龙：正生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002005_002",
+    "play_id": "play_14000000_14002005",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_14000000_14002005",
+    "role_order": 2,
+    "role_name": "严嵩",
+    "role_name_clean": "严嵩",
+    "character_key": "char_yan_song_fb3f72",
+    "alias_names": [],
+    "raw_role_type": "净",
+    "base_role_type": "净",
+    "role_type_family": "净",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_men_guan_936d95",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "严嵩：净",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002005_003",
+    "play_id": "play_14000000_14002005",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_14000000_14002005",
+    "role_order": 3,
+    "role_name": "门官",
+    "role_name_clean": "门官",
+    "character_key": "char_men_guan_936d95",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.3286,
+    "scene_ids": [
+      "scene_002"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_yan_song_fb3f72",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "门官：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002005_004",
+    "play_id": "play_14000000_14002005",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_14000000_14002005",
+    "role_order": 4,
+    "role_name": "常宝童",
+    "role_name_clean": "常宝童",
+    "character_key": "char_chang_bao_tong_c28697",
+    "alias_names": [],
+    "raw_role_type": "小生",
+    "base_role_type": "小生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.5407,
+    "scene_ids": [
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_men_guan_936d95",
+      "char_yan_song_fb3f72",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "常宝童：小生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002007_001",
+    "play_id": "play_14000000_14002007",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_14000000_14002007",
+    "role_order": 1,
+    "role_name": "苏三",
+    "role_name_clean": "苏三",
+    "character_key": "char_su_san_03fc34",
+    "alias_names": [],
+    "raw_role_type": "青衣",
+    "base_role_type": "青衣",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_002"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_chong_gong_dao_cd071d",
+      "char_liu_da_ren_43497a",
+      "char_wang_jin_long_4e42c5",
+      "char_zhou_da_ren_92756a"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "苏三：青衣",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002007_002",
+    "play_id": "play_14000000_14002007",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_14000000_14002007",
+    "role_order": 2,
+    "role_name": "王金龙",
+    "role_name_clean": "王金龙",
+    "character_key": "char_wang_jin_long_4e42c5",
+    "alias_names": [],
+    "raw_role_type": "小生",
+    "base_role_type": "小生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.8326,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_chong_gong_dao_cd071d",
+      "char_liu_da_ren_43497a",
+      "char_su_san_03fc34",
+      "char_zhou_da_ren_92756a"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "王金龙：小生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002007_003",
+    "play_id": "play_14000000_14002007",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_14000000_14002007",
+    "role_order": 3,
+    "role_name": "刘大人",
+    "role_name_clean": "刘大人",
+    "character_key": "char_liu_da_ren_43497a",
+    "alias_names": [],
+    "raw_role_type": "须生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.3299,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_chong_gong_dao_cd071d",
+      "char_su_san_03fc34",
+      "char_wang_jin_long_4e42c5",
+      "char_zhou_da_ren_92756a"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "刘大人：须生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002007_004",
+    "play_id": "play_14000000_14002007",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_14000000_14002007",
+    "role_order": 4,
+    "role_name": "周大人",
+    "role_name_clean": "周大人",
+    "character_key": "char_zhou_da_ren_92756a",
+    "alias_names": [],
+    "raw_role_type": "须生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.2857,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_chong_gong_dao_cd071d",
+      "char_liu_da_ren_43497a",
+      "char_su_san_03fc34",
+      "char_wang_jin_long_4e42c5"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "周大人：须生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002007_005",
+    "play_id": "play_14000000_14002007",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_14000000_14002007",
+    "role_order": 5,
+    "role_name": "崇公道",
+    "role_name_clean": "崇公道",
+    "character_key": "char_chong_gong_dao_cd071d",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.2556,
+    "scene_ids": [
+      "scene_002"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_liu_da_ren_43497a",
+      "char_su_san_03fc34",
+      "char_wang_jin_long_4e42c5",
+      "char_zhou_da_ren_92756a"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "崇公道：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002010_001",
+    "play_id": "play_14000000_14002010",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_14000000_14002010",
+    "role_order": 1,
+    "role_name": "赵女",
+    "role_name_clean": "赵女",
+    "character_key": "char_zhao_nv_3bc90e",
+    "alias_names": [],
+    "raw_role_type": "正旦",
+    "base_role_type": "正旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.9951,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_men_guan_936d95",
+      "char_qin_wang_418c6a",
+      "char_zhao_gao_896a2c"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "赵女：正旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002010_002",
+    "play_id": "play_14000000_14002010",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_14000000_14002010",
+    "role_order": 2,
+    "role_name": "赵高",
+    "role_name_clean": "赵高",
+    "character_key": "char_zhao_gao_896a2c",
+    "alias_names": [],
+    "raw_role_type": "净",
+    "base_role_type": "净",
+    "role_type_family": "净",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_men_guan_936d95",
+      "char_qin_wang_418c6a",
+      "char_zhao_nv_3bc90e"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "赵高：净",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002010_003",
+    "play_id": "play_14000000_14002010",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_14000000_14002010",
+    "role_order": 3,
+    "role_name": "秦王",
+    "role_name_clean": "秦王",
+    "character_key": "char_qin_wang_418c6a",
+    "alias_names": [],
+    "raw_role_type": "小生",
+    "base_role_type": "小生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.3962,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_men_guan_936d95",
+      "char_zhao_gao_896a2c",
+      "char_zhao_nv_3bc90e"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "秦王：小生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_14000000_14002010_004",
+    "play_id": "play_14000000_14002010",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_14000000_14002010",
+    "role_order": 4,
+    "role_name": "门官",
+    "role_name_clean": "门官",
+    "character_key": "char_men_guan_936d95",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.3431,
+    "scene_ids": [
+      "scene_001"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_001",
+    "co_occurrence_hint": [
+      "char_qin_wang_418c6a",
+      "char_zhao_gao_896a2c",
+      "char_zhao_nv_3bc90e"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "门官：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70001000_70001102_001",
+    "play_id": "play_70001000_70001102",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_70001000_70001102",
+    "role_order": 1,
+    "role_name": "邹应龙",
+    "role_name_clean": "邹应龙",
+    "character_key": "char_zou_ying_long_08e712",
+    "alias_names": [],
+    "raw_role_type": "老生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.7929,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_yan_song_fb3f72",
+      "char_yan_xia_9535c9"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "邹应龙：老生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70001000_70001102_002",
+    "play_id": "play_70001000_70001102",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_70001000_70001102",
+    "role_order": 2,
+    "role_name": "严嵩",
+    "role_name_clean": "严嵩",
+    "character_key": "char_yan_song_fb3f72",
+    "alias_names": [],
+    "raw_role_type": "净",
+    "base_role_type": "净",
+    "role_type_family": "净",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_yan_xia_9535c9",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "严嵩：净",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70001000_70001102_003",
+    "play_id": "play_70001000_70001102",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_70001000_70001102",
+    "role_order": 3,
+    "role_name": "常宝童",
+    "role_name_clean": "常宝童",
+    "character_key": "char_chang_bao_tong_c28697",
+    "alias_names": [],
+    "raw_role_type": "小生",
+    "base_role_type": "小生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.3975,
+    "scene_ids": [
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_yan_song_fb3f72",
+      "char_yan_xia_9535c9",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "常宝童：小生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70001000_70001102_004",
+    "play_id": "play_70001000_70001102",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_70001000_70001102",
+    "role_order": 4,
+    "role_name": "严侠",
+    "role_name_clean": "严侠",
+    "character_key": "char_yan_xia_9535c9",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.2265,
+    "scene_ids": [
+      "scene_002",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_yan_song_fb3f72",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "严侠：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70001000_70001201_001",
+    "play_id": "play_70001000_70001201",
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "version_id": "version_70001000_70001201",
+    "role_order": 1,
+    "role_name": "萧恩",
+    "role_name_clean": "萧恩",
+    "character_key": "char_xiao_en_c54c04",
+    "alias_names": [],
+    "raw_role_type": "老生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_002",
+      "scene_003",
+      "scene_004",
+      "scene_005",
+      "scene_006"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_006",
+    "co_occurrence_hint": [
+      "char_da_jiao_shi_d1923b",
+      "char_xiao_gui_ying_c50059"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "萧恩：老生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70001000_70001201_002",
+    "play_id": "play_70001000_70001201",
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "version_id": "version_70001000_70001201",
+    "role_order": 2,
+    "role_name": "萧桂英",
+    "role_name_clean": "萧桂英",
+    "character_key": "char_xiao_gui_ying_c50059",
+    "alias_names": [],
+    "raw_role_type": "旦",
+    "base_role_type": "旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.4511,
+    "scene_ids": [
+      "scene_002",
+      "scene_004",
+      "scene_006"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_006",
+    "co_occurrence_hint": [
+      "char_da_jiao_shi_d1923b",
+      "char_xiao_en_c54c04"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "萧桂英：旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70001000_70001201_003",
+    "play_id": "play_70001000_70001201",
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "version_id": "version_70001000_70001201",
+    "role_order": 3,
+    "role_name": "大教师",
+    "role_name_clean": "大教师",
+    "character_key": "char_da_jiao_shi_d1923b",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.3039,
+    "scene_ids": [
+      "scene_003",
+      "scene_004",
+      "scene_005",
+      "scene_006"
+    ],
+    "first_scene_id": "scene_003",
+    "last_scene_id": "scene_006",
+    "co_occurrence_hint": [
+      "char_xiao_en_c54c04",
+      "char_xiao_gui_ying_c50059"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "大教师：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70001000_70001311_001",
+    "play_id": "play_70001000_70001311",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_70001000_70001311",
+    "role_order": 1,
+    "role_name": "邹应龙",
+    "role_name_clean": "邹应龙",
+    "character_key": "char_zou_ying_long_08e712",
+    "alias_names": [],
+    "raw_role_type": "老生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_yan_song_fb3f72",
+      "char_yan_xia_9535c9"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "邹应龙：老生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70001000_70001311_002",
+    "play_id": "play_70001000_70001311",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_70001000_70001311",
+    "role_order": 2,
+    "role_name": "严嵩",
+    "role_name_clean": "严嵩",
+    "character_key": "char_yan_song_fb3f72",
+    "alias_names": [],
+    "raw_role_type": "净",
+    "base_role_type": "净",
+    "role_type_family": "净",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.9303,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_yan_xia_9535c9",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "严嵩：净",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70001000_70001311_003",
+    "play_id": "play_70001000_70001311",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_70001000_70001311",
+    "role_order": 3,
+    "role_name": "严侠",
+    "role_name_clean": "严侠",
+    "character_key": "char_yan_xia_9535c9",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.2816,
+    "scene_ids": [
+      "scene_002"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_yan_song_fb3f72",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "严侠：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70001000_70001311_004",
+    "play_id": "play_70001000_70001311",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_70001000_70001311",
+    "role_order": 4,
+    "role_name": "常宝童",
+    "role_name_clean": "常宝童",
+    "character_key": "char_chang_bao_tong_c28697",
+    "alias_names": [],
+    "raw_role_type": "小生",
+    "base_role_type": "小生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.4634,
+    "scene_ids": [
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_yan_song_fb3f72",
+      "char_yan_xia_9535c9",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "常宝童：小生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70201000_70201101_001",
+    "play_id": "play_70201000_70201101",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_70201000_70201101",
+    "role_order": 1,
+    "role_name": "赵艳容",
+    "role_name_clean": "赵艳容",
+    "character_key": "char_zhao_yan_rong_86db3b",
+    "alias_names": [],
+    "raw_role_type": "正旦",
+    "base_role_type": "正旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_qin_wang_418c6a",
+      "char_zhao_gao_896a2c"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "赵艳容：正旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70201000_70201101_002",
+    "play_id": "play_70201000_70201101",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_70201000_70201101",
+    "role_order": 2,
+    "role_name": "赵高",
+    "role_name_clean": "赵高",
+    "character_key": "char_zhao_gao_896a2c",
+    "alias_names": [],
+    "raw_role_type": "净",
+    "base_role_type": "净",
+    "role_type_family": "净",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.7108,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_qin_wang_418c6a",
+      "char_zhao_yan_rong_86db3b"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "赵高：净",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70201000_70201101_003",
+    "play_id": "play_70201000_70201101",
+    "play_group_id": "group_yu_zhou_feng_06cc71",
+    "version_id": "version_70201000_70201101",
+    "role_order": 3,
+    "role_name": "秦王",
+    "role_name_clean": "秦王",
+    "character_key": "char_qin_wang_418c6a",
+    "alias_names": [],
+    "raw_role_type": "小生",
+    "base_role_type": "小生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.2816,
+    "scene_ids": [
+      "scene_001",
+      "scene_002"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_zhao_gao_896a2c",
+      "char_zhao_yan_rong_86db3b"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "秦王：小生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_001",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 1,
+    "role_name": "苏三",
+    "role_name_clean": "苏三",
+    "character_key": "char_su_san_03fc34",
+    "alias_names": [],
+    "raw_role_type": "旦",
+    "base_role_type": "旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_002",
+      "scene_003",
+      "scene_005",
+      "scene_006",
+      "scene_007",
+      "scene_008",
+      "scene_010",
+      "scene_011",
+      "scene_012",
+      "scene_013",
+      "scene_014",
+      "scene_015",
+      "scene_016",
+      "scene_017"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_017",
+    "co_occurrence_hint": [
+      "char_bao_er_43c445",
+      "char_chong_gong_dao_cd071d",
+      "char_chun_jin_ae0def",
+      "char_er_wa_zi_eabb6c",
+      "char_jin_ge_6680fb",
+      "char_li_hu_6a36f2",
+      "char_liu_bing_yi_fb058e",
+      "char_mao_yan_5a76ce",
+      "char_pan_bi_zheng_40f17f",
+      "char_pi_shi_2412b3",
+      "char_que_de_8ebf61",
+      "char_shen_hong_4147df",
+      "char_shu_tong_29e16b",
+      "char_wang_ba_014b12",
+      "char_wang_jin_long_4e42c5",
+      "char_wang_ren_c78d70",
+      "char_zhao_wang_9270f4",
+      "char_zhao_yao_7e2896"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "苏三：旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_002",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 2,
+    "role_name": "王金龙",
+    "role_name_clean": "王金龙",
+    "character_key": "char_wang_jin_long_4e42c5",
+    "alias_names": [],
+    "raw_role_type": "小生",
+    "base_role_type": "小生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.6275,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_004",
+      "scene_005",
+      "scene_006",
+      "scene_012",
+      "scene_014",
+      "scene_015",
+      "scene_016",
+      "scene_017"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_017",
+    "co_occurrence_hint": [
+      "char_bao_er_43c445",
+      "char_chong_gong_dao_cd071d",
+      "char_chun_jin_ae0def",
+      "char_jin_ge_6680fb",
+      "char_li_hu_6a36f2",
+      "char_liu_bing_yi_fb058e",
+      "char_mao_yan_5a76ce",
+      "char_pan_bi_zheng_40f17f",
+      "char_pi_shi_2412b3",
+      "char_que_de_8ebf61",
+      "char_shu_tong_29e16b",
+      "char_su_san_03fc34",
+      "char_wang_ba_014b12",
+      "char_wang_ren_c78d70",
+      "char_zhao_wang_9270f4",
+      "char_zhao_yao_7e2896"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "王金龙：小生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_003",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 3,
+    "role_name": "刘秉义",
+    "role_name_clean": "刘秉义",
+    "character_key": "char_liu_bing_yi_fb058e",
+    "alias_names": [],
+    "raw_role_type": "老生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.3669,
+    "scene_ids": [
+      "scene_014",
+      "scene_015",
+      "scene_016",
+      "scene_017"
+    ],
+    "first_scene_id": "scene_014",
+    "last_scene_id": "scene_017",
+    "co_occurrence_hint": [
+      "char_bao_er_43c445",
+      "char_chong_gong_dao_cd071d",
+      "char_chun_jin_ae0def",
+      "char_jin_ge_6680fb",
+      "char_li_hu_6a36f2",
+      "char_pan_bi_zheng_40f17f",
+      "char_pi_shi_2412b3",
+      "char_su_san_03fc34",
+      "char_wang_ba_014b12",
+      "char_wang_jin_long_4e42c5",
+      "char_wang_ren_c78d70",
+      "char_zhao_wang_9270f4",
+      "char_zhao_yao_7e2896"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "刘秉义：老生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_004",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 4,
+    "role_name": "潘必正",
+    "role_name_clean": "潘必正",
+    "character_key": "char_pan_bi_zheng_40f17f",
+    "alias_names": [],
+    "raw_role_type": "老生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.2857,
+    "scene_ids": [
+      "scene_014",
+      "scene_016",
+      "scene_017"
+    ],
+    "first_scene_id": "scene_014",
+    "last_scene_id": "scene_017",
+    "co_occurrence_hint": [
+      "char_bao_er_43c445",
+      "char_chong_gong_dao_cd071d",
+      "char_chun_jin_ae0def",
+      "char_jin_ge_6680fb",
+      "char_li_hu_6a36f2",
+      "char_liu_bing_yi_fb058e",
+      "char_pi_shi_2412b3",
+      "char_su_san_03fc34",
+      "char_wang_ba_014b12",
+      "char_wang_jin_long_4e42c5",
+      "char_wang_ren_c78d70",
+      "char_zhao_wang_9270f4",
+      "char_zhao_yao_7e2896"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "潘必正：老生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_005",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 5,
+    "role_name": "崇公道",
+    "role_name_clean": "崇公道",
+    "character_key": "char_chong_gong_dao_cd071d",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.2669,
+    "scene_ids": [
+      "scene_012",
+      "scene_013",
+      "scene_014",
+      "scene_017"
+    ],
+    "first_scene_id": "scene_012",
+    "last_scene_id": "scene_017",
+    "co_occurrence_hint": [
+      "char_bao_er_43c445",
+      "char_chun_jin_ae0def",
+      "char_jin_ge_6680fb",
+      "char_li_hu_6a36f2",
+      "char_liu_bing_yi_fb058e",
+      "char_pan_bi_zheng_40f17f",
+      "char_pi_shi_2412b3",
+      "char_su_san_03fc34",
+      "char_wang_ba_014b12",
+      "char_wang_jin_long_4e42c5"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "崇公道：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_006",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 6,
+    "role_name": "金哥",
+    "role_name_clean": "金哥",
+    "character_key": "char_jin_ge_6680fb",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1994,
+    "scene_ids": [
+      "scene_004",
+      "scene_005",
+      "scene_014"
+    ],
+    "first_scene_id": "scene_004",
+    "last_scene_id": "scene_014",
+    "co_occurrence_hint": [
+      "char_bao_er_43c445",
+      "char_chong_gong_dao_cd071d",
+      "char_liu_bing_yi_fb058e",
+      "char_pan_bi_zheng_40f17f",
+      "char_pi_shi_2412b3",
+      "char_shu_tong_29e16b",
+      "char_su_san_03fc34",
+      "char_wang_ba_014b12",
+      "char_wang_jin_long_4e42c5"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "金哥：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_007",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 7,
+    "role_name": "鸨儿",
+    "role_name_clean": "鸨儿",
+    "character_key": "char_bao_er_43c445",
+    "alias_names": [],
+    "raw_role_type": "彩旦",
+    "base_role_type": "彩旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.2421,
+    "scene_ids": [
+      "scene_002",
+      "scene_003",
+      "scene_004",
+      "scene_005",
+      "scene_006",
+      "scene_007",
+      "scene_008",
+      "scene_014"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_014",
+    "co_occurrence_hint": [
+      "char_chong_gong_dao_cd071d",
+      "char_er_wa_zi_eabb6c",
+      "char_jin_ge_6680fb",
+      "char_liu_bing_yi_fb058e",
+      "char_mao_yan_5a76ce",
+      "char_pan_bi_zheng_40f17f",
+      "char_pi_shi_2412b3",
+      "char_que_de_8ebf61",
+      "char_shen_hong_4147df",
+      "char_shu_tong_29e16b",
+      "char_su_san_03fc34",
+      "char_wang_ba_014b12",
+      "char_wang_jin_long_4e42c5"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "鸨儿：彩旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_008",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 8,
+    "role_name": "忘八",
+    "role_name_clean": "忘八",
+    "character_key": "char_wang_ba_014b12",
+    "alias_names": [],
+    "raw_role_type": "净",
+    "base_role_type": "净",
+    "role_type_family": "净",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1263,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_004",
+      "scene_005",
+      "scene_006",
+      "scene_007",
+      "scene_008",
+      "scene_014"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_014",
+    "co_occurrence_hint": [
+      "char_bao_er_43c445",
+      "char_chong_gong_dao_cd071d",
+      "char_er_wa_zi_eabb6c",
+      "char_jin_ge_6680fb",
+      "char_liu_bing_yi_fb058e",
+      "char_mao_yan_5a76ce",
+      "char_pan_bi_zheng_40f17f",
+      "char_pi_shi_2412b3",
+      "char_que_de_8ebf61",
+      "char_shen_hong_4147df",
+      "char_shu_tong_29e16b",
+      "char_su_san_03fc34",
+      "char_wang_jin_long_4e42c5"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "忘八：净",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_009",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 9,
+    "role_name": "阙德",
+    "role_name_clean": "阙德",
+    "character_key": "char_que_de_8ebf61",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.119,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_003",
+    "co_occurrence_hint": [
+      "char_bao_er_43c445",
+      "char_mao_yan_5a76ce",
+      "char_shu_tong_29e16b",
+      "char_su_san_03fc34",
+      "char_wang_ba_014b12",
+      "char_wang_jin_long_4e42c5"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "阙德：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_010",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 10,
+    "role_name": "冒延",
+    "role_name_clean": "冒延",
+    "character_key": "char_mao_yan_5a76ce",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1129,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_003",
+    "co_occurrence_hint": [
+      "char_bao_er_43c445",
+      "char_que_de_8ebf61",
+      "char_shu_tong_29e16b",
+      "char_su_san_03fc34",
+      "char_wang_ba_014b12",
+      "char_wang_jin_long_4e42c5"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "冒延：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_011",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 11,
+    "role_name": "沈宏",
+    "role_name_clean": "沈宏",
+    "character_key": "char_shen_hong_4147df",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1077,
+    "scene_ids": [
+      "scene_007",
+      "scene_008",
+      "scene_009",
+      "scene_010",
+      "scene_011"
+    ],
+    "first_scene_id": "scene_007",
+    "last_scene_id": "scene_011",
+    "co_occurrence_hint": [
+      "char_bao_er_43c445",
+      "char_chun_jin_ae0def",
+      "char_er_wa_zi_eabb6c",
+      "char_li_hu_6a36f2",
+      "char_pi_shi_2412b3",
+      "char_su_san_03fc34",
+      "char_wang_ba_014b12",
+      "char_wang_ren_c78d70",
+      "char_zhao_wang_9270f4",
+      "char_zhao_yao_7e2896"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "沈宏：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_012",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 12,
+    "role_name": "皮氏",
+    "role_name_clean": "皮氏",
+    "character_key": "char_pi_shi_2412b3",
+    "alias_names": [],
+    "raw_role_type": "旦",
+    "base_role_type": "旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.1567,
+    "scene_ids": [
+      "scene_007",
+      "scene_009",
+      "scene_010",
+      "scene_011",
+      "scene_013",
+      "scene_014",
+      "scene_016"
+    ],
+    "first_scene_id": "scene_007",
+    "last_scene_id": "scene_016",
+    "co_occurrence_hint": [
+      "char_bao_er_43c445",
+      "char_chong_gong_dao_cd071d",
+      "char_chun_jin_ae0def",
+      "char_er_wa_zi_eabb6c",
+      "char_jin_ge_6680fb",
+      "char_li_hu_6a36f2",
+      "char_liu_bing_yi_fb058e",
+      "char_pan_bi_zheng_40f17f",
+      "char_shen_hong_4147df",
+      "char_su_san_03fc34",
+      "char_wang_ba_014b12",
+      "char_wang_jin_long_4e42c5",
+      "char_wang_ren_c78d70",
+      "char_zhao_wang_9270f4",
+      "char_zhao_yao_7e2896"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "皮氏：旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_013",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 13,
+    "role_name": "春锦",
+    "role_name_clean": "春锦",
+    "character_key": "char_chun_jin_ae0def",
+    "alias_names": [],
+    "raw_role_type": "旦",
+    "base_role_type": "旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.0991,
+    "scene_ids": [
+      "scene_009",
+      "scene_013",
+      "scene_016"
+    ],
+    "first_scene_id": "scene_009",
+    "last_scene_id": "scene_016",
+    "co_occurrence_hint": [
+      "char_chong_gong_dao_cd071d",
+      "char_li_hu_6a36f2",
+      "char_liu_bing_yi_fb058e",
+      "char_pan_bi_zheng_40f17f",
+      "char_pi_shi_2412b3",
+      "char_shen_hong_4147df",
+      "char_su_san_03fc34",
+      "char_wang_jin_long_4e42c5",
+      "char_wang_ren_c78d70",
+      "char_zhao_wang_9270f4",
+      "char_zhao_yao_7e2896"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "春锦：旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_014",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 14,
+    "role_name": "赵旺",
+    "role_name_clean": "赵旺",
+    "character_key": "char_zhao_wang_9270f4",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.0955,
+    "scene_ids": [
+      "scene_009",
+      "scene_016"
+    ],
+    "first_scene_id": "scene_009",
+    "last_scene_id": "scene_016",
+    "co_occurrence_hint": [
+      "char_chun_jin_ae0def",
+      "char_li_hu_6a36f2",
+      "char_liu_bing_yi_fb058e",
+      "char_pan_bi_zheng_40f17f",
+      "char_pi_shi_2412b3",
+      "char_shen_hong_4147df",
+      "char_su_san_03fc34",
+      "char_wang_jin_long_4e42c5",
+      "char_wang_ren_c78d70",
+      "char_zhao_yao_7e2896"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "赵旺：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_015",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 15,
+    "role_name": "王仁",
+    "role_name_clean": "王仁",
+    "character_key": "char_wang_ren_c78d70",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.0922,
+    "scene_ids": [
+      "scene_011",
+      "scene_016"
+    ],
+    "first_scene_id": "scene_011",
+    "last_scene_id": "scene_016",
+    "co_occurrence_hint": [
+      "char_chun_jin_ae0def",
+      "char_li_hu_6a36f2",
+      "char_liu_bing_yi_fb058e",
+      "char_pan_bi_zheng_40f17f",
+      "char_pi_shi_2412b3",
+      "char_shen_hong_4147df",
+      "char_su_san_03fc34",
+      "char_wang_jin_long_4e42c5",
+      "char_zhao_wang_9270f4",
+      "char_zhao_yao_7e2896"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "王仁：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_016",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 16,
+    "role_name": "赵曜",
+    "role_name_clean": "赵曜",
+    "character_key": "char_zhao_yao_7e2896",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.0893,
+    "scene_ids": [
+      "scene_011",
+      "scene_016"
+    ],
+    "first_scene_id": "scene_011",
+    "last_scene_id": "scene_016",
+    "co_occurrence_hint": [
+      "char_chun_jin_ae0def",
+      "char_li_hu_6a36f2",
+      "char_liu_bing_yi_fb058e",
+      "char_pan_bi_zheng_40f17f",
+      "char_pi_shi_2412b3",
+      "char_shen_hong_4147df",
+      "char_su_san_03fc34",
+      "char_wang_jin_long_4e42c5",
+      "char_wang_ren_c78d70",
+      "char_zhao_wang_9270f4"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "赵曜：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_017",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 17,
+    "role_name": "李虎",
+    "role_name_clean": "李虎",
+    "character_key": "char_li_hu_6a36f2",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.0866,
+    "scene_ids": [
+      "scene_011",
+      "scene_013",
+      "scene_016"
+    ],
+    "first_scene_id": "scene_011",
+    "last_scene_id": "scene_016",
+    "co_occurrence_hint": [
+      "char_chong_gong_dao_cd071d",
+      "char_chun_jin_ae0def",
+      "char_liu_bing_yi_fb058e",
+      "char_pan_bi_zheng_40f17f",
+      "char_pi_shi_2412b3",
+      "char_shen_hong_4147df",
+      "char_su_san_03fc34",
+      "char_wang_jin_long_4e42c5",
+      "char_wang_ren_c78d70",
+      "char_zhao_wang_9270f4",
+      "char_zhao_yao_7e2896"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "李虎：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_018",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 18,
+    "role_name": "书童",
+    "role_name_clean": "书童",
+    "character_key": "char_shu_tong_29e16b",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.0842,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_bao_er_43c445",
+      "char_jin_ge_6680fb",
+      "char_mao_yan_5a76ce",
+      "char_que_de_8ebf61",
+      "char_su_san_03fc34",
+      "char_wang_ba_014b12",
+      "char_wang_jin_long_4e42c5"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "书童：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_70203000_70203202_019",
+    "play_id": "play_70203000_70203202",
+    "play_group_id": "group_yu_tang_chun_2790bc",
+    "version_id": "version_70203000_70203202",
+    "role_order": 19,
+    "role_name": "二娃子",
+    "role_name_clean": "二娃子",
+    "character_key": "char_er_wa_zi_eabb6c",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.0819,
+    "scene_ids": [
+      "scene_007",
+      "scene_008"
+    ],
+    "first_scene_id": "scene_007",
+    "last_scene_id": "scene_008",
+    "co_occurrence_hint": [
+      "char_bao_er_43c445",
+      "char_pi_shi_2412b3",
+      "char_shen_hong_4147df",
+      "char_su_san_03fc34",
+      "char_wang_ba_014b12"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "二娃子：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_80000000_80000002_001",
+    "play_id": "play_80000000_80000002",
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "version_id": "version_80000000_80000002",
+    "role_order": 1,
+    "role_name": "萧恩",
+    "role_name_clean": "萧恩",
+    "character_key": "char_xiao_en_c54c04",
+    "alias_names": [],
+    "raw_role_type": "老生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_003",
+    "co_occurrence_hint": [
+      "char_da_jiao_shi_d1923b",
+      "char_xiao_gui_ying_c50059"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "萧恩：老生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_80000000_80000002_002",
+    "play_id": "play_80000000_80000002",
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "version_id": "version_80000000_80000002",
+    "role_order": 2,
+    "role_name": "萧桂英",
+    "role_name_clean": "萧桂英",
+    "character_key": "char_xiao_gui_ying_c50059",
+    "alias_names": [],
+    "raw_role_type": "旦",
+    "base_role_type": "旦",
+    "role_type_family": "旦",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.7071,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_003",
+    "co_occurrence_hint": [
+      "char_da_jiao_shi_d1923b",
+      "char_xiao_en_c54c04"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "萧桂英：旦",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_80000000_80000002_003",
+    "play_id": "play_80000000_80000002",
+    "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+    "version_id": "version_80000000_80000002",
+    "role_order": 3,
+    "role_name": "大教师",
+    "role_name_clean": "大教师",
+    "character_key": "char_da_jiao_shi_d1923b",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.5774,
+    "scene_ids": [
+      "scene_002"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_xiao_en_c54c04",
+      "char_xiao_gui_ying_c50059"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "大教师：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_80000000_80000019_001",
+    "play_id": "play_80000000_80000019",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_80000000_80000019",
+    "role_order": 1,
+    "role_name": "邹应龙",
+    "role_name_clean": "邹应龙",
+    "character_key": "char_zou_ying_long_08e712",
+    "alias_names": [],
+    "raw_role_type": "老生",
+    "base_role_type": "老生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.8061,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_yan_song_fb3f72",
+      "char_yan_xia_9535c9"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "邹应龙：老生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_80000000_80000019_002",
+    "play_id": "play_80000000_80000019",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_80000000_80000019",
+    "role_order": 2,
+    "role_name": "严嵩",
+    "role_name_clean": "严嵩",
+    "character_key": "char_yan_song_fb3f72",
+    "alias_names": [],
+    "raw_role_type": "净",
+    "base_role_type": "净",
+    "role_type_family": "净",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 1.0,
+    "scene_ids": [
+      "scene_001",
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_001",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_yan_xia_9535c9",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "严嵩：净",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_80000000_80000019_003",
+    "play_id": "play_80000000_80000019",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_80000000_80000019",
+    "role_order": 3,
+    "role_name": "严侠",
+    "role_name_clean": "严侠",
+    "character_key": "char_yan_xia_9535c9",
+    "alias_names": [],
+    "raw_role_type": "丑",
+    "base_role_type": "丑",
+    "role_type_family": "丑",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": true,
+    "importance_score": 0.2449,
+    "scene_ids": [
+      "scene_002"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_002",
+    "co_occurrence_hint": [
+      "char_chang_bao_tong_c28697",
+      "char_yan_song_fb3f72",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "严侠：丑",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  },
+  {
+    "role_id": "role_80000000_80000019_004",
+    "play_id": "play_80000000_80000019",
+    "play_group_id": "group_da_yan_song_96fecd",
+    "version_id": "version_80000000_80000019",
+    "role_order": 4,
+    "role_name": "常宝童",
+    "role_name_clean": "常宝童",
+    "character_key": "char_chang_bao_tong_c28697",
+    "alias_names": [],
+    "raw_role_type": "小生",
+    "base_role_type": "小生",
+    "role_type_family": "生",
+    "costume_tags": [],
+    "role_tags": [],
+    "is_principal": false,
+    "importance_score": 0.403,
+    "scene_ids": [
+      "scene_002",
+      "scene_003",
+      "scene_004"
+    ],
+    "first_scene_id": "scene_002",
+    "last_scene_id": "scene_004",
+    "co_occurrence_hint": [
+      "char_yan_song_fb3f72",
+      "char_yan_xia_9535c9",
+      "char_zou_ying_long_08e712"
+    ],
+    "evidence": {
+      "source_block": "主要角色",
+      "page": 1,
+      "raw_text": "常宝童：小生",
+      "method": "regex",
+      "notes": []
+    },
+    "quality": {
+      "name_confidence": 1.0,
+      "type_confidence": 0.9,
+      "scene_confidence": 0.8,
+      "importance_confidence": 0.7,
+      "overall_confidence": 0.85
+    }
+  }
+]

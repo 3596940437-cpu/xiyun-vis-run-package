@@ -1,0 +1,1084 @@
+[
+  {
+    "question": "《宇宙锋》的几个版本有什么不同？",
+    "aliases": [],
+    "answer": "结论：\n《宇宙锋》的不同版本在角色配置、行当划分和关键词侧重上存在差异。例如，《戏考》来源本突出秦王角色并包含正旦行当，而《京剧丛刊》来源本新增哑丫鬟和赵女角色，行当结构变为旦2个。《戏典》和《梅兰芳剧本选》来源本均弱化赵艳容角色，但前者保留门官而后者未提及。\n\n依据：\n《宇宙锋》版本差异对比显示《戏考》来源本新增秦王角色并弱化二太监等角色，行当由旦变为正旦，新增关键词如宠任、装疯。\n《京剧丛刊》来源本相比《戏考》新增哑丫鬟、赵女角色，行当结构为净、小生、旦2个，弱化赵艳容。\n《戏典》来源本与《梅兰芳剧本选》来源本均缺少赵艳容，但前者保留门官而后者未提及。\n\n可继续探索：\n1. 不同版本中秦王角色的戏份有何变化？\n2. 哑丫鬟和赵女角色在哪些版本中被强化？\n3. 《戏考》版本的装疯情节与其他版本有何不同？",
+    "evidence": [
+      {
+        "evidence_no": 1,
+        "source_type": "version",
+        "raw_source_type": "version_diff_card",
+        "source_id": "group_yu_zhou_feng_06cc71",
+        "display_text": "《宇宙锋》版本差异证据：《宇宙锋》版本差异对比： 当前差异以《京剧流派剧目荟萃》来源本作为参照。 《戏考》来源本：来源由《京剧流派剧目荟萃》对比到《戏考》；当前版本新增或突出角色：秦王；当前版本缺少或弱化角色：二太监、哑奴、四小太监、四御林军、秦二世、门官；有角色行当由旦变为正旦；新增关键词包括：宠任、执意不从、秦王、胡亥、装疯；缺少关键词包括：匡扶、匡洪、哑奴、宇宙、赵艳；片段数量变化-23、文本长度变化-9649、唱段提示变化-53、对白提示变化-140、舞台提示变化-248。 《京剧丛刊》来源本：来源由《京剧流派剧目荟萃》对比到《京剧丛刊》；当前版本新增或突出角色：哑丫鬟、赵女；当前版本缺少或弱化角色：二太监、哑奴、四小太监、四御林军、赵艳容、门官；新增关键词包括：哑丫鬟、胡亥、赵女、金殿；缺少关键词包括：匡扶、哑奴、赵艳、赵艳容；片段数量变化-21、文本长度变化-8732、唱段提示变化-51、对白提示变化-121、舞台提示变化-231。 《戏典》来源本：来源由《京剧流派剧目荟萃》对比到《戏典》；当前版本新增或突出角色：秦王、赵女；当前版本缺少或弱化角色：二太监、哑奴、四小太监、四御林军、秦二世、赵艳容；新增关键词包括：信以为真、秦王、赵女、门官；缺少关键词包括：匡扶、哑奴、赵艳、赵艳容；片段数量变化-23、文本长度变化-9654、唱段提示变化-57、对白提示变化-144、舞台提示变化-247。 《梅兰芳剧本选》来源本：来源由《京剧流派剧目荟萃》对比到《梅兰芳剧本选》；当前版本新增或突出角色：秦王；当前版本缺少或弱化角色：二太监、哑奴、四小太监、四御林军、秦二世、门官；有角色行当由旦变为正旦；新增关键词包括：宠任、执意不从、秦王、胡亥、装疯；缺少关键词包括：匡扶、匡洪、哑奴、宇宙、赵艳；片段数量变化-21、文本长度变化-8431、唱段提示变化-49、对白提示变化-119、舞台提示变化-232。",
+        "highlight_target": "group_yu_zhou_feng_06cc71",
+        "highlight_type": "play_group",
+        "title": "宇宙锋",
+        "play_id": null,
+        "play_group_id": "group_yu_zhou_feng_06cc71",
+        "version_id": null,
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 2,
+        "source_type": "version",
+        "raw_source_type": "version_river",
+        "source_id": "group_yu_zhou_feng_06cc71",
+        "display_text": "《宇宙锋》版本列表证据：《宇宙锋》版本列表： 当前剧目组包含 5 个版本。 第 1 个版本来源为《戏考》，角色数为 3，主要角色包括赵艳容、赵高、秦王，行当结构为净1个、小生1个、正旦1个。 第 2 个版本来源为《京剧丛刊》，角色数为 4，主要角色包括赵女、赵高、秦二世、哑丫鬟，行当结构为净1个、小生1个、旦2个。 第 3 个版本来源为《京剧流派剧目荟萃》，角色数为 13，主要角色包括赵艳容、赵高、秦二世、哑奴、门官，行当结构为丑2个、净2个、小生1个、旦2个、杂4个、生2个。 第 4 个版本来源为《戏典》，角色数为 4，主要角色包括赵女、赵高、秦王、门官，行当结构为丑1个、净1个、小生1个、正旦1个。 第 5 个版本来源为《梅兰芳剧本选》，角色数为 3，主要角色包括赵艳容、赵高、秦王，行当结构为净1个、小生1个、正旦1个。",
+        "highlight_target": "group_yu_zhou_feng_06cc71",
+        "highlight_type": "play_group",
+        "title": "宇宙锋",
+        "play_id": null,
+        "play_group_id": "group_yu_zhou_feng_06cc71",
+        "version_id": null,
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 3,
+        "source_type": "play",
+        "raw_source_type": "play_summary",
+        "source_id": "play_01000000_01002014",
+        "display_text": "《宇宙锋》，来源：戏考，秦二世胡亥，荒淫暴虐，宠任奸佞赵高，置国事于不顾。赵高有女赵艳容，美而寡。秦二世幸赵府，见之大悦，欲纳为后，赵高欣然允之。赵艳容以秦二世淫逸放纵，灭亡可待，执意不从。, 宇宙锋。别名：金殿装疯。主题：其他。秦二世胡亥，荒淫暴虐，宠任奸佞赵高，置国事于不顾。赵高有女赵艳容，美而寡。秦二世幸赵府，见之大悦，欲纳为后，赵高欣然允之。赵艳容以秦二世淫逸放纵，灭亡可待，执意不从。根据...",
+        "highlight_target": "play_01000000_01002014",
+        "highlight_type": "play",
+        "title": "宇宙锋",
+        "play_id": "play_01000000_01002014",
+        "play_group_id": "group_yu_zhou_feng_06cc71",
+        "version_id": "version_01000000_01002014",
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": null,
+        "role_type": null,
+        "source_name": "戏考",
+        "evidence_section": null
+      }
+    ],
+    "highlight_targets": [
+      {
+        "target_id": "group_yu_zhou_feng_06cc71",
+        "target_type": "play_group",
+        "label": "宇宙锋"
+      },
+      {
+        "target_id": "play_01000000_01002014",
+        "target_type": "play",
+        "label": "宇宙锋"
+      }
+    ],
+    "suggested_questions": [
+      "不同版本中秦王角色的戏份有何变化？",
+      "哑丫鬟和赵女角色在哪些版本中被强化？",
+      "《戏考》版本的装疯情节与其他版本有何不同？"
+    ]
+  },
+  {
+    "question": "《空城计》的主要角色有哪些？",
+    "aliases": [],
+    "answer": "结论：\n《空城计》的主要角色包括诸葛亮、司马懿、司马师、司马昭。其中诸葛亮由老生行当饰演，司马懿、司马师由净行当饰演，司马昭由小生行当饰演。\n\n依据：\n《空城计》的角色材料标注诸葛亮为老生，司马懿为净，司马师为净，司马昭为小生。这些角色在剧情中多次出现，如诸葛亮在城楼抚琴、司马懿观察局势、司马师与司马昭参与军事行动等。\n\n可继续探索：\n1. 赵云在剧情中是否属于主要角色？\n2. 不同版本中是否有角色行当的变化？\n3. 有哪些与《空城计》主题相似的剧目？",
+    "evidence": [
+      {
+        "evidence_no": 1,
+        "source_type": "text_chunk",
+        "raw_source_type": "text_chunk",
+        "source_id": "chunk_477fd747bad0_477fd7",
+        "display_text": "《空城计》，段落：情节，三国时，马谡死读兵书中“置之死地而后生”一语，不听诸葛亮之言，扎营山头，被司马懿率兵围困，水泄\\n不通，遂失街亭。司马懿复带四十万雄兵直抵西城，时诸葛亮守城，兵微将寡，欲战不能，欲走不可。作空\\n城之计，大开四门，自领二童，坐城楼，酌酒扶琴，谈笑自若。司马懿一见，惊疑不已。细听琴声，安闲怡\\n静，始终不乱，恐是诱敌之计，不敢进城，竟退兵四十余里。诸葛亮乃得乘机调赵云等来西城...",
+        "highlight_target": "play_01000000_01001001",
+        "highlight_type": "play",
+        "title": "空城计",
+        "play_id": "play_01000000_01001001",
+        "play_group_id": "group_kong_cheng_ji_bbe902",
+        "version_id": "version_01000000_01001001",
+        "cluster_id": null,
+        "chunk_id": "chunk_477fd747bad0_477fd7",
+        "role_name": [
+          "诸葛亮",
+          "司马懿",
+          "司马师",
+          "司马昭",
+          "赵云",
+          "老军甲",
+          "老军乙"
+        ],
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "情节"
+      },
+      {
+        "evidence_no": 2,
+        "source_type": "role",
+        "raw_source_type": "role_evidence",
+        "source_id": "play_01000000_01001001:诸葛亮",
+        "display_text": "《空城计》角色证据：诸葛亮（老生）",
+        "highlight_target": "play_01000000_01001001",
+        "highlight_type": "play",
+        "title": "空城计",
+        "play_id": "play_01000000_01001001",
+        "play_group_id": "group_kong_cheng_ji_bbe902",
+        "version_id": "version_01000000_01001001",
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": "诸葛亮",
+        "role_type": "老生",
+        "source_name": null,
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 3,
+        "source_type": "role",
+        "raw_source_type": "role_evidence",
+        "source_id": "play_01000000_01001001:司马懿",
+        "display_text": "《空城计》角色证据：司马懿（净）",
+        "highlight_target": "play_01000000_01001001",
+        "highlight_type": "play",
+        "title": "空城计",
+        "play_id": "play_01000000_01001001",
+        "play_group_id": "group_kong_cheng_ji_bbe902",
+        "version_id": "version_01000000_01001001",
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": "司马懿",
+        "role_type": "净",
+        "source_name": null,
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 4,
+        "source_type": "role",
+        "raw_source_type": "role_evidence",
+        "source_id": "play_01000000_01001001:司马师",
+        "display_text": "《空城计》角色证据：司马师（净）",
+        "highlight_target": "play_01000000_01001001",
+        "highlight_type": "play",
+        "title": "空城计",
+        "play_id": "play_01000000_01001001",
+        "play_group_id": "group_kong_cheng_ji_bbe902",
+        "version_id": "version_01000000_01001001",
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": "司马师",
+        "role_type": "净",
+        "source_name": null,
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 5,
+        "source_type": "role",
+        "raw_source_type": "role_evidence",
+        "source_id": "play_01000000_01001001:司马昭",
+        "display_text": "《空城计》角色证据：司马昭（小生）",
+        "highlight_target": "play_01000000_01001001",
+        "highlight_type": "play",
+        "title": "空城计",
+        "play_id": "play_01000000_01001001",
+        "play_group_id": "group_kong_cheng_ji_bbe902",
+        "version_id": "version_01000000_01001001",
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": "司马昭",
+        "role_type": "小生",
+        "source_name": null,
+        "evidence_section": null
+      }
+    ],
+    "highlight_targets": [
+      {
+        "target_id": "play_01000000_01001001",
+        "target_type": "play",
+        "label": "空城计"
+      }
+    ],
+    "suggested_questions": [
+      "赵云在剧情中是否属于主要角色？",
+      "不同版本中是否有角色行当的变化？",
+      "有哪些与《空城计》主题相似的剧目？"
+    ]
+  },
+  {
+    "question": "赵艳容为什么常被标为正旦？",
+    "aliases": [],
+    "answer": "结论：\n赵艳容在《宇宙锋》中被明确标注为正旦行当，这与其在剧目中的主要角色地位和表演特征相关。\n依据：\n《宇宙锋》的角色材料标注赵艳容为正旦，且显示其为剧目中的主要角色。\n赵艳容在第一场和第二场中均有大量唱段和身段动作描述，符合正旦行当的表演规范。\n可继续探索：\n1. 其他剧目中赵艳容的行当是否有不同标注？\n2. 《宇宙锋》不同版本中赵艳容的行当是否一致？\n3. 有哪些剧目中的正旦角色与赵艳容有相似的表演特征？",
+    "evidence": [
+      {
+        "evidence_no": 1,
+        "source_type": "role",
+        "raw_source_type": "role_evidence",
+        "source_id": "play_01000000_01002014:赵艳容",
+        "display_text": "《宇宙锋》角色证据：赵艳容（正旦）",
+        "highlight_target": "play_01000000_01002014",
+        "highlight_type": "play",
+        "title": "宇宙锋",
+        "play_id": "play_01000000_01002014",
+        "play_group_id": "group_yu_zhou_feng_06cc71",
+        "version_id": "version_01000000_01002014",
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": "赵艳容",
+        "role_type": "正旦",
+        "source_name": null,
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 2,
+        "source_type": "role",
+        "raw_source_type": "role_evidence",
+        "source_id": "play_70201000_70201101:赵艳容",
+        "display_text": "《宇宙锋》角色证据：赵艳容（正旦）",
+        "highlight_target": "play_70201000_70201101",
+        "highlight_type": "play",
+        "title": "宇宙锋",
+        "play_id": "play_70201000_70201101",
+        "play_group_id": "group_yu_zhou_feng_06cc71",
+        "version_id": "version_70201000_70201101",
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": "赵艳容",
+        "role_type": "正旦",
+        "source_name": null,
+        "evidence_section": null
+      }
+    ],
+    "highlight_targets": [
+      {
+        "target_id": "play_01000000_01002014",
+        "target_type": "play",
+        "label": "宇宙锋"
+      },
+      {
+        "target_id": "play_70201000_70201101",
+        "target_type": "play",
+        "label": "宇宙锋"
+      }
+    ],
+    "suggested_questions": [
+      "其他剧目中赵艳容的行当是否有不同标注？",
+      "《宇宙锋》不同版本中赵艳容的行当是否一致？",
+      "有哪些剧目中的正旦角色与赵艳容有相似的表演特征？"
+    ]
+  },
+  {
+    "question": "我想从三国戏入门，推荐哪些剧目？",
+    "aliases": [],
+    "answer": "结论：\n推荐《三顾茅庐》《空城计》《赤壁鏖兵【头本】》作为三国戏入门选择。\n这些剧目均属于三国主题星团，包含战争与谋略元素，且有明确的历史人物和经典情节。\n\n依据：\n《三顾茅庐》的文本片段显示刘备三顾茅庐请诸葛亮出山的情节，涉及主要人物和典型三国故事。\n《空城计》被标注为三国群雄智谋征战星团的代表剧目，体现诸葛亮与司马懿的对峙智慧。\n《赤壁鏖兵【头本】》的第三场包含诸葛亮舌战群儒的完整情节，展现三国时期的重要战役和人物互动。\n\n可继续探索：\n1. 《三顾茅庐》的版本差异如何？\n2. 《空城计》中诸葛亮的行当特征是什么？\n3. 有哪些与《赤壁鏖兵》主题相似的剧目？",
+    "evidence": [
+      {
+        "evidence_no": 1,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_9dff1b9754b2_9dff1b",
+        "display_text": "《三顾茅庐》，段落：第十七场，（四游人同上。） 游人甲 （白） 请了。看天降大雪，同至酒楼，痛饮几杯。 三游人 （同白） 一同前往。 （四游人同下。）",
+        "highlight_target": "play_01000000_01019003",
+        "highlight_type": "play",
+        "title": "三顾茅庐",
+        "play_id": "play_01000000_01019003",
+        "play_group_id": "group_san_gu_mao_lu_c0a353",
+        "version_id": "version_01000000_01019003",
+        "cluster_id": null,
+        "chunk_id": "chunk_9dff1b9754b2_9dff1b",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "第十七场"
+      },
+      {
+        "evidence_no": 2,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_09c17721b1f5_09c177",
+        "display_text": "《三顾茅庐》，段落：第十六场，（孟公威、石广元同上。） 孟公威、 石广元 （同白） 吾， 孟公威 （白） 孟公威。 石广元 （白） 石广元。 孟公威 （白） 贤弟，你我隐居山林，倒也清闲自在。看天降大雪，奇冷非常。何不寻一酒楼， 沽饮一回？ 石广元 （白） 好，请。 孟公威 （唱） 大雪纷纷满天飞， 石广元 （唱） 去至酒楼饮一杯。 （孟公威、石广元同下。）",
+        "highlight_target": "play_01000000_01019003",
+        "highlight_type": "play",
+        "title": "三顾茅庐",
+        "play_id": "play_01000000_01019003",
+        "play_group_id": "group_san_gu_mao_lu_c0a353",
+        "version_id": "version_01000000_01019003",
+        "cluster_id": null,
+        "chunk_id": "chunk_09c17721b1f5_09c177",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "第十六场"
+      },
+      {
+        "evidence_no": 3,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_958f72b535ed_958f72",
+        "display_text": "《赤壁鏖兵【头本】》，段落：第三场，（四文堂、张昭、步骘、蒋综、陆绩同上。） 张昭 （念） 谈天论地口言开， 步骘 （念） 锦绣江山唾手来。 蒋综 （念） 安邦全凭三寸舌， 陆绩 （念） 定国第一栋梁才。 张昭 （白） 下官张昭。 步骘 （白） 下官步骘。 蒋综 （白） 下官蒋综。 陆绩 （白） 下官陆绩， 张昭 （白） 列公请了。 步骘、 蒋综、 陆绩 （同白） 请了。 张昭 （白） 曹操引百万...",
+        "highlight_target": "play_70601000_70601101",
+        "highlight_type": "play",
+        "title": "赤壁鏖兵【头本】",
+        "play_id": "play_70601000_70601101",
+        "play_group_id": "group_chi_bi_ao_bing_02f901",
+        "version_id": "version_70601000_70601101",
+        "cluster_id": null,
+        "chunk_id": "chunk_958f72b535ed_958f72",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "第三场"
+      },
+      {
+        "evidence_no": 4,
+        "source_type": "cluster",
+        "raw_source_type": "cluster_explanation",
+        "source_id": "cluster_graph_01",
+        "display_text": "《三国群雄智谋征战》星团解释：三国群雄智谋征战, 三国群雄智谋征战主要由富集标签“三国、关羽、曹操、张飞”、主题“三国、战争、谋略”、行当“净、老生、丑”和来源“京剧汇编、戏考”共同形成。, 三顾茅庐, 瓦口关, 捉放曹, 借赵云, 徐母骂曹, name: 三国, count: 174, name: 战争, count: 150, name: 谋略, count: 73, name: 忠义, co...",
+        "highlight_target": "cluster_graph_01",
+        "highlight_type": "cluster",
+        "title": "三国群雄智谋征战",
+        "play_id": null,
+        "play_group_id": null,
+        "version_id": null,
+        "cluster_id": "cluster_graph_01",
+        "chunk_id": null,
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 5,
+        "source_type": "cluster",
+        "raw_source_type": "cluster_explanation",
+        "source_id": "cluster_graph_05",
+        "display_text": "《三国群雄智谋征战》星团解释：三国群雄智谋征战, 三国群雄智谋征战主要由富集标签“三国、诸葛亮、司马懿、周瑜”、主题“战争、三国、谋略”、行当“老生、净、小生”和来源“戏考、京剧汇编”共同形成。, 空城计, 赤壁鏖兵, 取南郡, 定军山, 玉门关, name: 战争, count: 82, name: 三国, count: 74, name: 谋略, count: 63, name: 忠义, co...",
+        "highlight_target": "cluster_graph_05",
+        "highlight_type": "cluster",
+        "title": "三国群雄智谋征战",
+        "play_id": null,
+        "play_group_id": null,
+        "version_id": null,
+        "cluster_id": "cluster_graph_05",
+        "chunk_id": null,
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 6,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_1690c5a167f9_1690c5",
+        "display_text": "《赤壁鏖兵【头本】》，段落：第三场，上。） 鲁肃 （白） 先生请。 诸葛亮 （白） 请。 鲁肃 （念） 未谒江东吴侯主， 诸葛亮 （念） 先到蓬下会群儒。 张昭、 步骘、 蒋综、 陆绩 （同白） 啊，鲁大夫。 鲁肃 （白） 众位大人，见过孔明先生。 张昭、 步骘、 蒋综、 陆绩 （同白） 啊，来者敢是卧龙先生？ 诸葛亮 （白） 不敢，草字孔明。请问众位？ 张昭 （白） 下官张昭。 步骘 （白） 步...",
+        "highlight_target": "play_70601000_70601101",
+        "highlight_type": "play",
+        "title": "赤壁鏖兵【头本】",
+        "play_id": "play_70601000_70601101",
+        "play_group_id": "group_chi_bi_ao_bing_02f901",
+        "version_id": "version_70601000_70601101",
+        "cluster_id": null,
+        "chunk_id": "chunk_1690c5a167f9_1690c5",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "第三场"
+      }
+    ],
+    "highlight_targets": [
+      {
+        "target_id": "play_01000000_01019003",
+        "target_type": "play",
+        "label": "三顾茅庐"
+      },
+      {
+        "target_id": "play_70601000_70601101",
+        "target_type": "play",
+        "label": "赤壁鏖兵【头本】"
+      },
+      {
+        "target_id": "cluster_graph_01",
+        "target_type": "cluster",
+        "label": "三国群雄智谋征战"
+      },
+      {
+        "target_id": "cluster_graph_05",
+        "target_type": "cluster",
+        "label": "三国群雄智谋征战"
+      }
+    ],
+    "suggested_questions": [
+      "《三顾茅庐》的版本差异如何？",
+      "《空城计》中诸葛亮的行当特征是什么？",
+      "有哪些与《赤壁鏖兵》主题相似的剧目？"
+    ]
+  },
+  {
+    "question": "梅兰芳相关剧本在数据集中有哪些？",
+    "aliases": [],
+    "answer": "结论：\n梅兰芳相关剧本包括《花木兰》《西施》《天女散花》《黛玉葬花》。\n\n依据：\n《花木兰》的注释/根据材料标注梅兰芳编演，言慧珠改编。\n《西施》的注释/根据材料显示梅兰芳于1923年9月8日首演。\n《天女散花》的注释/根据材料指出这是梅兰芳早期常演的古装戏之一。\n《黛玉葬花》的注释/根据材料说明根据《梅兰芳演出剧本选集》整理。\n\n可继续探索：\n1. 这些剧目中哪些是梅兰芳的原创作品？\n2. 《西施》和《黛玉葬花》在主题星团上有何关联？\n3. 《花木兰》的改编版本是否涉及不同行当的演绎差异？",
+    "evidence": [
+      {
+        "evidence_no": 1,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_9c750cdee07d_9c750c",
+        "display_text": "《花木兰》，段落：注释/根据，梅兰芳编演。言慧珠改编。 根据言慧珠改编本整理。梅兰芳编演。言慧珠改编。",
+        "highlight_target": "play_90000000_90000007",
+        "highlight_type": "play",
+        "title": "花木兰",
+        "play_id": "play_90000000_90000007",
+        "play_group_id": "group_hua_mu_lan_47fbab",
+        "version_id": "version_90000000_90000007",
+        "cluster_id": null,
+        "chunk_id": "chunk_9c750cdee07d_9c750c",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "注释/根据"
+      },
+      {
+        "evidence_no": 2,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_f72b952573f9_f72b95",
+        "display_text": "《西施》，段落：注释/根据，见《史记·越世家》、《孤本元明杂剧》、明梁辰鱼《浣纱记》传奇。罗瘿公编，梅兰芳首演于1923年 9月8日。为了丰富乐队的表现能力，梅兰芳首创在此剧伴奏乐器中加了二胡。原分上、下二本，后改为一 晚演完。 根据《梅兰芳全集》第二卷整理。见《史记·越世家》、《孤本元明杂剧》、明梁辰鱼《浣纱记》传奇。罗瘿公编，梅兰芳首演于1923年9月8日。为了丰富乐队的表现能力，梅兰芳首创在...",
+        "highlight_target": "play_70201000_70201203",
+        "highlight_type": "play",
+        "title": "西施",
+        "play_id": "play_70201000_70201203",
+        "play_group_id": "group_xi_shi_97c4d6",
+        "version_id": "version_70201000_70201203",
+        "cluster_id": null,
+        "chunk_id": "chunk_f72b952573f9_f72b95",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "注释/根据"
+      },
+      {
+        "evidence_no": 3,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_c58e8a07f45c_c58e8a",
+        "display_text": "《天女散花》，段落：注释/根据，这个戏是梅兰芳先生早期经常演出的古装戏之一。在第四场“云路”和第六场“散花”中，梅先生创造了许 多优美的舞蹈动作；对于京剧舞蹈艺术的改进，曾起了很大的作用。 根据《梅兰芳演出剧本选集》整理。这个戏是梅兰芳先生早期经常演出的古装戏之一。在第四场“云路”和第六场“散花”中，梅先生创造了许多优美的舞蹈动作；对于京剧舞蹈艺术的改进，曾起了很大的作用。",
+        "highlight_target": "play_70201000_70201105",
+        "highlight_type": "play",
+        "title": "天女散花",
+        "play_id": "play_70201000_70201105",
+        "play_group_id": "group_tian_nv_san_hua_799d39",
+        "version_id": "version_70201000_70201105",
+        "cluster_id": null,
+        "chunk_id": "chunk_c58e8a07f45c_c58e8a",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "注释/根据"
+      },
+      {
+        "evidence_no": 4,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_558c8309e3da_558c83",
+        "display_text": "《黛玉葬花》，段落：注释/根据，这个戏是梅兰芳先生早期经常演出的古装戏之一。 根据《梅兰芳演出剧本选集》整理。这个戏是梅兰芳先生早期经常演出的古装戏之一。",
+        "highlight_target": "play_70201000_70201104",
+        "highlight_type": "play",
+        "title": "黛玉葬花",
+        "play_id": "play_70201000_70201104",
+        "play_group_id": "group_dai_yu_zang_hua_1dd167",
+        "version_id": "version_70201000_70201104",
+        "cluster_id": null,
+        "chunk_id": "chunk_558c8309e3da_558c83",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "注释/根据"
+      }
+    ],
+    "highlight_targets": [
+      {
+        "target_id": "play_90000000_90000007",
+        "target_type": "play",
+        "label": "花木兰"
+      },
+      {
+        "target_id": "play_70201000_70201203",
+        "target_type": "play",
+        "label": "西施"
+      },
+      {
+        "target_id": "play_70201000_70201105",
+        "target_type": "play",
+        "label": "天女散花"
+      },
+      {
+        "target_id": "play_70201000_70201104",
+        "target_type": "play",
+        "label": "黛玉葬花"
+      }
+    ],
+    "suggested_questions": [
+      "这些剧目中哪些是梅兰芳的原创作品？",
+      "《西施》和《黛玉葬花》在主题星团上有何关联？",
+      "《花木兰》的改编版本是否涉及不同行当的演绎差异？"
+    ]
+  },
+  {
+    "question": "《二进宫》不同版本的角色有什么变化？",
+    "aliases": [],
+    "answer": "结论：\n《二进宫》不同版本在角色设置上存在明显差异，部分角色被新增或弱化，行当也有所调整。\n\n依据：\n《京剧丛刊》来源本新增杨波、徐延昭、李艳妃，弱化徐小姐、杨四郎；《戏典》来源本新增李妃，弱化徐小姐、李艳妃、杨四郎；《孟小冬剧本选》来源本新增徐彦昭、杨公子，弱化徐延昭、杨四郎。\n《戏考》版本包含徐小姐、杨四郎等角色，而《京剧丛刊》《戏典》《孟小冬剧本选》版本角色数量和具体构成不同。\n不同版本中李艳妃的行当从正旦变为旦或贴旦，徐延昭的行当在《孟小冬剧本选》中变为贴旦。\n\n可继续探索：\n1. 《二进宫》各版本中李艳妃的行当变化具体体现在哪些方面？\n2. 徐延昭在不同版本中的角色定位有何不同？\n3. 《戏典》版本是否对杨波的戏份有特别侧重？",
+    "evidence": [
+      {
+        "evidence_no": 1,
+        "source_type": "version",
+        "raw_source_type": "version_diff_card",
+        "source_id": "group_er_jin_gong_d8b9f5",
+        "display_text": "《二进宫》版本差异证据：《二进宫》版本差异对比： 当前差异以《戏考》来源本作为参照。 《京剧丛刊》来源本：来源由《戏考》对比到《京剧丛刊》；当前版本新增或突出角色：杨波、徐延昭、李艳妃；当前版本缺少或弱化角色：徐小姐、杨四郎；有角色行当由正旦变为旦；新增关键词包括：明穆宗、李妃、李良、甚剧、篡位；缺少关键词包括：公忠、可托、国丈、徐小姐、李后；文本长度变化-107、舞台提示变化+2。 《戏典》来源本：来源由《戏考》对比到《戏典》；当前版本新增或突出角色：李妃；当前版本缺少或弱化角色：徐小姐、李艳妃、杨四郎；新增关键词包括：幼主、徐延、明朝、昭和、李妃；缺少关键词包括：公忠、可托、徐小姐、李后、李艳妃；文本长度变化-22。 《孟小冬剧本选》来源本：来源由《戏考》对比到《孟小冬剧本选》；当前版本新增或突出角色：徐彦昭、杨公子；当前版本缺少或弱化角色：徐延昭、杨四郎；有角色行当由旦变为贴旦；新增关键词包括：其奸、始悟、徐彦昭、悔叹、李良谋；缺少关键词包括：公忠、可托、国丈、徐延昭、李后；文本长度变化-204、唱段提示变化+2、对白提示变化+2。",
+        "highlight_target": "group_er_jin_gong_d8b9f5",
+        "highlight_type": "play_group",
+        "title": "二进宫",
+        "play_id": null,
+        "play_group_id": "group_er_jin_gong_d8b9f5",
+        "version_id": null,
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 2,
+        "source_type": "version",
+        "raw_source_type": "version_river",
+        "source_id": "group_er_jin_gong_d8b9f5",
+        "display_text": "《二进宫》版本列表证据：《二进宫》版本列表： 当前剧目组包含 4 个版本。 第 1 个版本来源为《戏考》，角色数为 5，主要角色包括李艳妃、徐延昭、杨波、徐小姐、杨四郎，行当结构为净1个、小生1个、旦1个、正旦1个、老生1个。 第 2 个版本来源为《京剧丛刊》，角色数为 3，主要角色包括杨波、徐延昭、李艳妃，行当结构为净1个、旦1个、老生1个。 第 3 个版本来源为《戏典》，角色数为 3，主要角色包括李妃、徐延昭、杨波，行当结构为净1个、老生1个、青衣1个。 第 4 个版本来源为《孟小冬剧本选》，角色数为 5，主要角色包括杨波、徐彦昭、李艳妃、徐小姐、杨公子，行当结构为净1个、小生1个、正旦1个、老生1个、贴旦1个。",
+        "highlight_target": "group_er_jin_gong_d8b9f5",
+        "highlight_type": "play_group",
+        "title": "二进宫",
+        "play_id": null,
+        "play_group_id": "group_er_jin_gong_d8b9f5",
+        "version_id": null,
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 3,
+        "source_type": "role",
+        "raw_source_type": "role_evidence",
+        "source_id": "play_01000000_01005007:李艳妃",
+        "display_text": "《二进宫》角色证据：李艳妃（正旦）",
+        "highlight_target": "play_01000000_01005007",
+        "highlight_type": "play",
+        "title": "二进宫",
+        "play_id": "play_01000000_01005007",
+        "play_group_id": "group_er_jin_gong_d8b9f5",
+        "version_id": "version_01000000_01005007",
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": "李艳妃",
+        "role_type": "正旦",
+        "source_name": null,
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 4,
+        "source_type": "role",
+        "raw_source_type": "role_evidence",
+        "source_id": "play_01000000_01005007:徐延昭",
+        "display_text": "《二进宫》角色证据：徐延昭（净）",
+        "highlight_target": "play_01000000_01005007",
+        "highlight_type": "play",
+        "title": "二进宫",
+        "play_id": "play_01000000_01005007",
+        "play_group_id": "group_er_jin_gong_d8b9f5",
+        "version_id": "version_01000000_01005007",
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": "徐延昭",
+        "role_type": "净",
+        "source_name": null,
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 5,
+        "source_type": "role",
+        "raw_source_type": "role_evidence",
+        "source_id": "play_01000000_01005007:杨波",
+        "display_text": "《二进宫》角色证据：杨波（老生）",
+        "highlight_target": "play_01000000_01005007",
+        "highlight_type": "play",
+        "title": "二进宫",
+        "play_id": "play_01000000_01005007",
+        "play_group_id": "group_er_jin_gong_d8b9f5",
+        "version_id": "version_01000000_01005007",
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": "杨波",
+        "role_type": "老生",
+        "source_name": null,
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 6,
+        "source_type": "role",
+        "raw_source_type": "role_evidence",
+        "source_id": "play_01000000_01005007:徐小姐",
+        "display_text": "《二进宫》角色证据：徐小姐（旦）",
+        "highlight_target": "play_01000000_01005007",
+        "highlight_type": "play",
+        "title": "二进宫",
+        "play_id": "play_01000000_01005007",
+        "play_group_id": "group_er_jin_gong_d8b9f5",
+        "version_id": "version_01000000_01005007",
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": "徐小姐",
+        "role_type": "旦",
+        "source_name": null,
+        "evidence_section": null
+      }
+    ],
+    "highlight_targets": [
+      {
+        "target_id": "group_er_jin_gong_d8b9f5",
+        "target_type": "play_group",
+        "label": "二进宫"
+      },
+      {
+        "target_id": "play_01000000_01005007",
+        "target_type": "play",
+        "label": "二进宫"
+      }
+    ],
+    "suggested_questions": [
+      "《二进宫》各版本中李艳妃的行当变化具体体现在哪些方面？",
+      "徐延昭在不同版本中的角色定位有何不同？",
+      "《戏典》版本是否对杨波的戏份有特别侧重？"
+    ]
+  },
+  {
+    "question": "哪些剧目同时涉及“忠义”和“战争”主题？",
+    "aliases": [],
+    "answer": "结论：\n《忠义图【二本】》和《汉忠烈【头本】》《汉忠烈【二本】》可能涉及忠义与战争主题。\n\n依据：\n《忠义图【二本】》的第十七场出现官兵与山贼的战斗场景，符合战争主题；剧目名「忠义图」直接关联忠义主题。\n《汉忠烈【头本】》《汉忠烈【二本】》的剧目名包含「忠烈」，暗示忠义主题；但未提供具体剧情，无法确认战争元素。\n\n可继续探索：\n1. 《桃园结义》是否包含战争情节？\n2. 《斩华雄》的剧情是否涉及忠义主题？\n3. 《大英杰烈》的忠义主题如何体现？",
+    "evidence": [
+      {
+        "evidence_no": 1,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_6a9d86b6089b_6a9d86",
+        "display_text": "《忠义图【二本】》，段落：第十七场，（〖急急风〗。四官兵、四上手、王强、王霸、姚横、李荣同上，过场，同跑下。）",
+        "highlight_target": "play_02000000_02012002",
+        "highlight_type": "play",
+        "title": "忠义图【二本】",
+        "play_id": "play_02000000_02012002",
+        "play_group_id": "group_zhong_yi_tu_1ff248",
+        "version_id": "version_02000000_02012002",
+        "cluster_id": null,
+        "chunk_id": "chunk_6a9d86b6089b_6a9d86",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "第十七场"
+      },
+      {
+        "evidence_no": 2,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_afd0585298fe_afd058",
+        "display_text": "《汉忠烈【头本】》，段落：注释/根据，根据《国剧大成》第二集整理",
+        "highlight_target": "play_02000000_02002032",
+        "highlight_type": "play",
+        "title": "汉忠烈【头本】",
+        "play_id": "play_02000000_02002032",
+        "play_group_id": "group_han_zhong_lie_1ccf8b",
+        "version_id": "version_02000000_02002032",
+        "cluster_id": null,
+        "chunk_id": "chunk_afd0585298fe_afd058",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "注释/根据"
+      },
+      {
+        "evidence_no": 3,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_b4a347148ad4_b4a347",
+        "display_text": "《汉忠烈【二本】》，段落：注释/根据，根据《国剧大成》第二集整理",
+        "highlight_target": "play_02000000_02002033",
+        "highlight_type": "play",
+        "title": "汉忠烈【二本】",
+        "play_id": "play_02000000_02002033",
+        "play_group_id": "group_han_zhong_lie_1ccf8b",
+        "version_id": "version_02000000_02002033",
+        "cluster_id": null,
+        "chunk_id": "chunk_b4a347148ad4_b4a347",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "注释/根据"
+      }
+    ],
+    "highlight_targets": [
+      {
+        "target_id": "play_02000000_02012002",
+        "target_type": "play",
+        "label": "忠义图【二本】"
+      },
+      {
+        "target_id": "play_02000000_02002032",
+        "target_type": "play",
+        "label": "汉忠烈【头本】"
+      },
+      {
+        "target_id": "play_02000000_02002033",
+        "target_type": "play",
+        "label": "汉忠烈【二本】"
+      }
+    ],
+    "suggested_questions": [
+      "《桃园结义》是否包含战争情节？",
+      "《斩华雄》的剧情是否涉及忠义主题？",
+      "《大英杰烈》的忠义主题如何体现？"
+    ]
+  },
+  {
+    "question": "包公戏有哪些共同特征？",
+    "aliases": [],
+    "answer": "结论：\n包公戏的共同特征包括以包拯为核心人物、展现公案断案情节、常出现四文堂、王朝、马汉等随从角色，并涉及宫廷或家庭伦理主题。\n\n依据：\n《双包案》和《黑驴告状》均明确标注包公为角色之一，且剧情围绕公案展开；《狸猫换太子》头本与三本均提及包公的宫廷相关情节；《钓金龟》的文本片段显示包拯与四文堂、王朝、马汉等随从共同出场；多部剧目主题包含包公与公案，如《双包案》《黑驴告状》《狸猫换太子》《钓金龟》。\n\n可继续探索：\n1. 这些剧目是否都包含超自然元素？\n2. 包拯的随从角色在不同版本中有何差异？\n3. 宫廷斗争与家庭伦理在哪些剧目中更突出？",
+    "evidence": [
+      {
+        "evidence_no": 1,
+        "source_type": "play",
+        "raw_source_type": "play_summary",
+        "source_id": "play_01000000_01006017",
+        "display_text": "《双包案》，来源：戏考，此剧大致谓包公放粮回京，途遇黑鼠精，亦变作包公模样，与之混搅。一时法堂之上，但见一包老变为两包老；一罪犯变为两罪犯；两皂快变为两两皂快；四青袍变为两四青袍。真假辨认不清。, 双包案。主题：包公、公案、爱情、家庭伦理。此剧大致谓包公放粮回京，途遇黑鼠精，亦变作包公模样，与之混搅。一时法堂之上，但见一包老变为两包老；一罪犯变为两罪犯；两皂快变为两两皂快；四青袍变为两四青袍。真假...",
+        "highlight_target": "play_01000000_01006017",
+        "highlight_type": "play",
+        "title": "双包案",
+        "play_id": "play_01000000_01006017",
+        "play_group_id": "group_shuang_bao_an_51a1a5",
+        "version_id": "version_01000000_01006017",
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": null,
+        "role_type": null,
+        "source_name": "戏考",
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 2,
+        "source_type": "play",
+        "raw_source_type": "play_summary",
+        "source_id": "play_01000000_01026004",
+        "display_text": "《黑驴告状》，来源：戏考，范仲禹妻白氏，情急自尽。奸相葛登云，命家院寄柩在菩提寺内。山西客翟绅，往京城收账，半路换骑驴子。李保夫妇，谋财害命。翟绅、白氏，借尸还魂，阴差阳错，互投躯壳。包公下朝，黑驴冲道。包公卧游仙枕，至阴曹地府，勘察情由。用照妖镜，转换男女两魂。各归自身。葛登云、李保，均治以应得之罪。遂成定谳。, 黑驴告状。主题：包公、公案、谋略、爱情。范仲禹妻白氏，情急自尽。奸相葛登云，命家院...",
+        "highlight_target": "play_01000000_01026004",
+        "highlight_type": "play",
+        "title": "黑驴告状",
+        "play_id": "play_01000000_01026004",
+        "play_group_id": "group_hei_lv_gao_zhuang_680dff",
+        "version_id": "version_01000000_01026004",
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": null,
+        "role_type": null,
+        "source_name": "戏考",
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 3,
+        "source_type": "play",
+        "raw_source_type": "play_summary",
+        "source_id": "play_01000000_01033001",
+        "display_text": "《狸猫换太子【头本】》，来源：戏考，头本从“包公出世”起，至“火烧冷宫”止。前半专演包公家庭事：包公初生，为兄包海暗害，弃之山中，经神虎保护，复为其长兄包山救回抚养。及稍长，包海令其日往山中樵牧，又有雷击狐狸，狐狸避入包公身下，以证明其为文曲星下降等情。, 狸猫换太子【头本】。主题：包公、公案、宫廷、谋略。头本从“包公出世”起，至“火烧冷宫”止。前半专演包公家庭事：包公初生，为兄包海暗害，弃之山中...",
+        "highlight_target": "play_01000000_01033001",
+        "highlight_type": "play",
+        "title": "狸猫换太子【头本】",
+        "play_id": "play_01000000_01033001",
+        "play_group_id": "group_li_mao_huan_tai_zi_226dbe",
+        "version_id": "version_01000000_01033001",
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": null,
+        "role_type": null,
+        "source_name": "戏考",
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 4,
+        "source_type": "play",
+        "raw_source_type": "play_summary",
+        "source_id": "play_01000000_01035001",
+        "display_text": "《狸猫换太子【三本】》，来源：戏考，此剧前第二本，演至包公奉旨入宫降魔为止。此本共五十五场，第一段，头场至四场，为陈州黄河水发，冲塌田庄，百姓被灾，田起元率众捞救，并带领灾民，赴县报灾请赈。, 狸猫换太子【三本】。主题：包公、公案、宫廷、战争。此剧前第二本，演至包公奉旨入宫降魔为止。此本共五十五场，第一段，头场至四场，为陈州黄河水发，冲塌田庄，百姓被灾，田起元率众捞救，并带领灾民，赴县报灾请赈。根...",
+        "highlight_target": "play_01000000_01035001",
+        "highlight_type": "play",
+        "title": "狸猫换太子【三本】",
+        "play_id": "play_01000000_01035001",
+        "play_group_id": "group_li_mao_huan_tai_zi_226dbe",
+        "version_id": "version_01000000_01035001",
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": null,
+        "role_type": null,
+        "source_name": "戏考",
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 5,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_a4c8f352c7ef_a4c8f3",
+        "display_text": "《钓金龟》，段落：第二十场，（老僧、小和尚同上。） 老僧 （念） 扫地不伤蝼蚁命，爱惜飞蛾纱罩灯。 （白） 今当庙会之期，徒儿打扫禅堂，好好侍奉香客。 小和尚 （白） 是。 老僧 （白） 为师要打坐去了。 （老僧下。差役上。） 差役 （白） 和尚！ 小和尚 （白） 大老爷到此何事？ 差役 （白） 有一贫婆，乃是县太爷的母亲，好好侍奉。 小和尚 （白） 是。 （差役下。康氏上。） 康氏 （唱） 我儿...",
+        "highlight_target": "play_03000000_03034005",
+        "highlight_type": "play",
+        "title": "钓金龟",
+        "play_id": "play_03000000_03034005",
+        "play_group_id": "group_diao_jin_gui_b505c1",
+        "version_id": "version_03000000_03034005",
+        "cluster_id": null,
+        "chunk_id": "chunk_a4c8f352c7ef_a4c8f3",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "第二十场"
+      },
+      {
+        "evidence_no": 6,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_43de872d5859_43de87",
+        "display_text": "《双包案》，段落：第一场，（王朝、马汉引包拯同上。） 包拯 （引子） 一片丹心，保宋主，锦绣龙廷。 （念） 黑暗暗乌纱盖顶，明亮亮玉带围身。上金殿君王见喜，下朝房文武皆尊。 （白） 老夫，包拯。宋室驾前为臣。今奉圣命陈州放粮，且喜放粮已毕，不免回朝交 旨复命。 王朝、马汉， （王朝、马汉同允。） 包拯 （白） 人役可齐？ 王朝、 马汉 （同白） 俱已齐备。 包拯 （白） 吩咐外厢开道。 王朝、 马...",
+        "highlight_target": "play_01000000_01006017",
+        "highlight_type": "play",
+        "title": "双包案",
+        "play_id": "play_01000000_01006017",
+        "play_group_id": "group_shuang_bao_an_51a1a5",
+        "version_id": "version_01000000_01006017",
+        "cluster_id": null,
+        "chunk_id": "chunk_43de872d5859_43de87",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "第一场"
+      },
+      {
+        "evidence_no": 7,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_bd1ec79367a0_bd1ec7",
+        "display_text": "《钓金龟》，段落：第二十四场，（四文堂、王朝、马汉、张龙、赵虎引包拯同上。风伯、雨师、雷公、电母引虬明同上，过场，同下。） 王朝 （白） 启相爷：一阵狂风刮去火签。 包拯 （白） 顺签追赶，速报我知！ 王朝 （白） 遵命。 （王朝下。） 包拯 （白） 开道！ （四青袍引张宣同上。） 张宣 （白） 迎接大人！ 包拯 （白） 公馆伺候！ （众人自两边分下。）",
+        "highlight_target": "play_03000000_03034005",
+        "highlight_type": "play",
+        "title": "钓金龟",
+        "play_id": "play_03000000_03034005",
+        "play_group_id": "group_diao_jin_gui_b505c1",
+        "version_id": "version_03000000_03034005",
+        "cluster_id": null,
+        "chunk_id": "chunk_bd1ec79367a0_bd1ec7",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "第二十四场"
+      },
+      {
+        "evidence_no": 8,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_3328c52f4831_3328c5",
+        "display_text": "《钓金龟》，段落：第十七场，（四文堂、王朝、马汉、张龙、赵虎、包兴引包拯同上。） 包拯 （引子） 一片忠心，保我主，锦绣龙庭。 （念） 身受皇恩为府首，精忠扫恶美名留。若有冤屈来见我，公正审明奏龙楼。 （白） 老夫，包拯。宋王驾前为臣。昔年在业师张世华门下攻读。今有师弟张宣，身 受祥符县，乃是老夫所管之地。不知他为官如何。只因黄河决口，若有差池， 合府人民必遭涂炭。老父不免去到城隍庙烧香许愿。 王...",
+        "highlight_target": "play_03000000_03034005",
+        "highlight_type": "play",
+        "title": "钓金龟",
+        "play_id": "play_03000000_03034005",
+        "play_group_id": "group_diao_jin_gui_b505c1",
+        "version_id": "version_03000000_03034005",
+        "cluster_id": null,
+        "chunk_id": "chunk_3328c52f4831_3328c5",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "第十七场"
+      }
+    ],
+    "highlight_targets": [
+      {
+        "target_id": "play_01000000_01006017",
+        "target_type": "play",
+        "label": "双包案"
+      },
+      {
+        "target_id": "play_01000000_01026004",
+        "target_type": "play",
+        "label": "黑驴告状"
+      },
+      {
+        "target_id": "play_01000000_01033001",
+        "target_type": "play",
+        "label": "狸猫换太子【头本】"
+      },
+      {
+        "target_id": "play_01000000_01035001",
+        "target_type": "play",
+        "label": "狸猫换太子【三本】"
+      },
+      {
+        "target_id": "play_03000000_03034005",
+        "target_type": "play",
+        "label": "钓金龟"
+      }
+    ],
+    "suggested_questions": [
+      "这些剧目是否都包含超自然元素？",
+      "包拯的随从角色在不同版本中有何差异？",
+      "宫廷斗争与家庭伦理在哪些剧目中更突出？"
+    ]
+  },
+  {
+    "question": "《打渔杀家》的来源有哪些？",
+    "aliases": [],
+    "answer": "结论：\n《打渔杀家》的来源包括《戏考》第二册。此外，材料中还提到该剧目存在多个版本，但未明确说明其他版本的具体来源。\n\n依据：\n《打渔杀家》的文本标注'根据〈戏考〉第二册整理'，这表明《戏考》是其直接来源之一。\n剧本中以阮小五为萧恩的设定，或系阮小五的隐名改编，这一信息也来自《戏考》的整理内容。\n该剧目组的版本来源明确标注为'戏考'，但未提供其他版本的具体出处。\n\n可继续探索：\n1. 《打渔杀家》的其他版本是否还有不同的来源依据？\n2. 该剧目改编自《水浒传》的具体情节有哪些？\n3. 萧恩这一角色在不同版本中有何变化？",
+    "evidence": [
+      {
+        "evidence_no": 1,
+        "source_type": "play",
+        "raw_source_type": "play_summary",
+        "source_id": "play_01000000_01002016",
+        "display_text": "《打渔杀家》，来源：戏考，宋，梁山泊宋江投顺后，阮小五不愿招安，仍以捕鱼为业。所生一女许与花荣之子，以庆顶珠为定物。阮氏父女二人，一叶扁舟，烟蓑雨笠，悠然自适。有土豪丁某，向阮小五需索陋规，阮小五不与。, 打渔杀家。别名：庆顶珠、讨鱼税。主题：水浒、家庭伦理、历史。宋，梁山泊宋江投顺后，阮小五不愿招安，仍以捕鱼为业。所生一女许与花荣之子，以庆顶珠为定物。阮氏父女二人，一叶扁舟，烟蓑雨笠，悠然自适。...",
+        "highlight_target": "play_01000000_01002016",
+        "highlight_type": "play",
+        "title": "打渔杀家",
+        "play_id": "play_01000000_01002016",
+        "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+        "version_id": "version_01000000_01002016",
+        "cluster_id": null,
+        "chunk_id": null,
+        "role_name": null,
+        "role_type": null,
+        "source_name": "戏考",
+        "evidence_section": null
+      },
+      {
+        "evidence_no": 2,
+        "source_type": "text_chunk",
+        "raw_source_type": "text_chunk",
+        "source_id": "chunk_dbcb39e42a2f_dbcb39",
+        "display_text": "《打渔杀家》，段落：注释/根据，剧本中以阮小五为萧恩，或系阮之隐名。 根据《戏考》第二册整理。剧本中以阮小五为萧恩，或系阮之隐名。, 萧恩, 萧桂英, 大教师, 李俊, 阮小五, 顶珠, 烟蓑雨笠, 丁某, 萧恩, 萧桂英, 大教师, 李俊, 倪荣, note, 注释/根据, 根据《戏考》第二册整理。剧本中以阮小五为萧恩，或系阮之隐名。",
+        "highlight_target": "play_01000000_01002016",
+        "highlight_type": "play",
+        "title": "打渔杀家",
+        "play_id": "play_01000000_01002016",
+        "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+        "version_id": "version_01000000_01002016",
+        "cluster_id": null,
+        "chunk_id": "chunk_dbcb39e42a2f_dbcb39",
+        "role_name": [
+          "萧恩",
+          "萧桂英",
+          "大教师",
+          "李俊",
+          "倪荣"
+        ],
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "注释/根据"
+      },
+      {
+        "evidence_no": 3,
+        "source_type": "play",
+        "raw_source_type": "nebula_node",
+        "source_id": "play_01000000_01002016",
+        "display_text": "《打渔杀家》，来源：戏考，打渔杀家, 水浒, 家庭伦理, 历史, 萧恩, 萧桂英, 大教师, 李俊, 倪荣, 戏考, 丑: 1, 净: 1, 旦: 1, 老生: 2, 主题：水浒、家庭伦理、历史；行当结构：丑、净、旦、老生；版本数：4。",
+        "highlight_target": "play_01000000_01002016",
+        "highlight_type": "play",
+        "title": "打渔杀家",
+        "play_id": "play_01000000_01002016",
+        "play_group_id": "group_da_yu_sha_jia_7b4cfd",
+        "version_id": "version_01000000_01002016",
+        "cluster_id": "cluster_graph_06",
+        "chunk_id": null,
+        "role_name": null,
+        "role_type": null,
+        "source_name": "戏考",
+        "evidence_section": null
+      }
+    ],
+    "highlight_targets": [
+      {
+        "target_id": "play_01000000_01002016",
+        "target_type": "play",
+        "label": "打渔杀家"
+      }
+    ],
+    "suggested_questions": [
+      "《打渔杀家》的其他版本是否还有不同的来源依据？",
+      "该剧目改编自《水浒传》的具体情节有哪些？",
+      "萧恩这一角色在不同版本中有何变化？"
+    ]
+  },
+  {
+    "question": "旦角为主的剧目有哪些特点？",
+    "aliases": [],
+    "answer": "结论：\n旦角为主的剧目通常以唱工为核心，尤其注重老旦行当的表演。《望儿楼》和《太君辞朝》是典型例子。\n\n依据：\n《望儿楼》被标注为老旦单身重头之剧，纯以唱工为主。\n《太君辞朝》的注释明确指出此剧为老旦唱工戏，并强调辞朝场中的快三眼唱段具有声容并茂的特点。\n\n可继续探索：\n1. 《太君辞朝》的快三眼唱段具体表现了哪些情感？\n2. 是否有其他剧目也以老旦行当为主？\n3. 不同版本的《望儿楼》在唱工设计上有何差异？",
+    "evidence": [
+      {
+        "evidence_no": 1,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_82c44e2bd0c1_82c44e",
+        "display_text": "《望儿楼》，段落：注释/根据，此系老旦单身重头之剧，纯以唱工为主。 根据《戏考》第十八册整理。此系老旦单身重头之剧，纯以唱工为主。",
+        "highlight_target": "play_01000000_01018004",
+        "highlight_type": "play",
+        "title": "望儿楼",
+        "play_id": "play_01000000_01018004",
+        "play_group_id": "group_wang_er_lou_ba98cf",
+        "version_id": "version_01000000_01018004",
+        "cluster_id": null,
+        "chunk_id": "chunk_82c44e2bd0c1_82c44e",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "注释/根据"
+      },
+      {
+        "evidence_no": 2,
+        "source_type": "text_chunk",
+        "raw_source_type": "vector_chunk",
+        "source_id": "chunk_b0e17dbccaa4_b0e17d",
+        "display_text": "《太君辞朝》，段落：注释/根据，此剧为老旦唱工戏。昔年龚云甫最拿手。坤伶苗鑫如，颇能得其真传。余亦曾屡见之。余最爱其辞朝场中之 快三眼一段，声容并茂，真有气旺神流之致。今虽男伶中，亦不多觐。 根据《戏考》第三十九册整理。此剧为老旦唱工戏。昔年龚云甫最拿手。坤伶苗鑫如，颇能得其真传。余亦曾屡见之。余最爱其辞朝场中之快三眼一段，声容并茂，真有气旺神流之致。今虽男伶中，亦不多觐。",
+        "highlight_target": "play_01000000_01039004",
+        "highlight_type": "play",
+        "title": "太君辞朝",
+        "play_id": "play_01000000_01039004",
+        "play_group_id": "group_tai_jun_ci_chao_6cbe96",
+        "version_id": "version_01000000_01039004",
+        "cluster_id": null,
+        "chunk_id": "chunk_b0e17dbccaa4_b0e17d",
+        "role_name": null,
+        "role_type": null,
+        "source_name": null,
+        "evidence_section": "注释/根据"
+      }
+    ],
+    "highlight_targets": [
+      {
+        "target_id": "play_01000000_01018004",
+        "target_type": "play",
+        "label": "望儿楼"
+      },
+      {
+        "target_id": "play_01000000_01039004",
+        "target_type": "play",
+        "label": "太君辞朝"
+      }
+    ],
+    "suggested_questions": [
+      "《太君辞朝》的快三眼唱段具体表现了哪些情感？",
+      "是否有其他剧目也以老旦行当为主？",
+      "不同版本的《望儿楼》在唱工设计上有何差异？"
+    ]
+  }
+]

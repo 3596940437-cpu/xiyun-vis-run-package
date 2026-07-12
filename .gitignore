@@ -1,0 +1,30 @@
+# Local environments and Python caches
+backend/.venv/
+**/__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+backend/.env
+
+# Generated vector indexes exceed GitHub's file-size limit.
+backend/vector_indexes/
+
+# Optional full-text corpus. The application falls back to the bundled
+# structured data when this local, derived file is unavailable.
+data/derived/v3_final/text_chunks.json
+frontend/src/data/derived/v3_final/text_chunks.json
+
+# Local previews, build output, and temporary files
+tmp/
+output/
+output_poster/
+tex/build/
+tex/*.aux
+tex/*.log
+tex/*.out
+tex/*.synctex.gz
+
+# Personal contribution records are not published.
+小组成员贡献表_已填写.doc
+期末提交材料/
