@@ -30,6 +30,8 @@ git clone https://github.com/3596940437-cpu/xiyun-vis-run-package.git
 
 克隆完成后，确认 `backend\vector_indexes\rag_chunks_bge_m3\embeddings.npy` 的文件大小约为 156 MB；若它只有几百字节，请在项目目录执行 `git lfs pull`。
 
+不使用 Git 的情况下，直接下载并解压[完整运行包 v1.0.0](https://github.com/3596940437-cpu/xiyun-vis-run-package/releases/download/v1.0.0/xiyun-vis-run-package-full-v1.0.0.zip)，然后运行 `start-web.bat`。
+
 ## 重装依赖
 
 如果换了 Python 版本或依赖损坏：
