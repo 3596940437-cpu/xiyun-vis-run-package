@@ -3,6 +3,7 @@
 完整向量索引通过 Git LFS 保存；Release 压缩包已包含全部数据。
 
 所以main 可以用，但要用 Git LFS 克隆：
+
 git lfs install
 git clone https://github.com/3596940437-cpu/xiyun-vis-run-package.git
 
